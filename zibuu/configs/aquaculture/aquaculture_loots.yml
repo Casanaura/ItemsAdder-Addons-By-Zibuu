@@ -1,0 +1,228 @@
+info:
+  namespace: aquaculture
+# Plantilla
+#    itemName:
+#      items:
+#        itemName:
+#          item: aquaculture:itemName
+#          min_amount: 1
+#          max_amount: 1
+#          chance: 50.0
+loots:
+  fishing:
+    fish:
+      items:
+        arapaima:
+          item: aquaculture:arapaima
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        arrauturtle:
+          item: aquaculture:arrauturtle
+          min_amount: 1
+          max_amount: 1
+          chance: 0.1
+        atlanticcod:
+          item: aquaculture:atlanticcod
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        atlantichalibut:
+          item: aquaculture:atlantichalibut
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        atlanticherring:
+          item: aquaculture:atlanticherring
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        bayad:
+          item: aquaculture:bayad
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        blackfish:
+          item: aquaculture:blackfish
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        bluegill:
+          item: aquaculture:bluegill
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        boulti:
+          item: aquaculture:boulti
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        boxturtle:
+          item: aquaculture:boxturtle
+          min_amount: 1
+          max_amount: 1
+          chance: 0.1
+        brownshrooma:
+          item: aquaculture:brownshrooma
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        browntrout:
+          item: aquaculture:browntrout
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        capitaine:
+          item: aquaculture:capitaine
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        carp:
+          item: aquaculture:carp
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        catfish:
+          item: aquaculture:catfish
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        gar:
+          item: aquaculture:gar
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        goldfish:
+          item: aquaculture:goldfish
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        jellyfish:
+          item: aquaculture:jellyfish
+          min_amount: 1
+          max_amount: 1
+          chance: 10.0
+        minnow:
+          item: aquaculture:minnow
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        muskellunge:
+          item: aquaculture:muskellunge
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        pacifichalibut:
+          item: aquaculture:pacifichalibut
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        perch:
+          item: aquaculture:perch
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        pinksalmon:
+          item: aquaculture:pinksalmon
+          min_amount: 1
+          max_amount: 1
+          chance: 0.5
+        piranha:
+          item: aquaculture:piranha
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        pollock:
+          item: aquaculture:pollock
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        rainbowtrout:
+          item: aquaculture:rainbowtrout
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        redgrouper:
+          item: aquaculture:redgrouper
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        redshrooma:
+          item: aquaculture:redshrooma
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        smallmouthbass:
+          item: aquaculture:smallmouthbass
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        starshellturtle:
+          item: aquaculture:starshellturtle
+          min_amount: 1
+          max_amount: 1
+          chance: 0.1
+        synodontis:
+          item: aquaculture:synodontis
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        tambaqui:
+          item: aquaculture:tambaqui
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        tuna:
+          item: aquaculture:tuna
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+    nonfish:
+      items:
+        algae:
+          item: aquaculture:algae
+          min_amount: 1
+          max_amount: 1
+          chance: 80.0
+        driftwood:
+          item: aquaculture:driftwood
+          min_amount: 1
+          max_amount: 1
+          chance: 80.0
+        fishbones:
+          item: aquaculture:fishbones
+          min_amount: 1
+          max_amount: 1
+          chance: 70.0
+        leech:
+          item: aquaculture:leech
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        messageinabottle:
+          item: aquaculture:messageinabottle
+          min_amount: 1
+          max_amount: 1
+          chance: 0.5
+        tincan:
+          item: aquaculture:tincan
+          min_amount: 1
+          max_amount: 1
+          chance: 5.0
+        treasurechest:
+          item: aquaculture:treasurechest
+          min_amount: 1
+          max_amount: 1
+          chance: 0.1
+    neptunium:
+      items:
+        neptuniumingot:
+          item: aquaculture:neptuniumingot
+          min_amount: 1
+          max_amount: 2
+          chance: 1.0
+        neptuniumnugget:
+          item: aquaculture:neptuniumnugget
+          min_amount: 1
+          max_amount: 3
+          chance: 1.0

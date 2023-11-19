@@ -1,0 +1,76 @@
+info:
+  namespace: aquaculture
+
+categories:
+  aquaculture:
+    enabled: true
+    name: "Cultura Acuática"
+    icon: aquaculture:jellyfish
+    items:
+    # Cosos que se pueden pescar
+    - aquaculture:algae
+    - aquaculture:arapaima
+    - aquaculture:arrauturtle
+    - aquaculture:atlanticcod
+    - aquaculture:atlatichalibut
+    - aquaculture:atlanticherring
+    - aquaculture:bayad
+    - aquaculture:blackfish
+    - aquaculture:bluegill
+    - aquaculture:boulti
+    - aquaculture:boxturtle
+    - aquaculture:brownshrooma
+    - aquaculture:browntrout
+    - aquaculture:capitaine
+    - aquaculture:carp
+    - aquaculture:catfish
+    - aquaculture:driftwood
+    - aquaculture:fishbones
+    - aquaculture:fishfilletcooked
+    - aquaculture:fishfilletraw
+    - aquaculture:gar
+    - aquaculture:goldfish
+    - aquaculture:jellyfish
+    - aquaculture:leech
+    - aquaculture:messageinabottle
+    - aquaculture:minnow
+    - aquaculture:muskellunge
+    - aquaculture:pacifichalibut
+    - aquaculture:perch
+    - aquaculture:pinksalmon
+    - aquaculture:piranha
+    - aquaculture:pollock
+    - aquaculture:rainbowtrout
+    - aquaculture:redgrouper
+    - aquaculture:redshrooma
+    - aquaculture:smallmouthbass
+    - aquaculture:starshellturtle
+    - aquaculture:synodontis
+    - aquaculture:tambaqui
+    - aquaculture:tincan
+    - aquaculture:treasurechest
+    - aquaculture:tuna
+    # Neptunium
+    - aquaculture:neptuniumingot
+    - aquaculture:neptuniumnugget
+    # Armaduras
+    - aquaculture:neptuniumboots
+    - aquaculture:neptuniumchestplate
+    - aquaculture:neptuniumhelmet
+    - aquaculture:neptuniumleggings
+    # Herramientas
+    - aquaculture:neptuniumaxe
+    - aquaculture:neptuniumhoe
+    - aquaculture:neptuniumpickaxe
+    - aquaculture:neptuniumshovel
+    - aquaculture:neptuniumsword
+    - aquaculture:neptuniumbow
+    - aquaculture:neptuniumfishingrod
+    # Cañas de pescar y anzuelos
+    - aquaculture:diamondfishingrod
+    - aquaculture:diamondhook
+    - aquaculture:goldfishingrod
+    - aquaculture:goldhook
+    - aquaculture:ironfishingrod
+    - aquaculture:ironhook
+    - aquaculture:netherstarhook

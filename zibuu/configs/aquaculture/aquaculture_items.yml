@@ -1,0 +1,1208 @@
+info:
+  namespace: aquaculture
+
+# Plantilla
+#  itemName:
+#    display_name: display-name-itemName
+#    lore:
+#    - '&f'
+#    - '&8Cultura Acuática'
+#    resource:
+#      generate: false
+#      material: SALMON
+#      model_path: item/itemName
+#    durability:
+#      disappear_when_broken: true
+#      usages: 1
+#    events:
+#      eat:
+#        decrement_amount:
+#          amount: 1
+#        feed:
+#          amount: 2
+#          saturation: 2
+#        play_sound:
+#          delay: 0
+#          name: minecraft:entity.generic.eat
+items:
+  # Cosos que se pueden pescar
+  algae:
+    display_name: display-name-algae
+    lore:
+    - '&f'
+    - '&9Muy nutritiva'
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      model_path: item/algae
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  arapaima:
+    display_name: display-name-arapaima
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/arapaima
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  arrauturtle:
+    display_name: display-name-arrauturtle
+    lore:
+    - '&f'
+    - '&9En peligro de extinción'
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/arrau_turtle
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  atlanticcod:
+    display_name: display-name-atlanticcod
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/atlantic_cod
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  atlantichalibut:
+    display_name: display-name-atlanticthalibut
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/atlantic_halibut
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  atlanticherring:
+    display_name: display-name-atlanticherring
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/atlantic_herring
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  bayad:
+    display_name: display-name-bayad
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/bayad
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  blackfish:
+    display_name: display-name-blackfish
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/blackfish
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  bluegill:
+    display_name: display-name-bluegill
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/bluegill
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  boulti:
+    display_name: display-name-boulti
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/boulti
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  boxturtle:
+    display_name: display-name-boxturtle
+    lore:
+    - '&f'
+    - '&9En peligro de extinción'
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/box_turtle
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  brownshrooma:
+    display_name: display-name-brownshrooma
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/brown_shrooma
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  browntrout:
+    display_name: display-name-browntrout
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/brown_trout
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  capitaine:
+    display_name: display-name-capitaine
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/capitaine
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  carp:
+    display_name: display-name-carp
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/carp
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  catfish:
+    display_name: display-name-catfish
+    lore:
+    - '&f'
+    - '&9Miau'
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/catfish
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  driftwood:
+    display_name: display-name-driftwood
+    lore:
+    - '&f'
+    - '&9¿Será de un barco hundido?'
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: PAPER
+      model_path: item/driftwood
+  fishbones:
+    display_name: display-name-fishbones
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/fish_bones
+  fishfilletcooked:
+    display_name: display-name-fishfilletcooked
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/fish_fillet_cooked
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 10
+          saturation: 10
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  fishfilletraw:
+    display_name: display-name-fishfilletraw
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/fish_fillet_raw
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  gar:
+    display_name: display-name-gar
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/gar
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  goldfish:
+    display_name: display-name-goldfish
+    lore:
+    - '&f'
+    - '&9Mamahuevo, digo; gluglu'
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/goldfish
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  jellyfish:
+    display_name: display-name-jellyfish
+    lore:
+    - '&f'
+    - '&9Pegajosa y viscosa...'
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: PAPER
+      model_path: item/jellyfish
+  leech:
+    display_name: display-name-leech
+    lore:
+    - '&f'
+    - '&9Te voy a chupar...'
+    - '&9La sangre.'
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/leech
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  messageinabottle:
+    display_name: display-name-messageinabottle
+    lore:
+    - '&f'
+    - '&9¿Cuánto tiempo tendrá en el agua?'
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: PAPER
+      model_path: item/message_in_a_bottle
+  minnow:
+    display_name: display-name-minnow
+    lore:
+    - '&f'
+    - '&9Chiquito, como tú comprenderás'
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/minnow
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  muskellunge:
+    display_name: display-name-muskellunge
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/muskellunge
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  pacifichalibut:
+    display_name: display-name-pacifichalibut
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/pacific_halibut
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  perch:
+    display_name: display-name-perch
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/perch
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  pinksalmon:
+    display_name: display-name-pinksalmon
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/pink_salmon
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  piranha:
+    display_name: display-name-piranha
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/piranha
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  pollock:
+    display_name: display-name-pollock
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/pollock
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  rainbowtrout:
+    display_name: display-name-rainbowtrout
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/rainbow_trout
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  redgrouper:
+    display_name: display-name-redgrouper
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/red_grouper
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  redshrooma:
+    display_name: display-name-redshrooma
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/red_shrooma
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  smallmouthbass:
+    display_name: display-name-smallmouthbass
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/smallmouth_bass
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  starshellturtle:
+    display_name: display-name-starshellturtle
+    lore:
+    - '&f'
+    - '&9En peligro de extinción'
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/starshell_turtle
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  synodontis:
+    display_name: display-name-synodontis
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/synodontis
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  tambaqui:
+    display_name: display-name-tambaqui
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/tambaqui
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  tincan:
+    display_name: display-name-tincan
+    lore:
+    - '&f'
+    - '&9¡No tires basura!'
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/tin_can
+  treasurechest:
+    display_name: display-name-treasurechest
+    lore:
+    - '&f'
+    - '&9¿Qué pirata enterró esto?'
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/treasure_chest
+  tuna:
+    display_name: display-name-tuna
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: SALMON
+      model_path: item/tuna
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+  # Neptunium
+  neptuniumingot:
+    display_name: display-name-neptuniumingot
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: PAPER
+      model_path: item/neptunium_ingot
+  neptuniumnugget:
+    display_name: display-name-neptuniumnugget
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: PAPER
+      model_path: item/neptunium_nugget
+  # Armadura
+  neptuniumboots:
+    display_name: display-name-neptuniumboots
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      model_path: item/neptunium_boots
+    durability:
+      max_custom_durability: 1000
+    specific_properties:
+      armor:
+        slot: feet
+        custom_armor: neptuniumarmor
+    attribute_modifiers:
+      feet:
+        armor: 5
+        armorToughness: 5
+        maxHealth: 5.0
+    enchants:
+      - WATER_WORKER:1
+      - MENDING:1
+  neptuniumchestplate:
+    display_name: display-name-neptuniumchestplate
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      model_path: item/neptunium_chestplate
+    durability:
+      max_custom_durability: 1000
+    specific_properties:
+      armor:
+        slot: chest
+        custom_armor: neptuniumarmor
+    attribute_modifiers:
+      chest:
+        armor: 10
+        armorToughness: 5
+        maxHealth: 5.0
+    enchants:
+      - WATER_WORKER:1
+      - MENDING:1
+  neptuniumhelmet:
+    display_name: display-name-neptuniumhelmet
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      model_path: item/neptunium_helmet
+    durability:
+      max_custom_durability: 1000
+    specific_properties:
+      armor:
+        slot: head
+        custom_armor: neptuniumarmor
+    attribute_modifiers:
+      head:
+        armor: 5
+        armorToughness: 5
+        maxHealth: 5.0
+    enchants:
+      - WATER_WORKER:1
+      - OXYGEN:5
+      - MENDING:1
+  neptuniumleggings:
+    display_name: display-name-neptuniumleggings
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      model_path: item/neptunium_leggings
+    durability:
+      max_custom_durability: 1000
+    specific_properties:
+      armor:
+        slot: legs
+        custom_armor: neptuniumarmor
+    attribute_modifiers:
+      legs:
+        armor: 8
+        armorToughness: 5
+        maxHealth: 5.0
+    enchants:
+      - WATER_WORKER:1
+      - MENDING:1
+  # Herramientas
+  neptuniumaxe:
+    display_name: display-name-neptuniumaxe
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: DIAMOND_AXE
+      model_path: item/neptunium_axe
+    durability:
+      max_custom_durability: 1000
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 12.0
+        attackSpeed: 2.0
+        attackKnockback: 1.0
+    enchants:
+      - MENDING:1
+  neptuniumhoe:
+    display_name: display-name-neptuniumhoe
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: DIAMOND_HOE
+      model_path: item/neptunium_hoe
+    durability:
+      max_custom_durability: 1000
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 3.0
+        attackSpeed: 4.0
+        attackKnockback: 1.0
+    enchants:
+      - MENDING:1
+  neptuniumpickaxe:
+    display_name: display-name-neptuniumpickaxe
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: DIAMOND_PICKAXE
+      model_path: item/neptunium_pickaxe
+    durability:
+      max_custom_durability: 1000
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 8.0
+        attackSpeed: 2.0
+        attackKnockback: 1.0
+    enchants:
+      - MENDING:1
+  neptuniumshovel:
+    display_name: display-name-neptuniumshovel
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: DIAMOND_SHOVEL
+      model_path: item/neptunium_shovel
+    durability:
+      max_custom_durability: 1000
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 8.5
+        attackSpeed: 2.0
+        attackKnockback: 1.0
+    enchants:
+      - MENDING:1
+  neptuniumsword:
+    display_name: display-name-neptuniumsword
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: DIAMOND_SWORD
+      model_path: item/neptunium_sword
+    durability:
+      max_custom_durability: 1000
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 10.0
+        attackSpeed: 3.5
+        attackKnockback: 1.0
+    enchants:
+      - MENDING:1
+  neptuniumbow:
+    display_name: display-name-neptuniumbow
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: BOW
+      model_path: item/neptunium_bow
+    durability:
+      max_custom_durability: 1000
+    enchants:
+      - MENDING:1
+  neptuniumfishingrod:
+    display_name: display-name-neptuniumfishingrod
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: FISHING_ROD
+      model_path: item/neptunium_fishing_rod
+    durability:
+      max_custom_durability: 1000
+    enchants:
+      - MENDING:1
+      - LURE:10
+      - LUCK:10
+  # Cañas de pescar y anzuelos
+  diamondfishingrod:
+    display_name: display-name-diamondfishingrod
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: FISHING_ROD
+      model_path: item/diamond_fishing_rod
+    durability:
+      max_custom_durability: 500
+    enchants:
+      - LURE:7
+      - LUCK:7
+  diamondhook:
+    display_name: display-name-diamondhook
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: PAPER
+      model_path: item/diamond_hook
+  goldfishingrod:
+    display_name: display-name-goldfishingrod
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: FISHING_ROD
+      model_path: item/gold_fishing_rod
+    durability:
+      max_custom_durability: 100
+    enchants:
+      - LURE:5
+      - LUCK:5
+  goldhook:
+    display_name: display-name-goldhook
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: PAPER
+      model_path: item/gold_hook
+  ironfishingrod:
+    display_name: display-name-ironfishingrod
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: FISHING_ROD
+      model_path: item/iron_fishing_rod
+    durability:
+      max_custom_durability: 200
+    enchants:
+      - LURE:3
+      - LUCK:3
+  ironhook:
+    display_name: display-name-ironhook
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: PAPER
+      model_path: item/iron_hook
+  netherstarhook:
+    display_name: display-name-netherstarhook
+    lore:
+    - '&f'
+    - '&8Cultura Acuática'
+    resource:
+      generate: false
+      material: PAPER
+      model_path: item/nether_star_hook
