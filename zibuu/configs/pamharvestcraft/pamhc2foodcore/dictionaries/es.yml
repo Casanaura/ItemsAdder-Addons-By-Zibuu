@@ -1,0 +1,193 @@
+#   CRÉDITOS:
+#
+#   Traducido por: Kissadere
+#   Twitter: @Kissadere
+#   E-mail: kissadere@zibuu.net
+#   Website: https://studio.zibuu.net/
+#
+info:
+    namespace: pamhc2foodcore
+    dictionary-lang: "es"
+dictionary:
+    # Category & Lore
+    display-category-name-foodcore: 'Aperitivos y Comidas'
+    display-lore-category-name-foodcore: '&8Aperitivos y Comidas'
+    display-lore-category-name-kitchen: '&8Utencilios de cocina'
+    # Food (Core)
+    display-name-applejellyitem: Jalea de manzana
+    display-name-applejellytoastitem: Tostada de jalea de manzana
+    display-name-applejuiceitem: Zumo de manzana
+    display-name-applepieitem: Pie de manzana
+    display-name-applesauceitem: Puré de manzana
+    display-name-applesmoothieitem: Batido de manzana
+    display-name-appleyogurtitem: Yogurt de manzana
+    display-name-baconandeggsitem: Huevos con tocino
+    display-name-baconcheeseburgeritem: Hamburguesa de queso con tocino
+    display-name-bakedarrowrootitem: Arruruz horneado
+    display-name-bakedcassavaitem: Mandioca horneada
+    display-name-bakedjicamaitem: Jícama horneada
+    display-name-bakedparsnipitem: Chirivia horneada
+    display-name-bakedrutabagaitem: Nabo sueco horneado
+    display-name-bakedsunchokeitem: Alcachofa horneada
+    display-name-bakedsweetpotatoitem: Camote horneado
+    display-name-bakedtaroitem: Taro horneado
+    display-name-bakedturnipitem: Nabo horneado
+    display-name-bakedvegetablemedlyitem: Verduras al horno
+    display-name-bakedwaterchestnutitem: Castaña a horneada
+    display-name-basiccheeseburgeritem: Hamburguesa con queso
+    display-name-basicchickensandwichitem: Sandwich
+    display-name-basicfishsandwichitem: Sandwich de pescado
+    display-name-basichamburgeritem: Hamburguesa
+    display-name-batteritem: Masa
+    display-name-beefjerkyitem: Carne seca
+    display-name-boiledeggitem: Huevos hervidos
+    display-name-butteredbakedpotatoitem: Patata al horno con mantequilla
+    display-name-butteritem: Mantequilla
+    display-name-caramelappleitem: Manzana caramelizada
+    display-name-caramelcupcakeitem: Cupcake de caramelo
+    display-name-caramelicecreamitem: Helado de caramelo
+    display-name-caramelitem: Caramelo
+    display-name-caramelmuffinitem: Muffin de caramelo
+    display-name-caramelyogurtitem: Yogurt de caramelo
+    display-name-carrotbreaditem: Pan de zanahoria
+    display-name-carrotcakeitem: Pastel de zanahoria
+    display-name-carrotcupcakeitem: Cupcake de zanahoria
+    display-name-carrotmuffinitem: Muffin de zanahoria
+    display-name-carrotsoupitem: Sopa de zanahoria
+    display-name-cheesecakeitem: Cheesecake
+    display-name-cheeseitem: Queso
+    display-name-chickendinneritem: Guisado de pollo
+    display-name-chickenjerkyitem: Cecina de pollo
+    display-name-chickennuggetitem: Nuget de pollo
+    display-name-chickenpotpieitem: Pastel de pollo
+    display-name-chocolatebaconitem: Tocino de chocolate
+    display-name-chocolatebaritem: Barra de chocolate
+    display-name-chocolatecakeitem: Pastel de chocolate
+    display-name-chocolatecaramelfudgeitem: Dulce de chocolate y caramelo
+    display-name-chocolatecupcakeitem: Cupcake de chocolate
+    display-name-chocolatedonutitem: Dona de chocolate
+    display-name-chocolateicecreamitem: Helado de chocolate
+    display-name-chocolatemilkitem: Chocomilk
+    display-name-chocolatemilkshakeitem: Malteada de chocolate
+    display-name-chocolatemuffinitem: Muffin de chocolate
+    display-name-chocolatepuddingitem: Pudding de chocolate
+    display-name-chocolaterollitem: Rollo de chocolate
+    display-name-chocolateyogurtitem: Yogurt de chocolate
+    display-name-cocoapowderitem: Chocolate en polvo
+    display-name-cookedgroundbeefitem: Carne molida cocida
+    display-name-cookedgroundchickenitem: Pollo molido cocido
+    display-name-cookedgroundfishitem: Pescado molido cocido
+    display-name-cookedgroundmuttonitem: Cordero molido cocido
+    display-name-cookedgroundporkitem: Cerdo molido cocido
+    display-name-cookedgroundrabbititem: Conejo molido cocido
+    display-name-cookiesandmilkitem: Galletas con leche
+    display-name-cookingoilitem: Aceite de cocina
+    display-name-cottoncandyitem: Algodón de azúcar
+    display-name-crackeritem: Galleta salada
+    display-name-creamitem: Crema
+    display-name-donutitem: Dona
+    display-name-doughitem: Masa
+    display-name-epicbaconitem: Tocino mágico
+    display-name-fishandchipsitem: Pescado con papas
+    display-name-fishjerkyitem: Cecina de pescado
+    display-name-fishsticksitem: Palitos de pescado
+    display-name-flouritem: Harina
+    display-name-freshmilkitem: Leche fresca
+    display-name-freshwateritem: Agua fresca
+    display-name-friedchickenitem: Pollo frito
+    display-name-friedeggitem: Huevo frito
+    display-name-friesitem: Papas a la francesa
+    display-name-fruitcrumbleitem: Crumble de frutas
+    display-name-fruitpunchitem: Ponche de frutas
+    display-name-fruitsaladitem: Ensalada de frutas
+    display-name-glazedcarrotsitem: Zanahorias glaseadas
+    display-name-glowberryjellyitem: Jalea de baya luminosa
+    display-name-glowberryjellytoastitem: Tostada de jalea luminosa
+    display-name-glowberryjuiceitem: Zumo de baya luminosa
+    display-name-glowberrypieitem: Pie de baya luminosa
+    display-name-glowberrysmoothieitem: Batido de baya luminosa
+    display-name-glowberryyogurtitem: Yogurt de baya luminosa
+    display-name-grilledcheeseitem: Queso a la parrilla
+    display-name-groundbeefitem: Carne molida
+    display-name-groundchickenitem: Pollo molido
+    display-name-groundfishitem: Pescado molido
+    display-name-groundmuttonitem: Cordero molido
+    display-name-groundporkitem: Cerdo molido
+    display-name-groundrabbititem: Conejo molido
+    display-name-gummybearsitem: Panditas
+    display-name-hotchocolateitem: Chocolate caliente
+    display-name-hotcoffeeitem: Café caliente
+    display-name-hotdogitem: Hotdog
+    display-name-hotnettleteaitem: Té de hortiga
+    display-name-hotteaitem: Té verde
+    display-name-icecreamitem: Helado
+    display-name-jellybeansitem: Jellybeans
+    display-name-jellydonutitem: Dona de jalea
+    display-name-macncheeseitem: Macarrones con queso
+    display-name-marshmellowchicksitem: Pollitos de bombón
+    display-name-marshmellowsitem: Bombones
+    display-name-mashedpotatoesitem: Pué de papa
+    display-name-mayonaiseitem: Mayonesa
+    display-name-meatloafitem: Pastel de carne
+    display-name-melonjellyitem: Jalea de sandía
+    display-name-melonjellytoastitem: Tostada de jalea de sandía
+    display-name-melonjuiceitem: Zumo de sandía
+    display-name-melonsmoothieitem: Batido de melón
+    display-name-melonyogurtitem: Yogurt de melón
+    display-name-muttonjerkyitem: Carne seca de cordero
+    display-name-noodlesitem: Fideos
+    display-name-noodlesoupitem: Sopa de fideo
+    display-name-p8juiceitem: Elixir
+    display-name-pastaitem: Pasta
+    display-name-pickledbeetsitem: Remolachas con escabeche
+    display-name-porkjerkyitem: Carne seca de puerco
+    display-name-potatochipsitem: Papitas
+    display-name-potatosaladitem: Ensalada de papa
+    display-name-potatosoupitem: Sopa de papa
+    display-name-potroastitem: Caldo de pollo
+    display-name-pumpkinbreaditem: Pan de calabaza
+    display-name-pumpkincheesecakeitem: Cheesecake de calabaza
+    display-name-pumpkincupcakeitem: Cupcake de calabaza
+    display-name-pumpkinmuffinitem: Muffin de calabaza
+    display-name-pumpkinsoupitem: Sopa de calabaza
+    display-name-pumpkinyogurtitem: Yogurt de calabaza
+    display-name-rabbitjerkyitem: Carne seca de conejo
+    display-name-roastedgarlicitem: Ajo rostizado
+    display-name-roastedkohlrabiitem: Colinabo rostizado
+    display-name-roastedleekitem: Puero rostizado
+    display-name-roastedmushroomitem: Seta rostizada
+    display-name-roastedonionitem: Cebolla rostizada
+    display-name-roastedpeanutitem: Cacahuate rostizado
+    display-name-roastedradishitem: Rábano rostizado
+    display-name-roastedrhubarbitem: Ruibardo rostizado
+    display-name-roastedscallionitem: Cebollín rostizado
+    display-name-roastedsunflowerseedsitem: Semillas de girasol rostizadas
+    display-name-saltitem: Sal
+    display-name-scrambledeggitem: Huevos revueltos
+    display-name-smoresitem: Mordisco
+    display-name-softpretzelitem: Pretzel
+    display-name-stewitem: Estofado
+    display-name-stockitem: Consomé
+    display-name-sunflowerseedsitem: Semillas de girasol
+    display-name-sweetberryjellyitem: Jalea de bayas
+    display-name-sweetberryjellytoastitem: Tostada de jalea de bayas
+    display-name-sweetberryjuiceitem: Zumo de bayas
+    display-name-sweetberrypieitem: Pay de bayas
+    display-name-sweetberrysmoothieitem: Batido de bayas
+    display-name-sweetberryyogurtitem: Yogurt de bayas
+    display-name-toastitem: Tostada
+    display-name-trailmixitem: Frutos secos
+    display-name-vinegaritem: Vinagre
+    display-name-yogurtitem: Yogurt
+    # End of Food (Core)
+    # Materials
+    display-name-bakewareitem: Charola para hornear
+    display-name-cuttingboarditem: Tabla para cortar
+    display-name-grinderitem: Machacador
+    display-name-juiceritem: Exprimidor
+    display-name-mixingbowlitem: Molcajete
+    display-name-potitem: Olla
+    display-name-rolleritem: Rodillo
+    display-name-saucepanitem: Cacerola
+    display-name-skilletitem: Sartén
+    # End of Materials

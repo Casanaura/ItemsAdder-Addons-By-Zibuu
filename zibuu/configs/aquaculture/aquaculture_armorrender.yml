@@ -1,0 +1,9 @@
+info:
+  namespace: aquaculture
+
+armors_rendering:
+  neptuniumarmor:
+    color: "#03553e"
+    layer_1: armor/neptunium_layer_1
+    layer_2: armor/neptunium_layer_2
+    use_color: false

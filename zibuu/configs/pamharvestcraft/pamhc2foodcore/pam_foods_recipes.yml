@@ -1,0 +1,2281 @@
+info:
+  namespace: pamhc2foodcore
+
+recipes:
+  crafting_table:
+    applejelly:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: pamhc2foodcore:applejuiceitem
+        C: SUGAR
+      result:
+        amount: 1
+        item: pamhc2foodcore:applejellyitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+          saucepan:
+            item: pamhc2foodcore:saucepanitem
+            amount: 1
+
+    applejellytoast:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2foodcore:toastitem
+        C: pamhc2foodcore:applejellyitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:applejellytoastitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    applejuice:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:juiceritem
+        B: APPLE
+      result:
+        amount: 1
+        item: pamhc2foodcore:applejuiceitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         juicer:
+           item: pamhc2foodcore:juiceritem
+           amount: 1
+
+    applepie:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: SUGAR
+        C: APPLE
+        D: pamhc2foodcore:doughitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:applepieitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    applesauce:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: APPLE
+        D: SUGAR
+      result:
+        amount: 1
+        item: pamhc2foodcore:applesauceitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    applesmoothie:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:applejuiceitem
+        C: SNOWBALL
+      result:
+        amount: 1
+        item: pamhc2foodcore:applesmoothieitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    appleyogurt:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2foodcore:yogurtitem
+        C: APPLE
+      result:
+        amount: 1
+        item: pamhc2foodcore:appleyogurtitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    baconandeggs:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:skilletitem
+        B: EGG
+        C: PORKCHOP
+      result:
+        amount: 1
+        item: pamhc2foodcore:baconandeggsitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         skillet:
+           item: pamhc2foodcore:skilletitem
+           amount: 1
+
+    baconcheeseburger:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:skilletitem
+        B: pamhc2foodcore:groundbeefitem
+        C: pamhc2foodcore:mayonaiseitem
+        D: BREAD
+        E: PORKCHOP
+        F: pamhc2foodcore:cheeseitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:baconcheeseburgeritem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         skillet:
+           item: pamhc2foodcore:skilletitem
+           amount: 1
+
+    bakeware:
+      enabled: true
+      pattern:
+      - XXX
+      - AXA
+      - AAA
+      ingredients:
+        A: IRON_INGOT
+      result:
+        amount: 1
+        item: pamhc2foodcore:bakewareitem
+
+    basiccheeseburger:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:skilletitem
+        B: pamhc2foodcore:groundbeefitem
+        C: pamhc2foodcore:mayonaiseitem
+        D: BREAD
+        E: pamhc2foodcore:cheeseitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:basiccheeseburgeritem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         skillet:
+           item: pamhc2foodcore:skilletitem
+           amount: 1
+
+    basicchickensandwich:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:skilletitem
+        B: pamhc2foodcore:groundchickenitem
+        C: pamhc2foodcore:mayonaiseitem
+        D: BREAD
+      result:
+        amount: 1
+        item: pamhc2foodcore:basicchickensandwichitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         skillet:
+           item: pamhc2foodcore:skilletitem
+           amount: 1
+
+    basicfishsandwich:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:skilletitem
+        B: pamhc2foodcore:groundfishitem
+        C: pamhc2foodcore:mayonaiseitem
+        D: BREAD
+      result:
+        amount: 1
+        item: pamhc2foodcore:basicfishsandwichitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         skillet:
+           item: pamhc2foodcore:skilletitem
+           amount: 1
+
+    basichamburger:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:skilletitem
+        B: pamhc2foodcore:groundbeefitem
+        C: pamhc2foodcore:mayonaiseitem
+        D: BREAD
+      result:
+        amount: 1
+        item: pamhc2foodcore:basichamburgeritem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         skillet:
+           item: pamhc2foodcore:skilletitem
+           amount: 1
+
+    batter:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:flouritem
+        C: pamhc2foodcore:freshmilkitem
+        D: EGG
+      result:
+        amount: 2
+        item: pamhc2foodcore:batteritem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    beefjerky:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: BEEF
+        C: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:beefjerkyitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    boiledegg:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: EGG
+      result:
+        amount: 1
+        item: pamhc2foodcore:boiledeggitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    butter:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: pamhc2foodcore:freshmilkitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:butteritem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    butteredbakedpotato:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: BAKED_POTATO
+        C: pamhc2foodcore:butteritem
+        D: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:butteredbakedpotatoitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    caramel:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: SUGAR
+        C: pamhc2foodcore:freshmilkitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:caramelitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    caramelapple:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: pamhc2foodcore:caramelitem
+        C: APPLE
+      result:
+        amount: 1
+        item: pamhc2foodcore:caramelappleitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    caramelcupcake:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:caramelitem
+        C: pamhc2foodcore:doughitem
+      result:
+        amount: 4
+        item: pamhc2foodcore:caramelcupcakeitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    caramelicecream:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:caramelitem
+        C: pamhc2foodcore:icecreamitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:caramelicecreamitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    caramelmuffin:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: pamhc2foodcore:batteritem
+        C: pamhc2foodcore:caramelitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:caramelmuffinitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    caramelyogurt:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2foodcore:yogurtitem
+        C: pamhc2foodcore:caramelitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:caramelyogurtitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    carrotbread:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: CARROT
+        C: pamhc2foodcore:doughitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:carrotbreaditem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    carrotcake:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: CARROT
+        C: SUGAR
+        D: pamhc2foodcore:batteritem
+      result:
+        amount: 1
+        item: pamhc2foodcore:carrotcakeitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    carrotcupcake:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: CARROT
+        C: pamhc2foodcore:doughitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:carrotcupcakeitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    carrotmuffin:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: CARROT
+        C: pamhc2foodcore:batteritem
+      result:
+        amount: 1
+        item: pamhc2foodcore:carrotmuffinitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    carrotsoup:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: CARROT
+        C: pamhc2foodcore:stockitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:carrotsoupitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    cheese:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: pamhc2foodcore:freshmilkitem
+        C: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:cheeseitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    cheesecake:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: SUGAR
+        C: pamhc2foodcore:cheeseitem
+        D: pamhc2foodcore:batteritem
+      result:
+        amount: 1
+        item: pamhc2foodcore:cheesecakeitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    chickendinner:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2foodcore:friedchickenitem
+        C: pamhc2foodcore:mashedpotatoesitem
+        D: pamhc2trees:avocadoitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:chickendinneritem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    chickenjerky:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: CHICKEN
+        C: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:chickenjerkyitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    chickennugget:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: pamhc2foodcore:groundchickenitem
+        C: pamhc2foodcore:flouritem
+      result:
+        amount: 4
+        item: pamhc2foodcore:chickennuggetitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    chickenpotpie:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: CHICKEN
+        C: POTATO
+        D: CARROT
+        E: pamhc2foodcore:doughitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:chickenpotpieitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    chocolatebacon:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: pamhc2foodcore:chocolatebaritem
+        C: PORKCHOP
+      result:
+        amount: 1
+        item: pamhc2foodcore:chocolatebaconitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    chocolatebar:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: COCOA_BEANS
+      result:
+        amount: 1
+        item: pamhc2foodcore:chocolatebaritem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    chocolatecake:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: SUGAR
+        C: pamhc2foodcore:chocolatebaritem
+        D: pamhc2foodcore:batteritem
+      result:
+        amount: 1
+        item: pamhc2foodcore:chocolatecakeitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    chocolatecaramelfudge:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: pamhc2foodcore:chocolatebaritem
+        C: pamhc2foodcore:caramelitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:chocolatecaramelfudgeitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    chocolatecupcake:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:cocoapowderitem
+        C: pamhc2foodcore:doughitem
+      result:
+        amount: 4
+        item: pamhc2foodcore:chocolatecupcakeitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    chocolatedonut:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: pamhc2foodcore:cookingoilitem
+        C: pamhc2foodcore:batteritem
+        D: pamhc2foodcore:cocoapowderitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:chocolatedonutitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    chocolateicecream:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:icecreamitem
+        C: pamhc2foodcore:cocoapowderitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:chocolateicecreamitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    chocolatemilk:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:cocoapowderitem
+        C: pamhc2foodcore:freshmilkitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:chocolatemilkitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    chocolatemilkshake:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:cocoapowderitem
+        C: pamhc2foodcore:freshmilkitem
+        D: SNOWBALL
+      result:
+        amount: 1
+        item: pamhc2foodcore:chocolatemilkshakeitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    chocolatemuffin:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: pamhc2foodcore:cocoapowderitem
+        C: pamhc2foodcore:batteritem
+      result:
+        amount: 4
+        item: pamhc2foodcore:chocolatemuffinitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    chocolatepudding:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: pamhc2foodcore:cocoapowderitem
+        C: pamhc2foodcore:freshmilkitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:chocolatepuddingitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    chocolateroll:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: pamhc2foodcore:doughitem
+        C: pamhc2foodcore:cocoapowderitem
+        D: pamhc2foodcore:creamitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:chocolaterollitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    chocolateyogurt:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2foodcore:yogurtitem
+        C: pamhc2foodcore:cocoapowderitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:chocolateyogurtitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    cocoapowder:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:grinderitem
+        B: COCOA_BEANS
+      result:
+        amount: 1
+        item: pamhc2foodcore:cocoapowderitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         grinder:
+           item: pamhc2foodcore:grinderitem
+           amount: 1
+
+    cookiesandmilk:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:freshmilkitem
+        C: COOKIE
+      result:
+        amount: 1
+        item: pamhc2foodcore:cookiesandmilkitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    cookingoil:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:rolleritem
+        B: pamhc2crops:peanutitem
+      result:
+        amount: 2
+        item: pamhc2foodcore:cookingoilitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         roller:
+           item: pamhc2foodcore:rolleritem
+           amount: 1
+
+    cottoncandy:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: SUGAR
+      result:
+        amount: 1
+        item: pamhc2foodcore:cottoncandyitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    cracker:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: pamhc2foodcore:saltitem
+        C: pamhc2foodcore:flouritem
+      result:
+        amount: 1
+        item: pamhc2foodcore:crackeritem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    cream:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:freshmilkitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:creamitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    cuttingboard:
+      enabled: true
+      pattern:
+      - AXX
+      - XBX
+      - XXC
+      ingredients:
+        A: COPPER_INGOT
+        B: STICK
+        C: OAK_PLANKS
+      result:
+        amount: 1
+        item: pamhc2foodcore:cuttingboarditem
+
+    donut:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: pamhc2foodcore:cookingoilitem
+        C: pamhc2foodcore:batteritem
+      result:
+        amount: 1
+        item: pamhc2foodcore:donutitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    dough:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:flouritem
+        C: pamhc2foodcore:freshwateritem
+        D: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:doughitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    epicbacon:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: COOKED_PORKCHOP
+        C: RED_DYE
+        D: ORANGE_DYE
+        E: YELLOW_DYE
+        F: GREEN_DYE
+        G: BLUE_DYE
+        H: PURPLE_DYE
+        I: PINK_DYE
+      result:
+        amount: 1
+        item: pamhc2foodcore:epicbaconitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    fishandchips:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: SALMON
+        C: pamhc2foodcore:flouritem
+        D: pamhc2foodcore:friesitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:fishandchipsitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    fishjerky:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: SALMON
+        C: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:fishjerkyitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    fishsticks:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: pamhc2foodcore:groundfishitem
+        C: pamhc2foodcore:flouritem
+      result:
+        amount: 1
+        item: pamhc2foodcore:fishsticksitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    flour:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:grinderitem
+        B: WHEAT
+      result:
+        amount: 1
+        item: pamhc2foodcore:flouritem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         grinder:
+           item: pamhc2foodcore:grinderitem
+           amount: 1
+
+    freshmilk:
+      enabled: true
+      ingredients:
+        A: MILK_BUCKET
+      result:
+        amount: 8
+        item: pamhc2foodcore:freshmilkitem
+      shapeless: true
+
+    freshwater:
+      enabled: true
+      ingredients:
+        A: WATER_BUCKET
+      result:
+        amount: 8
+        item: pamhc2foodcore:freshwateritem
+      shapeless: true
+
+    friedchicken:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: pamhc2foodcore:flouritem
+        C: CHICKEN
+        D: pamhc2foodcore:cookingoilitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:friedchickenitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    friedegg:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:skilletitem
+        B: EGG
+      result:
+        amount: 1
+        item: pamhc2foodcore:friedeggitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         skillet:
+           item: pamhc2foodcore:skilletitem
+           amount: 1
+
+    fries:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: POTATO
+        C: pamhc2foodcore:cookingoilitem
+        D: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:friesitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    fruitcrumble:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: pamhc2foodcore:doughitem
+        C: pamhc2trees:orangeitem
+        D: pamhc2trees:dragonfruititem
+        E: pamhc2trees:passionfruititem
+        F: pamhc2crops:kiwiitem
+        G: pamhc2trees:peachitem
+        H: pamhc2trees:dateitem
+        I: pamhc2trees:mangoitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:fruitcrumbleitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    fruitpunch:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:juiceritem
+        B: pamhc2crops:strawberryitem
+        C: pamhc2trees:orangeitem
+        D: pamhc2trees:dragonfruititem
+        E: pamhc2trees:passionfruititem
+        F: pamhc2crops:kiwiitem
+        G: pamhc2trees:peachitem
+        H: pamhc2trees:dateitem
+        I: pamhc2trees:mangoitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:fruitpunchitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         juicer:
+           item: pamhc2foodcore:juiceritem
+           amount: 1
+
+    fruitsalad:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2crops:strawberryitem
+        C: pamhc2trees:orangeitem
+        D: pamhc2trees:dragonfruititem
+        E: pamhc2trees:passionfruititem
+        F: pamhc2crops:kiwiitem
+        G: pamhc2trees:peachitem
+        H: pamhc2trees:dateitem
+        I: pamhc2trees:mangoitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:fruitsaladitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    glazedcarrots:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: CARROT
+        C: pamhc2foodcore:butteritem
+        D: SUGAR
+      result:
+        amount: 1
+        item: pamhc2foodcore:glazedcarrotsitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    glowberryjelly:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: pamhc2foodcore:glowberryjuiceitem
+        C: SUGAR
+      result:
+        amount: 1
+        item: pamhc2foodcore:glowberryjellyitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    glowberryjellytoast:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2foodcore:toastitem
+        C: pamhc2foodcore:glowberryjellyitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:glowberryjellytoastitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    glowberryjuice:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:juiceritem
+        B: GLOW_BERRIES
+      result:
+        amount: 1
+        item: pamhc2foodcore:glowberryjuiceitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         juicer:
+           item: pamhc2foodcore:juiceritem
+           amount: 1
+
+    glowberrypie:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: SUGAR
+        C: GLOW_BERRIES
+        D: pamhc2foodcore:doughitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:glowberrypieitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    glowberrysmoothie:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:glowberryjuiceitem
+        C: SNOWBALL
+      result:
+        amount: 1
+        item: pamhc2foodcore:glowberrysmoothieitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    glowberryyogurt:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2foodcore:yogurtitem
+        C: GLOW_BERRIES
+      result:
+        amount: 1
+        item: pamhc2foodcore:glowberryyogurtitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    grilledcheese:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:skilletitem
+        B: BREAD
+        C: pamhc2foodcore:butteritem
+        D: pamhc2foodcore:cheeseitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:grilledcheeseitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         skillet:
+           item: pamhc2foodcore:skilletitem
+           amount: 1
+
+    grinder:
+      enabled: true
+      pattern:
+      - XXX
+      - ABA
+      - XAX
+      ingredients:
+        A: ANDESITE
+        B: STICK
+      result:
+        amount: 1
+        item: pamhc2foodcore:grinderitem
+
+    groundbeef:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:grinderitem
+        B: BEEF
+      result:
+        amount: 1
+        item: pamhc2foodcore:groundbeefitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         grinder:
+           item: pamhc2foodcore:grinderitem
+           amount: 1
+
+    groundchicken:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:grinderitem
+        B: CHICKEN
+      result:
+        amount: 1
+        item: pamhc2foodcore:groundchickenitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         grinder:
+           item: pamhc2foodcore:grinderitem
+           amount: 1
+
+    groundfish:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:grinderitem
+        B: SALMON
+      result:
+        amount: 1
+        item: pamhc2foodcore:groundfishitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         grinder:
+           item: pamhc2foodcore:grinderitem
+           amount: 1
+
+    groundmutton:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:grinderitem
+        B: MUTTON
+      result:
+        amount: 1
+        item: pamhc2foodcore:groundmuttonitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         grinder:
+           item: pamhc2foodcore:grinderitem
+           amount: 1
+
+    groundpork:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:grinderitem
+        B: PORKCHOP
+      result:
+        amount: 1
+        item: pamhc2foodcore:groundporkitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         grinder:
+           item: pamhc2foodcore:grinderitem
+           amount: 1
+
+    groundrabbit:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:grinderitem
+        B: RABBIT
+      result:
+        amount: 1
+        item: pamhc2foodcore:groundrabbititem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         grinder:
+           item: pamhc2foodcore:grinderitem
+           amount: 1
+
+    gummybears:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: SUGAR
+        C: RED_DYE
+        D: GREEN_DYE
+      result:
+        amount: 1
+        item: pamhc2foodcore:gummybearsitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    hotchocolate:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: pamhc2foodcore:freshmilkitem
+        C: pamhc2foodcore:cocoapowderitem
+        D: pamhc2foodcore:marshmellowsitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:hotchocolateitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    hotdog:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2foodcore:groundporkitem
+        C: BREAD
+        D: pamhc2foodcore:mayonaiseitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:hotdogitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    icecream:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:freshmilkitem
+        C: pamhc2foodcore:saltitem
+        D: PACKED_ICE
+      result:
+        amount: 1
+        item: pamhc2foodcore:icecreamitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    jellybeans:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: SUGAR
+        C: BLUE_DYE
+        D: ORANGE_DYE
+        E: GREEN_DYE
+      result:
+        amount: 1
+        item: pamhc2foodcore:jellybeansitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    jellydonut:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: pamhc2foodcore:cookingoilitem
+        C: pamhc2foodcore:batteritem
+        D: pamhc2foodcore:applejellyitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:jellydonutitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    juicer:
+      enabled: true
+      pattern:
+      - XXX
+      - XAX
+      - AAA
+      ingredients:
+        A: IRON_INGOT
+      result:
+        amount: 1
+        item: pamhc2foodcore:juiceritem
+
+    macncheese:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: pamhc2foodcore:pastaitem
+        C: pamhc2foodcore:cheeseitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:macncheeseitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    marshmellowchicks:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: SUGAR
+        C: PINK_DYE
+        D: YELLOW_DYE
+      result:
+        amount: 1
+        item: pamhc2foodcore:marshmellowchicksitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    marshmellows:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: SUGAR
+      result:
+        amount: 1
+        item: pamhc2foodcore:marshmellowsitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    mashedpotatoes:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: BAKED_POTATO
+        C: pamhc2foodcore:butteritem
+        D: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:mashedpotatoesitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    mayonaise:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:juiceritem
+        B: pamhc2trees:avocadoitem
+        C: EGG
+      result:
+        amount: 1
+        item: pamhc2foodcore:mayonaiseitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         juicer:
+           item: pamhc2foodcore:juiceritem
+           amount: 1
+
+    meatloaf:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: pamhc2foodcore:groundbeefitem
+        C: BREAD
+      result:
+        amount: 1
+        item: pamhc2foodcore:meatloafitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    melonjelly:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: pamhc2foodcore:melonjuiceitem
+        C: SUGAR
+      result:
+        amount: 1
+        item: pamhc2foodcore:melonjellyitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    melonjellytoast:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2foodcore:toastitem
+        C: pamhc2foodcore:melonjellyitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:melonjellytoastitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    melonjuice:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:juiceritem
+        B: MELON_SLICE
+      result:
+        amount: 1
+        item: pamhc2foodcore:melonjuiceitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         juicer:
+           item: pamhc2foodcore:juiceritem
+           amount: 1
+
+    melonsmoothie:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:melonjuiceitem
+        C: SNOWBALL
+      result:
+        amount: 1
+        item: pamhc2foodcore:melonsmoothieitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    melonyogurt:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2foodcore:yogurtitem
+        C: MELON
+      result:
+        amount: 1
+        item: pamhc2foodcore:melonyogurtitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    mixingbowl:
+      enabled: true
+      pattern:
+      - XXX
+      - BAB
+      - XBX
+      ingredients:
+        A: STICK
+        B: OAK_PLANKS
+      result:
+        amount: 1
+        item: pamhc2foodcore:mixingbowlitem
+
+    muttonjerky:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: MUTTON
+        C: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:muttonjerkyitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    noodlesoup:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: pamhc2foodcore:pastaitem
+        C: pamhc2foodcore:stockitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:noodlesitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    p8juice:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:juiceritem
+        B: ENCHANTED_GOLDEN_APPLE
+        C: NETHER_STAR
+      result:
+        amount: 1
+        item: pamhc2foodcore:p8juiceitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         juicer:
+           item: pamhc2foodcore:juiceritem
+           amount: 1
+
+    pasta:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:rolleritem
+        B: pamhc2foodcore:doughitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:pastaitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         roller:
+           item: pamhc2foodcore:rolleritem
+           amount: 1
+
+    pickledbeets:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: pamhc2foodcore:vinegaritem
+        C: BEETROOT
+      result:
+        amount: 1
+        item: pamhc2foodcore:pickledbeetsitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    porkjerky:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: PORKCHOP
+        C: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:porkjerkyitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    pot:
+      enabled: true
+      pattern:
+      - XXX
+      - ABB
+      - XBB
+      ingredients:
+        A: STICK
+        B: COPPER_INGOT
+      result:
+        amount: 1
+        item: pamhc2foodcore:potitem
+
+    potatochips:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: POTATO
+        C: pamhc2foodcore:cookingoilitem
+        D: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:potatochipsitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    potatosoup:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: POTATO
+        C: pamhc2foodcore:stockitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:potatosoupitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    potroast:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: BEEF
+        C: POTATO
+        D: CARROT
+      result:
+        amount: 1
+        item: pamhc2foodcore:potroastitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    pumpkinbread:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: PUMPKIN
+        C: pamhc2foodcore:doughitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:pumpkinbreaditem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    pumpkincheesecake:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: SUGAR
+        C: pamhc2foodcore:cheeseitem
+        D: PUMPKIN
+        E: pamhc2foodcore:batteritem
+      result:
+        amount: 1
+        item: pamhc2foodcore:pumpkincheesecakeitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    pumpkincupcake:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: PUMPKIN
+        C: pamhc2foodcore:doughitem
+      result:
+        amount: 4
+        item: pamhc2foodcore:pumpkincupcakeitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    pumpkinmuffin:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: PUMPKIN
+        C: pamhc2foodcore:batteritem
+      result:
+        amount: 1
+        item: pamhc2foodcore:pumpkinmuffinitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    pumpkinsoup:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: PUMPKIN
+        C: pamhc2foodcore:stockitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:pumpkinsoupitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    pumpkinyogurt:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2foodcore:yogurtitem
+        C: PUMPKIN
+      result:
+        amount: 1
+        item: pamhc2foodcore:pumpkinyogurtitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    rabbitjerky:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: RABBIT
+        C: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:rabbitjerkyitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    roller:
+      enabled: true
+      pattern:
+      - XXX
+      - ABA
+      - XXX
+      ingredients:
+        A: STICK
+        B: OAK_LOG
+      result:
+        amount: 1
+        item: pamhc2foodcore:rolleritem
+
+    salt:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: pamhc2foodcore:freshwateritem
+      result:
+        amount: 1
+        item: pamhc2foodcore:saltitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    saucepan:
+      enabled: true
+      pattern:
+      - XXX
+      - ABX
+      - XXX
+      ingredients:
+        A: STICK
+        B: COPPER_INGOT
+      result:
+        amount: 1
+        item: pamhc2foodcore:saucepanitem
+
+    scrambledegg:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:skilletitem
+        B: EGG
+        C: pamhc2foodcore:freshmilkitem
+        D: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:scrambledeggitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         skillet:
+           item: pamhc2foodcore:skilletitem
+           amount: 1
+
+    skillet:
+      enabled: true
+      pattern:
+      - AXX
+      - XBX
+      - XXB
+      ingredients:
+        A: COPPER_INGOT
+        B: STICK
+      result:
+        amount: 1
+        item: pamhc2foodcore:skilletitem
+
+    smores:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: pamhc2foodcore:crackeritem
+        C: pamhc2foodcore:marshmellowsitem
+        D: pamhc2foodcore:chocolatebaritem
+      result:
+        amount: 1
+        item: pamhc2foodcore:smoresitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    softpretzel:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: pamhc2foodcore:doughitem
+        C: pamhc2foodcore:saltitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:softpretzelitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    stew:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: BEEF
+        C: PORKCHOP
+        D: CHICKEN
+        E: RABBIT
+        F: pamhc2crops:bellpepperitem
+        G: pamhc2crops:onionitem
+        H: pamhc2crops:tomatoitem
+        I: pamhc2foodcore:flouritem
+      result:
+        amount: 1
+        item: pamhc2foodcore:stewitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    stock:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: PORKCHOP
+      result:
+        amount: 2
+        item: pamhc2foodcore:stockitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    sunflowerseeds:
+      enabled: true
+      ingredients:
+        A: SUNFLOWER
+      result:
+        amount: 1
+        item: pamhc2foodcore:sunflowerseedsitem
+      shapeless: true
+
+    sweetberryjelly:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: pamhc2foodcore:sweetberryjuiceitem
+        C: SUGAR
+      result:
+        amount: 1
+        item: pamhc2foodcore:sweetberryjellyitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1
+
+    sweetberryjellytoast:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2foodcore:toastitem
+        C: pamhc2foodcore:sweetberryjellyitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:sweetberryjellytoastitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    sweetberryjuice:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:juiceritem
+        B: SWEET_BERRIES
+      result:
+        amount: 1
+        item: pamhc2foodcore:sweetberryjuiceitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         juicer:
+           item: pamhc2foodcore:juiceritem
+           amount: 1
+
+    sweetberrypie:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: SUGAR
+        C: SWEET_BERRIES 
+        D: pamhc2foodcore:doughitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:sweetberrypieitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    sweetberrysmoothie:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:mixingbowlitem
+        B: pamhc2foodcore:sweetberryjuiceitem
+        C: SNOWBALL
+      result:
+        amount: 1
+        item: pamhc2foodcore:sweetberrysmoothieitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         mixingbowl:
+           item: pamhc2foodcore:mixingbowlitem
+           amount: 1
+
+    sweetberryyogurt:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:cuttingboarditem
+        B: pamhc2foodcore:yogurtitem
+        C: SWEET_BERRIES
+      result:
+        amount: 1
+        item: pamhc2foodcore:sweetberryyogurtitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         cuttingboard:
+           item: pamhc2foodcore:cuttingboarditem
+           amount: 1
+
+    toast:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:skilletitem
+        B: BREAD
+        C: pamhc2foodcore:butteritem
+      result:
+        amount: 1
+        item: pamhc2foodcore:toastitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         skillet:
+           item: pamhc2foodcore:skilletitem
+           amount: 1
+
+    trailmix:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:bakewareitem
+        B: pamhc2foodcore:chocolatebaritem
+        C: pamhc2foodcore:saltitem
+        D: pamhc2trees:dateitem
+        E: pamhc2trees:pomegranateitem
+        F: pamhc2crops:blackberryitem
+        G: pamhc2crops:blueberryitem
+        H: pamhc2crops:cranberryitem
+        I: SWEET_BERRIES
+      result:
+        amount: 1
+        item: pamhc2foodcore:trailmixitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         bakeware:
+           item: pamhc2foodcore:bakewareitem
+           amount: 1
+
+    vinegar:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:potitem
+        B: pamhc2trees:lemonitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:vinegaritem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         pot:
+           item: pamhc2foodcore:potitem
+           amount: 1
+
+    yogurt:
+      enabled: true
+      ingredients:
+        A: pamhc2foodcore:saucepanitem
+        B: pamhc2foodcore:freshmilkitem
+      result:
+        amount: 1
+        item: pamhc2foodcore:yogurtitem
+      shapeless: true
+      return_items:
+        decrement_durability:
+         saucepan:
+           item: pamhc2foodcore:saucepanitem
+           amount: 1

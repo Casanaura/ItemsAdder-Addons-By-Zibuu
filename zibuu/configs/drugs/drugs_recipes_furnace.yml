@@ -1,0 +1,38 @@
+info:
+  namespace: drugs
+
+recipes:
+  cooking:
+# Cocaine
+    cocaine:
+      ingredient:
+        item: drugs:cocaineleaf
+      machines:
+      - FURNACE
+      exp: 1000
+      cook_time: 6000
+      result:
+        amount: 1
+        item: drugs:cocaine
+# Dried tobacco
+    driedtobaccoleaf:
+      ingredient:
+        item: drugs:tobaccoleaf
+      machines:
+      - FURNACE
+      exp: 250
+      cook_time: 600
+      result:
+        amount: 1
+        item: drugs:driedtobaccoleaf
+# LSA residues
+    lsakohresidue:
+      ingredient:
+        item: drugs:lsapowder
+      machines:
+      - FURNACE
+      exp: 1000
+      cook_time: 6000
+      result:
+        amount: 1
+        item: drugs:lsakohresidue

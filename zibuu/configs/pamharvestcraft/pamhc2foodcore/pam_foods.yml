@@ -1,0 +1,3521 @@
+info:
+  namespace: pamhc2foodcore
+items:
+  applejellyitem:
+    display_name: display-name-applejellyitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 7
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/applejellyitem
+  applejellytoastitem:
+    display_name: display-name-applejellytoastitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 6
+          saturation: 15
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/applejellytoastitem
+  applejuiceitem:
+    display_name: display-name-applejuiceitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 11
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/applejuiceitem
+  applepieitem:
+    display_name: display-name-applepieitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 11
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/applepieitem
+  applesauceitem:
+    display_name: display-name-applesauceitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 12
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/applesauceitem
+  applesmoothieitem:
+    display_name: display-name-applesmoothieitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 6
+          saturation: 14
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/applesmoothieitem
+  appleyogurtitem:
+    display_name: display-name-appleyogurtitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/appleyogurtitem
+  baconandeggsitem:
+    display_name: display-name-baconandeggsitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 7
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/baconandeggsitem
+  baconcheeseburgeritem:
+    display_name: display-name-baconcheeseburgeritem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 13
+          saturation: 31
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/baconcheeseburgeritem
+  basiccheeseburgeritem:
+    display_name: display-name-basiccheeseburgeritem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 9
+          saturation: 21
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/basiccheeseburgeritem
+  basicchickensandwichitem:
+    display_name: display-name-basicchickensandwichitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 6
+          saturation: 15
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/basicchickensandwichitem
+  basicfishsandwichitem:
+    display_name: display-name-basicfishsandwichitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 6
+          saturation: 15
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/basicfishsandwichitem
+  basichamburgeritem:
+    display_name: display-name-basichamburgeritem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 7
+          saturation: 16
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/basichamburgeritem
+  batteritem:
+    display_name: display-name-batteritem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 3
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/batteritem
+  beefjerkyitem:
+    display_name: display-name-beefjerkyitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/beefjerkyitem
+  boiledeggitem:
+    display_name: display-name-boiledeggitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/boiledeggitem
+  butteredbakedpotatoitem:
+    display_name: display-name-butteredbakedpotatoitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 6
+          saturation: 14
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/butteredbakedpotatoitem
+  butteritem:
+    display_name: display-name-butteritem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 9
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/butteritem
+  caramelappleitem:
+    display_name: display-name-caramelappleitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 11
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/caramelappleitem
+  caramelcupcakeitem:
+    display_name: display-name-caramelcupcakeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 3
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/caramelcupcakeitem
+  caramelicecreamitem:
+    display_name: display-name-caramelicecreamitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 11
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/caramelicecreamitem
+  caramelitem:
+    display_name: display-name-caramelitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 5
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/caramelitem
+  caramelmuffinitem:
+    display_name: display-name-caramelmuffinitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/caramelmuffinitem
+  caramelyogurtitem:
+    display_name: display-name-caramelyogurtitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/caramelyogurtitem
+  carrotbreaditem:
+    display_name: display-name-carrotbreaditem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 9
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/carrotbreaditem
+  carrotcakeitem:
+    display_name: display-name-carrotcakeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 11
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/carrotcakeitem
+  carrotcupcakeitem:
+    display_name: display-name-carrotcupcakeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 3
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/carrotcupcakeitem
+  carrotmuffinitem:
+    display_name: display-name-carrotmuffinitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/carrotmuffinitem
+  carrotsoupitem:
+    display_name: display-name-carrotsoupitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 9
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/carrotsoupitem
+  cheesecakeitem:
+    display_name: display-name-cheesecakeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 11
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cheesecakeitem
+  cheeseitem:
+    display_name: display-name-cheeseitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 5
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cheeseitem
+  chickendinneritem:
+    display_name: display-name-chickendinneritem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 11
+          saturation: 26
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chickendinneritem
+  chickenjerkyitem:
+    display_name: display-name-chickenjerkyitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chickenjerkyitem
+  chickennuggetitem:
+    display_name: display-name-chickennuggetitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chickennuggetitem
+  chickenpotpieitem:
+    display_name: display-name-chickenpotpieitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 6
+          saturation: 12
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chickenpotpieitem
+  chocolatebaconitem:
+    display_name: display-name-chocolatebaconitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chocolatebaconitem
+  chocolatebaritem:
+    display_name: display-name-chocolatebaritem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 3
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chocolatebaritem
+  chocolatecakeitem:
+    display_name: display-name-chocolatecakeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 9
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chocolatecakeitem
+  chocolatecaramelfudgeitem:
+    display_name: display-name-chocolatecaramelfudgeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chocolatecaramelfudgeitem
+  chocolatecupcakeitem:
+    display_name: display-name-chocolatecupcakeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 3
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chocolatecupcakeitem
+  chocolatedonutitem:
+    display_name: display-name-chocolatedonutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 11
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chocolatedonutitem
+  chocolateicecreamitem:
+    display_name: display-name-chocolateicecreamitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 11
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chocolateicecreamitem
+  chocolatemilkitem:
+    display_name: display-name-chocolatemilkitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: true
+      material: DRIED_KELP
+      textures: 
+      - item/chocolatemilkitem.png
+  chocolatemilkshakeitem:
+    display_name: display-name-chocolatemilkshakeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: true
+      material: DRIED_KELP
+      textures: 
+      - item/chocolatemilkshakeitem
+  chocolatemuffinitem:
+    display_name: display-name-chocolatemuffinitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chocolatemuffinitem
+  chocolatepuddingitem:
+    display_name: display-name-chocolatepuddingitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chocolatepuddingitem
+  chocolaterollitem:
+    display_name: display-name-chocolaterollitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 11
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chocolaterollitem
+  chocolateyogurtitem:
+    display_name: display-name-chocolateyogurtitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chocolateyogurtitem
+  cocoapowderitem:
+    display_name: display-name-cocoapowderitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 3
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cocoapowderitem
+  cookedgroundbeefitem:
+    display_name: display-name-cookedgroundbeefitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 10
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cookedgroundbeefitem
+  cookedgroundchickenitem:
+    display_name: display-name-cookedgroundchickenitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cookedgroundchickenitem
+  cookedgroundfishitem:
+    display_name: display-name-cookedgroundfishitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cookedgroundfishitem
+  cookedgroundmuttonitem:
+    display_name: display-name-cookedgroundmuttonitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 7
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cookedgroundmuttonitem
+  cookedgroundporkitem:
+    display_name: display-name-cookedgroundporkitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 10
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cookedgroundporkitem
+  cookedgroundrabbititem:
+    display_name: display-name-cookedgroundrabbititem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cookedgroundrabbititem
+  cookiesandmilkitem:
+    display_name: display-name-cookiesandmilkitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cookiesandmilkitem
+  cookingoilitem:
+    display_name: display-name-cookingoilitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cookingoilitem
+  cottoncandyitem:
+    display_name: display-name-cottoncandyitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 3
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cottoncandyitem
+  crackeritem:
+    display_name: display-name-crackeritem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 3
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/crackeritem
+  creamitem:
+    display_name: display-name-creamitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 3
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/creamitem
+  donutitem:
+    display_name: display-name-donutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 10
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/donutitem
+  doughitem:
+    display_name: display-name-doughitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/doughitem
+  epicbaconitem:
+    display_name: display-name-epicbaconitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 6
+          saturation: 14
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/epicbaconitem
+  fishandchipsitem:
+    display_name: display-name-fishandchipsitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 6
+          saturation: 14
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/fishandchipsitem
+  fishjerkyitem:
+    display_name: display-name-fishjerkyitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/fishjerkyitem
+  fishsticksitem:
+    display_name: display-name-fishsticksitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/fishsticksitem
+  flouritem:
+    display_name: display-name-flouritem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: PAPER
+      #textures:
+      model_path: item/flouritem
+  freshmilkitem:
+    display_name: display-name-freshmilkitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 5
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/freshmilkitem
+  freshwateritem:
+    display_name: display-name-freshwateritem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 5
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/freshwateritem
+  friedchickenitem:
+    display_name: display-name-friedchickenitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/friedchickenitem
+  friedeggitem:
+    display_name: display-name-friedeggitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/friedeggitem
+  friesitem:
+    display_name: display-name-friesitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/friesitem
+  fruitcrumbleitem:
+    display_name: display-name-fruitcrumbleitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 12
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/fruitcrumbleitem
+  fruitpunchitem:
+    display_name: display-name-fruitpunchitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 7
+          saturation: 16
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/fruitpunchitem
+  fruitsaladitem:
+    display_name: display-name-fruitsaladitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 11
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/fruitsaladitem
+  glazedcarrotsitem:
+    display_name: display-name-glazedcarrotsitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 10
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/glazedcarrotsitem
+  glowberryjellyitem:
+    display_name: display-name-glowberryjellyitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/glowberryjellyitem
+  glowberryjellytoastitem:
+    display_name: display-name-glowberryjellytoastitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 11
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/glowberryjellytoastitem
+  glowberryjuiceitem:
+    display_name: display-name-glowberryjuiceitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/glowberryjuiceitem
+  glowberrypieitem:
+    display_name: display-name-glowberrypieitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 10
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/glowberrypieitem
+  glowberrysmoothieitem:
+    display_name: display-name-glowberrysmoothieitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/glowberrysmoothieitem
+  glowberryyogurtitem:
+    display_name: display-name-glowberryyogurtitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/glowberryyogurtitem
+  grilledcheeseitem:
+    display_name: display-name-grilledcheeseitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 7
+          saturation: 10
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/grilledcheeseitem
+  groundbeefitem:
+    display_name: display-name-groundbeefitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 5
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/groundbeefitem
+  groundchickenitem:
+    display_name: display-name-groundchickenitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/groundchickenitem
+  groundfishitem:
+    display_name: display-name-groundfishitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/groundfishitem
+  groundmuttonitem:
+    display_name: display-name-groundmuttonitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/groundmuttonitem
+  groundporkitem:
+    display_name: display-name-groundporkitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/groundporkitem
+  groundrabbititem:
+    display_name: display-name-groundrabbititem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/groundrabbititem
+  gummybearsitem:
+    display_name: display-name-gummybearsitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/gummybearsitem
+  hotchocolateitem:
+    display_name: display-name-hotchocolateitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/hotchocolateitem
+  hotdogitem:
+    display_name: display-name-hotdogitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 16
+          saturation: 7
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/hotdogitem
+  icecreamitem:
+    display_name: display-name-icecreamitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 7
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/icecreamitem
+  jellybeansitem:
+    display_name: display-name-jellybeansitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 5
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/jellybeansitem
+  jellydonutitem:
+    display_name: display-name-jellydonutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 12
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/jellydonutitem
+  macncheeseitem:
+    display_name: display-name-macncheeseitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 11
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/macncheeseitem
+  marshmellowchicksitem:
+    display_name: display-name-marshmellowchicksitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/marshmellowchicksitem
+  marshmellowsitem:
+    display_name: display-name-marshmellowsitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 3
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/marshmellowsitem
+  mashedpotatoesitem:
+    display_name: display-name-mashedpotatoesitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 6
+          saturation: 14
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/mashedpotatoesitem
+  mayonaiseitem:
+    display_name: display-name-mayonaiseitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/mayonaiseitem
+  meatloafitem:
+    display_name: display-name-meatloafitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 12
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/meatloafitem
+  melonjellyitem:
+    display_name: display-name-melonjellyitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 5
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/melonjellyitem
+  melonjellytoastitem:
+    display_name: display-name-melonjellytoastitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 12
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/melonjellytoastitem
+  melonjuiceitem:
+    display_name: display-name-melonjuiceitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/melonjuiceitem
+  melonsmoothieitem:
+    display_name: display-name-melonsmoothieitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/melonsmoothieitem
+  melonyogurtitem:
+    display_name: display-name-melonyogurtitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: true
+      material: DRIED_KELP
+      textures:
+      - item/melonyogurtitem.png
+  muttonjerkyitem:
+    display_name: display-name-muttonjerkyitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/muttonjerkyitem
+  noodlesitem:
+    display_name: display-name-noodlesitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 12
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: true
+      material: DRIED_KELP
+      textures: 
+      - item/noodlesitem
+  noodlesoupitem:
+    display_name: display-name-noodlesoupitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 12
+          saturation: 5
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/noodlesoupitem
+  p8juiceitem:
+    display_name: display-name-p8juiceitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 20
+          saturation: 40
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/p8juiceitem
+  pastaitem:
+    display_name: display-name-pastaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/pastaitem
+  pickledbeetsitem:
+    display_name: display-name-pickledbeetsitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/pickledbeetsitem
+  porkjerkyitem:
+    display_name: display-name-porkjerkyitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/porkjerkyitem
+  potatochipsitem:
+    display_name: display-name-potatochipsitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/potatochipsitem
+  potatosaladitem:
+    display_name: display-name-potatosaladitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: true
+      material: DRIED_KELP
+      textures: 
+      - item/potatosaladitem.png
+  potatosoupitem:
+    display_name: display-name-potatosoupitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 10
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/potatosoupitem
+  potroastitem:
+    display_name: display-name-potroastitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 10
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/potroastitem
+  pumpkinbreaditem:
+    display_name: display-name-pumpkinbreaditem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/pumpkinbreaditem
+  pumpkincheesecakeitem:
+    display_name: display-name-pumpkincheesecakeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 6
+          saturation: 15
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/pumpkincheesecakeitem
+  pumpkincupcakeitem:
+    display_name: display-name-pumpkincupcakeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 3
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/pumpkincupcakeitem
+  pumpkinmuffinitem:
+    display_name: display-name-pumpkinmuffinitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/pumpkinmuffinitem
+  pumpkinsoupitem:
+    display_name: display-name-pumpkinsoupitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/pumpkinsoupitem
+  pumpkinyogurtitem:
+    display_name: display-name-pumpkinyogurtitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/pumpkinyogurtitem
+  rabbitjerkyitem:
+    display_name: display-name-rabbitjerkyitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/rabbitjerkyitem
+  roastedsunflowerseedsitem:
+    display_name: display-name-roastedsunflowerseedsitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/roastedsunflowerseedsitem
+  saltitem:
+    display_name: display-name-saltitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/saltitem
+  scrambledeggitem:
+    display_name: display-name-scrambledeggitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/scrambledeggitem
+  smoresitem:
+    display_name: display-name-smoresitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 12
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/smoresitem
+  softpretzelitem:
+    display_name: display-name-softpretzelitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/softpretzelitem
+  stewitem:
+    display_name: display-name-stewitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 7
+          saturation: 18
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/stewitem
+  stockitem:
+    display_name: display-name-stockitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 8
+          saturation: 18
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/stockitem
+  sunflowerseedsitem:
+    display_name: display-name-sunflowerseedsitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 2
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/sunflowerseedsitem
+  sweetberryjellyitem:
+    display_name: display-name-sweetberryjellyitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/sweetberryjellyitem
+  sweetberryjellytoastitem:
+    display_name: display-name-sweetberryjellytoastitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 5
+          saturation: 11
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/sweetberryjellytoastitem
+  sweetberryjuiceitem:
+    display_name: display-name-sweetberryjuiceitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/sweetberryjuiceitem
+  sweetberrypieitem:
+    display_name: display-name-sweetberrypieitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/sweetberrypieitem
+  sweetberrysmoothieitem:
+    display_name: display-name-sweetberrysmoothieitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/sweetberrysmoothieitem
+  sweetberryyogurtitem:
+    display_name: display-name-sweetberryyogurtitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/sweetberryyogurtitem
+  toastitem:
+    display_name: display-name-toastitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 3
+          saturation: 6
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/toastitem
+  trailmixitem:
+    display_name: display-name-trailmixitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 4
+          saturation: 8
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/trailmixitem
+  vinegaritem:
+    display_name: display-name-vinegaritem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/vinegaritem
+  yogurtitem:
+    display_name: display-name-yogurtitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+    lore:
+    - '&f'
+    - '&f'
+    - '&f'
+    - 'display-lore-category-name-foodcore'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/yogurtitem

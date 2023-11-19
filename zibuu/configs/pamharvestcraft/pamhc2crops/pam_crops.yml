@@ -1,0 +1,2991 @@
+info:
+  namespace: pamhc2crops
+items:
+  agaveitem:
+    display_name: display-name-agaveitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f1'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/agaveitem
+  alfalfaitem:
+    display_name: display-name-alfalfaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/alfalfaitem
+  aloeitem:
+    display_name: display-name-aloeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/aloeitem
+  amaranthitem:
+    display_name: display-name-amaranthitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/amaranthitem
+  arrowrootitem:
+    display_name: display-name-arrowrootitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/arrowrootitem
+  artichokeitem:
+    display_name: display-name-artichokeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: true
+      material: DRIED_KELP
+      textures: 
+      - item/artichokeitem.png
+  asparagusitem:
+    display_name: display-name-asparagusitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/asparagusitem
+  bakedarrowrootitem:
+    display_name: display-name-bakedarrowrootitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/bakedarrowrootitem
+  bakedcassavaitem:
+    display_name: display-name-bakedcassavaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/bakedcassavaitem
+  bakedjicamaitem:
+    display_name: display-name-bakedjicamaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/bakedjicamaitem
+  bakedparsnipitem:
+    display_name: display-name-bakedparsnipitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/bakedparsnipitem
+  bakedrutabagaitem:
+    display_name: display-name-bakedrutabagaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/bakedrutabagaitem
+  bakedsunchokeitem:
+    display_name: display-name-bakedsunchokeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: true
+      material: DRIED_KELP
+      textures: 
+      - item/bakedsunchokeitem.png
+  bakedsweetpotatoitem:
+    display_name: display-name-bakedsweetpotatoitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/bakedsweetpotatoitem
+  bakedtaroitem:
+    display_name: display-name-bakedtaroitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/bakedtaroitem
+  bakedturnipitem:
+    display_name: display-name-bakedturnipitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/bakedturnipitem
+#  bakedvegetablemedlyitem:
+#    display_name: display-name-bakedvegetablemedlyitem
+#    durability:
+#      disappear_when_broken: true
+#      usages: 1
+#    events:
+#      eat:
+#        decrement_amount:
+#          amount: 1
+#        feed:
+#          amount: 4
+#          saturation: 8
+#        play_sound:
+#          delay: 0
+#          name: minecraft:entity.generic.eat
+#    lore:
+#    - '&f'
+#    - '&f'
+#    - '&f'
+#    - '&8Aperitivos y Comidas'
+#    resource:
+#      generate: true
+#      material: DRIED_KELP
+#      textures: 
+#      - item/bakedvegetablemedlyitem.png
+  bakedwaterchestnutitem:
+    display_name: display-name-bakedwaterchestnutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/bakedwaterchestnutitem
+  barleyitem:
+    display_name: display-name-barleyitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/barleyitem
+  barrelcactusitem:
+    display_name: display-name-barrelcactusitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/barrelcactusitem
+  beanitem:
+    display_name: display-name-beanitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/beanitem
+  bellpepperitem:
+    display_name: display-name-bellpepperitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/bellpepperitem
+  blackberryitem:
+    display_name: display-name-blackberryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/blackberryitem
+  blueberryitem:
+    display_name: display-name-blueberryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/blueberryitem
+  bokchoyitem:
+    display_name: display-name-bokchoyitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/bokchoyitem
+  broccoliitem:
+    display_name: display-name-broccoliitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/broccoliitem
+  brusselsproutitem:
+    display_name: display-name-brusselsproutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/brusselsproutitem
+  cabbageitem:
+    display_name: display-name-cabbageitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cabbageitem
+  cactusfruititem:
+    display_name: display-name-cactusfruititem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cactusfruititem
+  calabashitem:
+    display_name: display-name-calabashitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/calabashitem
+  candleberryitem:
+    display_name: display-name-candleberryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/candleberryitem
+  canolaitem:
+    display_name: display-name-canolaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/canolaitem
+  cantaloupeitem:
+    display_name: display-name-cantaloupeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cantaloupeitem
+  cassavaitem:
+    display_name: display-name-cassavaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cassavaitem
+  cattailitem:
+    display_name: display-name-cattailitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cattailitem
+  caulifloweritem:
+    display_name: display-name-caulifloweritem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/caulifloweritem
+  celeryitem:
+    display_name: display-name-celeryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/celeryitem
+  chiaitem:
+    display_name: display-name-chiaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chiaitem
+  chickpeaitem:
+    display_name: display-name-chickpeaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chickpeaitem
+  chilipepperitem:
+    display_name: display-name-chilipepperitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/chilipepperitem
+  cloudberryitem:
+    display_name: display-name-cloudberryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cloudberryitem
+  coffeebeanitem:
+    display_name: display-name-coffeebeanitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/coffeebeanitem
+  cornitem:
+    display_name: display-name-cornitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cornitem
+  cottonitem:
+    display_name: display-name-cottonitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cottonitem
+  cranberryitem:
+    display_name: display-name-cranberryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cranberryitem
+  cucumberitem:
+    display_name: display-name-cucumberitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/cucumberitem
+  eggplantitem:
+    display_name: display-name-eggplantitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/eggplantitem
+  elderberryitem:
+    display_name: display-name-elderberryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/elderberryitem
+  flaxitem:
+    display_name: display-name-flaxitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/flaxitem
+  garlicitem:
+    display_name: display-name-garlicitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/garlicitem
+  gingeritem:
+    display_name: display-name-gingeritem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/gingeritem
+  grapeitem:
+    display_name: display-name-grapeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/grapeitem
+  greengrapeitem:
+    display_name: display-name-greengrapeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/greengrapeitem
+  guaranaitem:
+    display_name: display-name-guaranaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/guaranaitem
+  huckleberryitem:
+    display_name: display-name-huckleberryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/huckleberryitem
+  jicamaitem:
+    display_name: display-name-jicamaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/jicamaitem
+  juniperberryitem:
+    display_name: display-name-juniperberryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/juniperberryitem
+  juteitem:
+    display_name: display-name-juteitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/juteitem
+  kaleitem:
+    display_name: display-name-kaleitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/kaleitem
+  kenafitem:
+    display_name: display-name-kenafitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/kenafitem
+  kiwiitem:
+    display_name: display-name-kiwiitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/kiwiitem
+  kohlrabiitem:
+    display_name: display-name-kohlrabiitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/kohlrabiitem
+  leekitem:
+    display_name: display-name-leekitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/leekitem
+  lentilitem:
+    display_name: display-name-lentilitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/lentilitem
+  lettuceitem:
+    display_name: display-name-lettuceitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/lettuceitem
+  lotusitem:
+    display_name: display-name-lotusitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/lotusitem
+  milletitem:
+    display_name: display-name-milletitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/milletitem
+  mulberryitem:
+    display_name: display-name-mulberryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/mulberryitem
+  mustardseedsitem:
+    display_name: display-name-mustardseedsitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/mustardseedsitem
+  nettlesitem:
+    display_name: display-name-nettlesitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/nettlesitem
+  nopalesitem:
+    display_name: display-name-nopalesitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/nopalesitem
+  oatsitem:
+    display_name: display-name-oatsitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/oatsitem
+  okraitem:
+    display_name: display-name-okraitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/okraitem
+  onionitem:
+    display_name: display-name-onionitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/onionitem
+  papyrusitem:
+    display_name: display-name-papyrusitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/papyrusitem
+  parsnipitem:
+    display_name: display-name-parsnipitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/parsnipitem
+  peanutitem:
+    display_name: display-name-peanutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/peanutitem
+  peasitem:
+    display_name: display-name-peasitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/peasitem
+  pineappleitem:
+    display_name: display-name-pineappleitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/pineappleitem
+  quinoaitem:
+    display_name: display-name-quinoaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/quinoaitem
+  radishitem:
+    display_name: display-name-radishitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/radishitem
+  raspberryitem:
+    display_name: display-name-raspberryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/raspberryitem
+  rhubarbitem:
+    display_name: display-name-rhubarbitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/rhubarbitem
+  riceitem:
+    display_name: display-name-riceitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/riceitem
+  rutabagaitem:
+    display_name: display-name-rutabagaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/rutabagaitem
+  ryeitem:
+    display_name: display-name-ryeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/ryeitem
+  scallionitem:
+    display_name: display-name-scallionitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/scallionitem
+  sesameseedsitem:
+    display_name: display-name-sesameseedsitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/sesameseedsitem
+  sisalitem:
+    display_name: display-name-sisalitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/sisalitem
+  sorghumitem:
+    display_name: display-name-sorghumitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/sorghumitem
+  soybeanitem:
+    display_name: display-name-soybeanitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/soybeanitem
+  spiceleafitem:
+    display_name: display-name-spiceleafitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/spiceleafitem
+  spinachitem:
+    display_name: display-name-spinachitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/spinachitem
+  strawberryitem:
+    display_name: display-name-strawberryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/strawberryitem
+  sunchokeitem:
+    display_name: display-name-sunchokeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: true
+      material: DRIED_KELP
+      textures: 
+      - item/sunchokeitem.png
+  sweetpotatoitem:
+    display_name: display-name-sweetpotatoitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/sweetpotatoitem
+  taroitem:
+    display_name: display-name-taroitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/taroitem
+  tealeafitem:
+    display_name: display-name-tealeafitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/tealeafitem
+  tomatilloitem:
+    display_name: display-name-tomatilloitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/tomatilloitem
+  tomatoitem:
+    display_name: display-name-tomatoitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/tomatoitem
+  truffleitem:
+    display_name: display-name-truffleitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/truffleitem
+  turnipitem:
+    display_name: display-name-turnipitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/turnipitem
+  waterchestnutitem:
+    display_name: display-name-waterchestnutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/waterchestnutitem
+  whitemushroomitem:
+    display_name: display-name-whitemushroomitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/whitemushroomitem
+  wintersquashitem:
+    display_name: display-name-wintersquashitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/wintersquashitem
+  wolfberryitem:
+    display_name: display-name-wolfberryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/wolfberryitem
+  yuccaitem:
+    display_name: display-name-yuccaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/yuccaitem
+  zucchiniitem:
+    display_name: display-name-zucchiniitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - 'display-lore-saturation-value-crops'
+    - 'display-lore-food-value-crops'
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/zucchiniitem
+  hotcoffeeitem:
+    display_name: display-name-hotcoffeeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+        potion_effect:
+          amplifier: 1
+          duration: 1200
+          type: SPEED
+    lore:
+    - '&f'
+    - '&8Aperitivos y Comidas'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/hotcoffeeitem
+  hotnettleteaitem:
+    display_name: display-name-hotnettleteaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+        potion_effect:
+          amplifier: 1
+          duration: 1200
+          type: FAST_DIGGING
+    lore:
+    - '&f'
+    - '&8Aperitivos y Comidas'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/hotnettleteaitem
+  hotteaitem:
+    display_name: display-name-hotteaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.drink
+        potion_effect:
+          amplifier: 1
+          duration: 600
+          type: REGENERATION
+    lore:
+    - '&f'
+    - '&8Aperitivos y Comidas'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/hotteaitem
+  roastedgarlicitem:
+    display_name: display-name-roastedgarlicitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/roastedgarlicitem
+  roastedkohlrabiitem:
+    display_name: display-name-roastedkohlrabiitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/roastedkohlrabiitem
+  roastedleekitem:
+    display_name: display-name-roastedleekitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/roastedleekitem
+  roastedmushroomitem:
+    display_name: display-name-roastedmushroomitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/roastedmushroomitem
+  roastedonionitem:
+    display_name: display-name-roastedonionitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/roastedonionitem
+  roastedpeanutitem:
+    display_name: display-name-roastedpeanutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/roastedpeanutitem
+  roastedradishitem:
+    display_name: display-name-roastedradishitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/roastedradishitem
+  roastedrhubarbitem:
+    display_name: display-name-roastedrhubarbitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/roastedrhubarbitem
+  roastedscallionitem:
+    display_name: display-name-roastedscallionitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 2
+          saturation: 4
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: false
+      material: DRIED_KELP
+      #textures:
+      model_path: item/roastedscallionitem

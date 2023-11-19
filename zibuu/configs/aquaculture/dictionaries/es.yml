@@ -1,0 +1,76 @@
+#   CREDITOS:
+#
+#   Traducido por: Kissadere
+#   Twitter: @Kissadere
+#   E-mail: kissadere@zibuu.net
+#   Website: https://zibuu.net
+#   Discord: https://discord.gg/wFAuMs7W2V
+#
+info:
+    namespace: aquaculture
+    dictionary-lang: "es"
+dictionary:
+    # Cosos que se pueden pescar
+    display-name-algae: "Alga marina"
+    display-name-arapaima: "Pirarucú"
+    display-name-arrauturtle: "Tortuga de arraú"
+    display-name-atlanticcod: "Bacalao del Atlántico"
+    display-name-atlantichalibut: "Halibut del Atlántico"
+    display-name-atlanticherring: "Arrenque del Atlántico"
+    display-name-bayad: "Bagre"
+    display-name-blackfish: "Tautog"
+    display-name-bluegill: "Mojarra de agallas azules"
+    display-name-boulti: "Tilapia del Nilo"
+    display-name-boxturtle: "Tortuga de caja"
+    display-name-brownshrooma: "Champiñona marrón"
+    display-name-browntrout: "Trucha marrón"
+    display-name-capitaine: "Capitaine"
+    display-name-carp: "Carpa"
+    display-name-catfish: "Pez gato"
+    display-name-driftwood: "Pedazo de madera"
+    display-name-fishbones: "Huesos de pescado"
+    display-name-fishfilletcooked: "Filete de pescado cocinado"
+    display-name-fishfilletraw: "Filete de pescado crudo"
+    display-name-gar: "Catán"
+    display-name-goldfish: "Pez dorado"
+    display-name-jellyfish: "Medusa"
+    display-name-leech: "Sanguijuela"
+    display-name-messageinabottle: "Botella con una carta"
+    display-name-minnow: "Pececillo"
+    display-name-muskellunge: "Muskellunge"
+    display-name-pacifichalibut: "Halibut del Pacífico"
+    display-name-perch: "Parca"
+    display-name-pinksalmon: "Salmón rosado"
+    display-name-piranha: "Piraña"
+    display-name-pollock: "Abadejo"
+    display-name-rainbowtrout: "Trucha arcoíris"
+    display-name-redgrouper: "Mero rojo"
+    display-name-redshrooma: "Champiñona roja"
+    display-name-smallmouthbass: "Lobina de boca chica"
+    display-name-starshellturtle: "Tortuga estrellada"
+    display-name-synodontis: "Synodontis"
+    display-name-tambaqui: "Tambaquí"
+    display-name-tincan: "Lata"
+    display-name-treasurechest: "Cofre del tesoro"
+    display-name-tuna: "Atún"
+    # Cosos de neptunium
+    display-name-neptuniumingot: "Lingote de neptunium"
+    display-name-neptuniumnugget: "Pepita de neptunium"
+    display-name-neptuniumboots: "Botas de neptunium"
+    display-name-neptuniumchestplate: "Pechera de neptunium"
+    display-name-neptuniumhelmet: "Yelmo de neptunium"
+    display-name-neptuniumleggings: "Grebas de neptunium"
+    display-name-neptuniumaxe: "Hacha de neptunium"
+    display-name-neptuniumhoe: "Azada de neptunium"
+    display-name-neptuniumpickaxe: "Pico de neptunium"
+    display-name-neptuniumshovel: "Pala de neptunium"
+    display-name-neptuniumbow: "Arco de neptunium"
+    display-name-neptuniumfishingrod: "Caña de neptunium"
+    # Cañas de pescar y anzuelos
+    display-name-diamondfishingrod: "Caña de diamante"
+    display-name-diamondhook: "Anzuelo de diamante"
+    display-name-goldfishingrod: "Caña de oro"
+    display-name-goldhook: "Anzuelo de oro"
+    display-name-ironfishingrod: "Caña de hierro"
+    display-name-ironhook: "Anzuelo de hierro"
+    display-name-netherstarhook: "Anzuelo de estrella del nether"
