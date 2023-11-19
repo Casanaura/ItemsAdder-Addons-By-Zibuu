@@ -17,7 +17,7 @@
 This project is made to bring the fun and functionality of famous minecraft mods into plug-in configurations, without needing to download, install and configure any mod. 
 From now on, we'll call them "add-ons".
 
-These add-ons may use premium plug-ins available on the SpigotMC Marketplace. All of the [https://studio.zibuu.net/wiki](installation process will be available on our official wiki) for each of our add-ons. Due to copyright issues we won't be able to provide the full assets of every mod we try to bring to Spigot, so please read carefully the installation process for every add-on to get the full working experience.
+These add-ons may use premium plug-ins available on the SpigotMC Marketplace. All of the <a href="https://studio.zibuu.net/wiki">installation process will be available on our official wiki</a> for each of our add-ons. Due to copyright issues we won't be able to provide the full assets of every mod we try to bring to Spigot, so please read carefully the installation process for every add-on to get the full working experience.
 These add-ons are created free-of-charge and will always be, you may contribute with your own configurations or translations to get this project even bigger and get to more places around the globe.
 
 If you're a mod developer who wants to get their mods ported into plug-.in configurations, make sure to reach to us to start making magic!
