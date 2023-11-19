@@ -1,0 +1,475 @@
+info:
+  namespace: pamhc2trees
+
+items:
+#  treesapling:
+#    display_name: display-name-treesapling
+#    resource:
+#      material: PAPER
+#      generate: true
+#      textures:
+#      - block/_sapling.png
+#    behaviours:
+#      sapling:
+#        tree_populator: tree
+  almondtreesapling:
+    display_name: display-name-almondtreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/almond_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: almondtree
+
+  appletreesapling:
+    display_name: display-name-appletreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/apple_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: appletree
+
+  apricottreesapling:
+    display_name: display-name-apricottreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/apricot_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: apricottree
+
+  avocadotreesapling:
+    display_name: display-name-avocadotreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/avocado_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: avocadotree
+
+  bananatreesapling:
+    display_name: display-name-bananatreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/banana_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: bananatree
+
+  breadfruittreesapling:
+    display_name: display-name-breadfruittreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/breadfruit_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: breadfruittree
+
+  candlenuttreesapling:
+    display_name: display-name-candlenuttreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/candlenut_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: candlenuttree
+
+  cashewtreesapling:
+    display_name: display-name-cashewtreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/cashew_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: cashewtree
+
+  cherrytreesapling:
+    display_name: display-name-cherrytreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/cherry_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: cherrytree
+
+  datetreesapling:
+    display_name: display-name-datetreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/date_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: datetree
+
+  dragonfruittreesapling:
+    display_name: display-name-dragonfruittreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/dragonfruit_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: dragonfruittree
+
+  duriantreesapling:
+    display_name: display-name-duriantreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/durian_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: duriantree
+
+  figtreesapling:
+    display_name: display-name-figtreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/fig_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: figtree
+
+  gooseberrytreesapling:
+    display_name: display-name-gooseberrytreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/gooseberry_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: gooseberrytree
+
+  grapefruittreesapling:
+    display_name: display-name-grapefruittreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/grapefruit_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: grapefruittree
+
+  guavatreesapling:
+    display_name: display-name-guavatreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/guava_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: guavatree
+
+  hazelnuttreesapling:
+    display_name: display-name-hazelnuttreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/hazelnut_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: hazelnuttree
+
+  jackfruittreesapling:
+    display_name: display-name-jackfruittreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/jackfruit_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: jackfruittree
+
+  lemontreesapling:
+    display_name: display-name-lemontreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/lemon_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: lemontree
+
+  limetreesapling:
+    display_name: display-name-limetreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/lime_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: limetree
+
+  lycheetreesapling:
+    display_name: display-name-lycheetreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/lychee_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: lycheetree
+
+  mangotreesapling:
+    display_name: display-name-mangotreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/mango_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: mangotree
+
+  nutmegtreesapling:
+    display_name: display-name-nutmegtreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/nutmeg_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: nutmegtree
+
+  olivetreesapling:
+    display_name: display-name-olivetreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/olive_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: olivetree
+
+  orangetreesapling:
+    display_name: display-name-orangetreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/orange_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: orangetree
+
+  papayatreesapling:
+    display_name: display-name-papayatreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/papaya_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: papayatree
+
+  passionfruittreesapling:
+    display_name: display-name-passionfruittreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/passionfruit_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: passionfruittree
+
+  pawpawtreesapling:
+    display_name: display-name-pawpawtreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/pawpaw_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: pawpawtree
+
+  pecantreesapling:
+    display_name: display-name-pecantreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/pecan_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: pecantree
+
+  peppercorntreesapling:
+    display_name: display-name-peppercorntreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/peppercorn_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: peppercorntree
+
+  peachtreesapling:
+    display_name: display-name-peachtreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/peach_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: peachtree
+
+  peartreesapling:
+    display_name: display-name-peartreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/pear_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: peartree
+
+  persimmontreesapling:
+    display_name: display-name-persimmontreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/persimmon_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: persimmontree
+
+  pistachiotreesapling:
+    display_name: display-name-pistachiotreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/pistachio_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: pistachiotree
+
+  plumtreesapling:
+    display_name: display-name-plumtreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/plum_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: plumtree
+
+  pomegranatetreesapling:
+    display_name: display-name-pomegranatetreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/pomegranate_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: pomegranatetree
+
+  rambutantreesapling:
+    display_name: display-name-rambutantreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/rambutan_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: rambutantree
+
+  starfruittreesapling:
+    display_name: display-name-starfruittreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/starfruit_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: starfruittree
+
+  soursoptreesapling:
+    display_name: display-name-soursoptreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/soursop_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: soursoptree
+
+  tamarindtreesapling:
+    display_name: display-name-tamarindtreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/tamarind_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: tamarindtree
+
+  vanillabeantreesapling:
+    display_name: display-name-vanillabeantreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/vanillabean_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: vanillabeantree
+
+  walnuttreesapling:
+    display_name: display-name-walnuttreesapling
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - block/walnut_sapling.png
+    behaviours:
+      sapling:
+        tree_populator: walnuttree

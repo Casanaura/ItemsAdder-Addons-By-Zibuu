@@ -1,0 +1,903 @@
+#   CREDITS:
+#
+#   Translated by: Terastraz
+#   Twitter: @beyre83
+#   E-mail: beyre83@gmail.com
+#   Website: website.com
+#
+info:
+    namespace: pamhc2foodextended
+    dictionary-lang: "en"
+dictionary:
+    # Category & Lore
+    display-category-name-foodextended: 'Snakcs and Meals II'
+    display-lore-category-name-foodextended: '&8Snacks and Meals'
+    # Food Extended
+    display-name-aebleskiversitem: Danish Pancakes
+    display-name-almondbutteritem: Almond Butter
+    display-name-anchovypepperonipizzaitem: Anchovy Pepperoni Pizza
+    display-name-applecideritem: Apple Cider
+    display-name-applefritteritem: Apple Fritter
+    display-name-applejellysandwichitem: Apple Jelly Sandwich
+    display-name-applesnowitem: Apple Snow
+    display-name-apricotglazedporkitem: Apricot Glazed Pork
+    display-name-apricotjellyitem: Apricot Jelly
+    display-name-apricotjellysandwichitem: Apricot Jelly Sandwich
+    display-name-apricotjellytoastitem: Apricot Jelly Toast
+    display-name-apricotjuiceitem: Apricot Juice
+    display-name-apricotpieitem: Apricot Pie
+    display-name-apricotsmoothieitem: Apricot Smoothie
+    display-name-apricotyogurtitem: Apricot Yogurt
+    display-name-asparagusquicheitem: Asparagus Quiche
+    display-name-avocadoburritoitem: Avocado Burrito
+    display-name-avocadotoastitem: Avocado Toast
+    display-name-babaganoushitem: Baba Ganoush
+    display-name-baconmushroomburgeritem: Bacon Mushroomburger
+    display-name-baconpancakesitem: Bacon Pancakes
+    display-name-baconwrappedchiliitem: Bacon Wrapped Chili
+    display-name-baconwrappeddatesitem: Bacon Wrapped Dates
+    display-name-bakedalaskaitem: Baked Alaska
+    display-name-bakedbeansitem: Bakedbeans
+    display-name-bakedcactusitem: Baked Cactus
+    display-name-bakedhamitem: Baked Ham
+    display-name-baklavaitem: Baklava
+    display-name-bamboosteamedriceitem: Bamboo Steamed Rice
+    display-name-bananajellyitem: Banana Jelly
+    display-name-bananajellysandwichitem: Banana Jelly Sandwich
+    display-name-bananajellytoastitem: Banana Jelly Toast
+    display-name-bananajuiceitem: Banana Juice
+    display-name-banananutbreaditem: Banana Nutbread
+    display-name-bananapieitem: Banana Pie
+    display-name-bananasmoothieitem: Banana Smoothie
+    display-name-bananasplititem: Banana Split
+    display-name-bananayogurtitem: Banana Yogurt
+    display-name-bangersandmashitem: Bangers And Mash
+    display-name-battenbergitem: Battenberg
+    display-name-batteredsausageitem: Battered Sausage
+    display-name-bbqchickenbiscuititem: Bbq Chicken Biscuit
+    display-name-bbqchickenpizzaitem: Bbq Chicken Pizza
+    display-name-bbqjackfruititem: Bbq Jackfruit
+    display-name-bbqpotatochipsitem: Bbq Potatochips
+    display-name-bbqpulledporkitem: Bbq Pulledpork
+    display-name-bbqsauceitem: Bbq Sauce
+    display-name-beanburritoitem: Bean Burrito
+    display-name-beancornmealitem: Bean Cornmeal
+    display-name-beansandriceitem: Beans And Rice
+    display-name-beansontoastitem: Beans on Toast
+    display-name-beefwellingtonitem: Beef Wellington
+    display-name-beetburgeritem: Beet Burger
+    display-name-bentoboxitem: Bento Box
+    display-name-berrymeringuenestitem: Berry Meringue Nest
+    display-name-berryvinaigrettesaladitem: Berry Vinaigrette Salad
+    display-name-bibimbapitem: Bibimbap
+    display-name-biscuititem: Biscuit
+    display-name-biscuitsandgravyitem: Biscuits And Gravy
+    display-name-blackberrycobbleritem: Blackberry Cobbler
+    display-name-blackberryjellyitem: Blackberry Jelly
+    display-name-blackberryjellysandwichitem: Blackberry Jelly Sandwich
+    display-name-blackberryjellytoastitem: Blackberry Jelly Toast
+    display-name-blackberryjuiceitem: Blackberry Juice
+    display-name-blackberrypieitem: Blackberry Pie
+    display-name-blackberrysmoothieitem: Blackberry Smoothie
+    display-name-blackberryyogurtitem: Blackberry Yogurt
+    display-name-blackpepperitem: Black Pepper
+    display-name-bltitem: Blt
+    display-name-blueberryjellyitem: Blueberry Jelly
+    display-name-blueberryjellysandwichitem: Blueberry Jelly Sandwich
+    display-name-blueberryjellytoastitem: Blueberry Jelly Toast
+    display-name-blueberryjuiceitem: Blueberry Juice
+    display-name-blueberrypieitem: Blueberry Pie
+    display-name-blueberrysmoothieitem: Blueberry Smoothie
+    display-name-blueberryyogurtitem: Blueberry Yogurt
+    display-name-bolognaitem: Bologna
+    display-name-bolognasandwichitem: Bologna Sandwich
+    display-name-braisedonionsitem: Braised Onions
+    display-name-bratwurstitem: Bratwurst
+    display-name-breadedporkchopitem: Breaded Porkchop
+    display-name-breadfruitjellyitem: Fruitbread Jelly
+    display-name-breadfruitjellysandwichitem: Fruitbread Jelly Sandwich
+    display-name-breadfruitjellytoastitem: Fruitbread Jelly Toast
+    display-name-breadfruitjuiceitem: Fruitbread Juice
+    display-name-breadfruitpieitem: Fruitbread Pie
+    display-name-breadfruitsmoothieitem: Fruitbread Smoothie
+    display-name-breadfruityogurtitem: Fruitbread Yogurt
+    display-name-breakfastburritoitem: Breakfast Burrito
+    display-name-briochebunitem: Brioche Bun
+    display-name-broccolimacitem: Broccoli Mac
+    display-name-broccolindipitem: Broccoli Dip
+    display-name-brownieitem: Brownie
+    display-name-bulgogiitem: Bulgogi
+    display-name-buttertartitem: Butter Tart
+    display-name-cactusfruitjellyitem: Cactusfruit Jelly
+    display-name-cactusfruitjellysandwichitem: Cactusfruit Jelly Sandwich
+    display-name-cactusfruitjellytoastitem: Cactusfruit Jelly Toast
+    display-name-cactusfruitjuiceitem: Cactusfruit Juice
+    display-name-cactusfruitpieitem: Cactusfruit Pie
+    display-name-cactusfruitsmoothieitem: Cactusfruit Smoothie
+    display-name-cactusfruityogurtitem: Cactusfruit Yogurt
+    display-name-cactussoupitem: Cactus Soup
+    display-name-californiarollitem: California Roll
+    display-name-candiedgingeritem: Candied Ginger
+    display-name-candiedlemonitem: Candied Lemon
+    display-name-candiedpecansitem: Candied Pecans
+    display-name-candiedsweetpotatoesitem: Candied Sweetpotatoes
+    display-name-candiedwalnutsitem: Candied Walnuts
+    display-name-candleberryjellyitem: Candleberry Jelly
+    display-name-candleberryjellysandwichitem: Candleberryjelly Sandwich
+    display-name-candleberryjellytoastitem: Candleberryjelly Toast
+    display-name-candleberryjuiceitem: Candleberry Juice
+    display-name-candleberrypieitem: Candleberry Pie
+    display-name-candleberrysmoothieitem: Candleberry Smoothie
+    display-name-candleberryyogurtitem: Candleberry Yogurt
+    display-name-candycornitem: Candy Corn
+    display-name-cantaloupejellyitem: Cantaloupe Jelly
+    display-name-cantaloupejellysandwichitem: Cantaloupe Jelly Sandwich
+    display-name-cantaloupejellytoastitem: Cantaloupe Jelly Toast
+    display-name-cantaloupejuiceitem: Cantaloupe Juice
+    display-name-cantaloupepieitem: Cantaloupe Pie
+    display-name-cantaloupesmoothieitem: Cantaloupe Smoothie
+    display-name-cantaloupeyogurtitem: Cantaloupe Yogurt
+    display-name-cantonesegreensitem: Cantonese Greens
+    display-name-cantonesenoodlesitem: Cantonese Noodles
+    display-name-capresesaladitem: Caprese Salad
+    display-name-carrotjuiceitem: Carrot Juice
+    display-name-cashewbutteritem: Cashew Butter
+    display-name-cashewchickenitem: Cashew Chicken
+    display-name-ceasarsaladitem: Ceasar Salad
+    display-name-celeryandpeanutbutteritem: Celery And Peanutbutter
+    display-name-cevicheitem: Ceviche
+    display-name-chaiteaitem: Chai tea
+    display-name-charsiuitem: Charsiu
+    display-name-cheddarandsourcreampotatochipsitem: Cheddar And Sourcream Potatochips
+    display-name-cheesedanishitem: Cheese Danish
+    display-name-cheeseontoastitem: Cheese on Toast
+    display-name-cheesesteakitem: Cheese Steak
+    display-name-cheesytacotortillachipsitem: Cheesy Taco Tortillachips
+    display-name-cheezepuffsitem: Cheeze Puffs
+    display-name-cherrycoconutchocolatebaritem: Cherry Coconut Chocolate Bar
+    display-name-cherryicecreamitem: Cherry Icecream
+    display-name-cherryjellyitem: Cherry Jelly
+    display-name-cherryjellysandwichitem: Cherry Jelly Sandwich
+    display-name-cherryjellytoastitem: Cherry Jelly Toast
+    display-name-cherryjuiceitem: Cherry Juice
+    display-name-cherrypieitem: Cherry Pie
+    display-name-cherrysmoothieitem: Cherry Smoothie
+    display-name-cherrysodaitem: Cherry Soda
+    display-name-cherryyogurtitem: Cherry Yogurt
+    display-name-chestnutbutteritem: Chestnut Butter
+    display-name-chickenalfredoitem: Chicken Alfredo
+    display-name-chickenandwafflesitem: Chicken And Waffles
+    display-name-chickenbiscuititem: Chicken Biscuit
+    display-name-chickencelerycasseroleitem: Chicken Celery Casserole
+    display-name-chickenchowmeinitem: Chicken Chowmein
+    display-name-chickencordonbleuitem: Chicken Cordonbleu
+    display-name-chickencurryitem: Chicken Curry
+    display-name-chickengumboitem: Chicken Gumbo
+    display-name-chickenkatsuitem: Chicken Katsu
+    display-name-chickennoodlesoupitem: Chicken Noodlesoup
+    display-name-chickenpaellaitem: Chicken Paella
+    display-name-chickenparmasanitem: Chicken Parmasan
+    display-name-chickenshapeitem: Chicken Shape
+    display-name-chickentendersitem: Chicken Tenders
+    display-name-chickentendersmealitem: Chicken Tenders Meal
+    display-name-chikorollitem: Chikoroll
+    display-name-chiliitem: Chili
+    display-name-chilichocolateitem: Chili Chocolate
+    display-name-chilidogitem: Chilidog
+    display-name-chilipoppersitem: Chili Poppers
+    display-name-chimichangaitem: Chimichanga
+    display-name-chipsanddipitem: Chips And Dip
+    display-name-chipsandsalsaitem: Chips And Salsa
+    display-name-chocolatecherryitem: Chocolate Cherry
+    display-name-chocolatechippancakesitem: Chocolate Chip Pancakes
+    display-name-chocolatecoconutbaritem: Chocolate Coconut Bar
+    display-name-chocolateorangeitem: Chocolate Orange
+    display-name-chocolateorangebiscuititem: Chocolate Orange Biscuit
+    display-name-chocolatepeanutbaritem: Chocolate Peanut Bar
+    display-name-chocolatepeanutsbaritem: Chocolate Peanuts Bar
+    display-name-chocolatesprinklecakeitem: Chocolate Sprinkle Cake
+    display-name-chocolatestrawberryitem: Chocolate Strawberry
+    display-name-chocovoxelsitem: Chocovoxels
+    display-name-chorizoitem: Chorizo
+    display-name-cinnamonappleoatmealitem: Cinnamon Apple Oatmeal
+    display-name-cinnamonbreaditem: Cinnamon Bread
+    display-name-cinnamonrollitem: Cinnamon Roll
+    display-name-cinnamonsugardonutitem: Cinnamon Sugar Donut
+    display-name-cinnamontoastitem: Cinnamon Toast
+    display-name-citrussaladitem: Citrus Salad
+    display-name-coffeeconlecheitem: Coffee Conleche
+    display-name-colasodaitem: Cola Soda
+    display-name-coleslawitem: Coleslaw
+    display-name-coleslawburgeritem: Coleslaw Burger
+    display-name-cookedtofabbititem: Cooked Tofabbit
+    display-name-cookedtofaconitem: Cooked Tofacon
+    display-name-cookedtofeakitem: Cooked Tofeak
+    display-name-cookedtofickenitem: Cooked Toficken
+    display-name-cookedtofishitem: Cooked Tofish
+    display-name-cookedtofuttonitem: Cooked Tofutton
+    display-name-cookoutmealitem: Cook Outmeal
+    display-name-cornbreaditem: Corn Bread
+    display-name-cornchipsitem: Corn Chips
+    display-name-corndogitem: Corndog
+    display-name-cornedbeefitem: Corned Beef
+    display-name-cornedbeefandcabbageitem: Corned Beef And Cabbage
+    display-name-cornedbeefbreakfastitem: Corned Beef Breakfast
+    display-name-cornedbeefhashitem: Corned Beef Hash
+    display-name-cornflakesitem: Cornflakes
+    display-name-cornishpastyitem: Cornish Pasty
+    display-name-cornmealitem: Corn Meal
+    display-name-cornonthecobitem: Corn On The Cob
+    display-name-cottagepieitem: Cottage Pie
+    display-name-couscousitem: Couscous
+    display-name-cowshapeitem: Cowshape
+    display-name-crackersandcheeseitem: Crackers And Cheese
+    display-name-cracklinsitem: Cracklins
+    display-name-cranberrybaritem: Cranberry Bar
+    display-name-cranberryjellyitem: Cranberry Jelly
+    display-name-cranberryjellysandwichitem: Cranberry Jelly Sandwich
+    display-name-cranberryjellytoastitem: Cranberry Jelly Toast
+    display-name-cranberryjuiceitem: Cranberry Juice
+    display-name-cranberrypieitem: Cranberry Pie
+    display-name-cranberrysauceitem: Cranberry Sauce
+    display-name-cranberrysmoothieitem: Cranberry Smoothie
+    display-name-cranberryyogurtitem: Cranberry Yogurt
+    display-name-creamedbroccolisoupitem: Creamed Broccoli Soup
+    display-name-creamedcornitem: Creamed Corn
+    display-name-creamofavocadosoupitem: Cream of Avocado Soup
+    display-name-creamofchickenitem: Cream of Chicken
+    display-name-creamofmushroomitem: Cream of Mushroom
+    display-name-crispyricepuffbarsitem: Crispy Ricepuff Bars
+    display-name-crispyricepuffcerealitem: Crispy Ricepuff Cereal
+    display-name-croissantitem: Croissant
+    display-name-cucumbersandwichitem: Cucumber Sandwich
+    display-name-curryitem: Curry
+    display-name-currypowderitem: Curry Powder
+    display-name-custarditem: Custard
+    display-name-damperitem: Damper
+    display-name-dandelionlteaitem: Dandelionl Tea
+    display-name-dandelionteaitem: Dandelion Tea
+    display-name-dangoitem: Dango
+    display-name-datejellyitem: Date Jelly
+    display-name-datejellysandwichitem: Date Jelly Sandwich
+    display-name-datejellytoastitem: Date Jelly Toast
+    display-name-datejuiceitem: Date Juice
+    display-name-datepieitem: Date Pie
+    display-name-datesmoothieitem: Date Smoothie
+    display-name-dateyogurtitem: Date Yogurt
+    display-name-delightedmealitem: Delighted Meal
+    display-name-deluxecheeseburgeritem: Deluxe Cheeseburger
+    display-name-deluxechickencurryitem: Deluxe Chicken Curry
+    display-name-deluxenachoesitem: Deluxe Nachoes
+    display-name-deviledeggitem: Deviled Egg
+    display-name-dhalitem: Dhal
+    display-name-dimsumitem: Dimsum
+    display-name-dragonfruitjellyitem: Dragonfruit Jelly
+    display-name-dragonfruitjellysandwichitem: Dragonfruit Jelly Sandwich
+    display-name-dragonfruitjellytoastitem: Dragonfruit Jelly Toast
+    display-name-dragonfruitjuiceitem: Dragonfruit Juice
+    display-name-dragonfruitpieitem: Dragonfruit Pie
+    display-name-dragonfruitsmoothieitem: Dragonfruit Smoothie
+    display-name-dragonfruityogurtitem: Dragonfruit Yogurt
+    display-name-driedsoupitem: Dried Soup
+    display-name-durianjellyitem: Durian Jelly
+    display-name-durianjellysandwichitem: Durian Jelly Sandwich
+    display-name-durianjellytoastitem: Durian Jelly Toast
+    display-name-durianjuiceitem: Durian Juice
+    display-name-durianpieitem: Durian Pie
+    display-name-duriansmoothieitem: Durian Smoothie
+    display-name-durianyogurtitem: Durian Yogurt
+    display-name-earlgreyteaitem: Earl Grey Tea
+    display-name-ediblerootitem: Edible Root
+    display-name-eggnogitem: Eggnog
+    display-name-eggplantparmitem: Eggplant Parm
+    display-name-eggrollitem: Egg Roll
+    display-name-eggsaladitem: Egg Salad
+    display-name-eggsbenedictitem: Eggs Benedict
+    display-name-eggtartitem: Egg Tart
+    display-name-elderberryjellyitem: Elderberry Jelly
+    display-name-elderberryjellysandwichitem: Elderberry Jelly Sandwich
+    display-name-elderberryjellytoastitem: Elderberry Jelly Toast
+    display-name-elderberryjuiceitem: Elderberry Juice
+    display-name-elderberrypieitem: Elderberry Pie
+    display-name-elderberrysmoothieitem: Elderberry Smoothie
+    display-name-elderberryyogurtitem: Elderberry Yogurt
+    display-name-enchiladaitem: Enchilada
+    display-name-energydrinkitem: Energy Drink
+    display-name-epicbltitem: Epic Blt
+    display-name-espressoitem: Espresso
+    display-name-etonmessitem: Eton Mess
+    display-name-fairybreaditem: Fairy Bread
+    display-name-fajitaburritoitem: Fajita Burrito
+    display-name-festivalbreaditem: Festival Bread
+    display-name-fiestacornsaladitem: Fiesta Corn Salad
+    display-name-figbaritem: Fig Bar
+    display-name-figjellyitem: Fig Jelly
+    display-name-figjellysandwichitem: Fig Jelly Sandwich
+    display-name-figjellytoastitem: Fig Jelly Toast
+    display-name-figjuiceitem: Fig Juice
+    display-name-figpieitem: Fig Pie
+    display-name-figsmoothieitem: Fig Smoothie
+    display-name-figyogurtitem: Fig Yogurt
+    display-name-firmtofuitem: Firm Tofu
+    display-name-fishcakesitem: Fish Cakes
+    display-name-fishdinneritem: Fish Dinner
+    display-name-fishfingersandcustarditem: Fish Fingers And Custard
+    display-name-fishlettucewrapitem: Fish Lettuce Wrap
+    display-name-fishshapeitem: Fish Shape
+    display-name-fishtacoitem: Fish Taco
+    display-name-fivespiceitem: Five Spice
+    display-name-footlongitem: Footlong
+    display-name-fortunecookieitem: Fortune Cookie
+    display-name-frenchtoastitem: French Toast
+    display-name-friedbolognasandwichitem: Fried Bologna Sandwich
+    display-name-friedfeastitem: Fried Feast
+    display-name-friedgreentomatoesitem: Fried Green Tomatoes
+    display-name-friedonionsitem: Fried Onions
+    display-name-friedpecanokraitem: Fried Pecan Okra
+    display-name-friedriceitem: Fried Rice
+    display-name-frosteddonutitem: Frosted Donut
+    display-name-fruitcakeitem: Fruitcake
+    display-name-fruitcreamfestivalbreaditem: Fruitcream Festival Bread
+    display-name-futomakiitem: Futomaki
+    display-name-garammasalaitem: Garammasala
+    display-name-gardensoupitem: Garden Soup
+    display-name-garlicbreaditem: Garlic Bread
+    display-name-garlicchickenitem: Garlic Chicken
+    display-name-garlicmashedpotatoesitem: Garlic Mashed Potatoes
+    display-name-garlicsteakitem: Garlic Steak
+    display-name-generaltsochickenitem: General Tso Chicken
+    display-name-gherkinitem: Gherkin
+    display-name-gingerchickenitem: Ginger Chicken
+    display-name-gingeredrhubarbtartitem: Gingered Rhubarb Tart
+    display-name-gingersnapsitem: Ginger Snaps
+    display-name-gingersodaitem: Ginger Soda
+    display-name-gooseberryjellyitem: Gooseberry Jelly
+    display-name-gooseberryjellysandwichitem: Gooseberry Jelly Sandwich
+    display-name-gooseberryjellytoastitem: Gooseberry Jelly Toast
+    display-name-gooseberryjuiceitem: Gooseberry Juice
+    display-name-gooseberrypieitem: Gooseberry Pie
+    display-name-gooseberrysmoothieitem: Gooseberry Smoothie
+    display-name-gooseberryyogurtitem: Gooseberry Yogurt
+    display-name-gourmetbeefburgeritem: Gourmet Beefburger
+    display-name-gourmetbeefpattyitem: Gourmet Beef Patty
+    display-name-gourmetburgeritem: Gourmet Burger
+    display-name-gourmetmuttonburgeritem: Gourmet Lamb Burger
+    display-name-gourmetmuttonpattyitem: Gourmet Lamb Patty
+    display-name-gourmetpattyitem: Gourmet Patty
+    display-name-gourmetporkburgeritem: Gourmet Pork Burger
+    display-name-gourmetporkpattyitem: Gourmet Pork Patty
+    display-name-grandmasmacaronicasseroleitem: Grandmas Mcaroni Casserole
+    display-name-grapefruitjellyitem: Grapefruit Jelly
+    display-name-grapefruitjellysandwichitem: Grapefruit Jelly Sandwich
+    display-name-grapefruitjellytoastitem: Grapefruit Jelly Toast
+    display-name-grapefruitjuiceitem: Grapefruit Juice
+    display-name-grapefruitpieitem: Grapefruit Pie
+    display-name-grapefruitsmoothieitem: Grapefruit Smoothie
+    display-name-grapefruitsodaitem: Grapefruit Soda
+    display-name-grapefruityogurtitem: Grapefruit Yogurt
+    display-name-grapejellyitem: Grape Jelly
+    display-name-grapejellysandwichitem: Grape Jelly Sandwich
+    display-name-grapejellytoastitem: Grape Jelly Toast
+    display-name-grapejuiceitem: Grape Juice
+    display-name-grapepieitem: Grape Pie
+    display-name-grapesmoothieitem: Grape Smoothie
+    display-name-grapesodaitem: Grape Soda
+    display-name-grapeyogurtitem: Grape Yogurt
+    display-name-gravyitem: Gravy
+    display-name-greenbeancasseroleitem: Green Bean Casserole
+    display-name-greeneggsandhamitem: Green Eggs And Ham
+    display-name-greengrapejellyitem: Green Grape Jelly
+    display-name-greengrapejellysandwichitem: Green Grape Jelly Sandwich
+    display-name-greengrapejellytoastitem: Green Grape Jelly Toast
+    display-name-greengrapejuiceitem: Green Grape Juice
+    display-name-greengrapepieitem: Green Grape Pie
+    display-name-greengrapesmoothieitem: Green Grape Smoothie
+    display-name-greengrapeyogurtitem: Green Grape Yogurt
+    display-name-greenteaitem: Green Tea
+    display-name-grilledcheesevegemitetoastitem: Grilled Cheese Vegemite Toast
+    display-name-grilledskewersitem: Grilled Skewers
+    display-name-gritsitem: Grits
+    display-name-groiledcheesesandwichitem: Groiled Cheese Sandwich
+    display-name-groundcinnamonitem: Ground Cinnamon
+    display-name-groundnutmegitem: Ground Nutmeg
+    display-name-guacamoleitem: Guacamole
+    display-name-guavajellyitem: Guava Jelly
+    display-name-guavajellysandwichitem: Guava Jelly Sandwich
+    display-name-guavajellytoastitem: Guava Jelly Toast
+    display-name-guavajuiceitem: Guava Juice
+    display-name-guavapieitem: Guava Pie
+    display-name-guavasmoothieitem: Guava Smoothie
+    display-name-guavayogurtitem: Guava Yogurt
+    display-name-guisoitem: Guiso
+    display-name-gumboitem: Gumbo
+    display-name-gyudonitem: Gyudon
+    display-name-haggisitem: Haggis
+    display-name-hamandcheesesandwichitem: Ham And Cheese Sandwich
+    display-name-hamandpineapplepizzaitem: Ham And Pineapple Pizza
+    display-name-hamsweetpicklesandwichitem: Ham Sweetpickle Sandwich
+    display-name-hashitem: Hash
+    display-name-hazelnutbutteritem: Hazelnut Butter
+    display-name-hazelnutchocolateitem: Hazelnut Chocolate
+    display-name-hazelnutcoffeeitem: Hazelnut Coffee
+    display-name-heartybreakfastitem: Hearty Breakfast
+    display-name-herbbutterparsnipsitem: Herb Butter Parsnips
+    display-name-herbcheeseballitem: Herb Cheeseball
+    display-name-hoisinsauceitem: Hoisin Sauce
+    display-name-holidaycakeitem: Holiday Cake
+    display-name-homestylelunchitem: Homestyle Lunch
+    display-name-honeybunitem: Honeybun
+    display-name-honeycombchocolatebaritem: Honeycomb Chocolate Bar
+    display-name-honeyglazedcarrotsitem: Honey Glazed Carrots
+    display-name-honeyglazedhamitem: Honey Glazed Ham
+    display-name-honeylemonlambitem: Honey Lemon Lamb
+    display-name-honeysandwichitem: Honey Sandwich
+    display-name-honeysoyribsitem: Honey Soy Ribs
+    display-name-hotandsoursoupitem: Hot And Sour Soup
+    display-name-hotdishcasseroleitem: Hot Dish Casserole
+    display-name-hotsauceitem: Hot Sauce
+    display-name-hotwingsitem: Hot Wings
+    display-name-huckleberryjellyitem: Huckleberry Jelly
+    display-name-huckleberryjellysandwichitem: Huckleberry Jelly Sandwich
+    display-name-huckleberryjellytoastitem: Huckleberry Jelly Toast
+    display-name-huckleberryjuiceitem: Huckleberry Juice
+    display-name-huckleberrypieitem: Huckleberry Pie
+    display-name-huckleberrysmoothieitem: Huckleberry Smoothie
+    display-name-huckleberryyogurtitem: Huckleberry Yogurt
+    display-name-hummusitem: Hummus
+    display-name-hushpuppiesitem: Hush Puppies
+    display-name-imagawayakiitem: Imagawayaki
+    display-name-imitationcrabsticksitem: Imitation Crabsticks
+    display-name-jackfruitjellyitem: Jackfruit Jelly
+    display-name-jackfruitjellysandwichitem: Jackfruit Jelly Sandwich
+    display-name-jackfruitjellytoastitem: Jackfruit Jelly Toast
+    display-name-jackfruitjuiceitem: Jackfruit Juice
+    display-name-jackfruitpieitem: Jackfruit Pie
+    display-name-jackfruitsmoothieitem: Jackfruit Smoothie
+    display-name-jackfruityogurtitem: Jackfruit Yogurt
+    display-name-jalapenoburgeritem: Jalapeno Burger
+    display-name-jambalayaitem: Jambalaya
+    display-name-jellyrollitem: Jelly Roll
+    display-name-juniperberryjellyitem: Juniperberry Jelly
+    display-name-juniperberryjellysandwichitem: Juniperberry Jelly Sandwich
+    display-name-juniperberryjellytoastitem: Juniperberry Jelly Toast
+    display-name-juniperberryjuiceitem: Juniperberry Juice
+    display-name-juniperberrypieitem: Juniperberry Pie
+    display-name-juniperberrysmoothieitem: Juniperberry Smoothie
+    display-name-juniperberryyogurtitem: Juniperberry Yogurt
+    display-name-juniperpieitem: Juniper Pie
+    display-name-kalechipsitem: Kale Chips
+    display-name-ketchupitem: Ketchup
+    display-name-keylimepieitem: Key Lime Pie
+    display-name-kimchiitem: Kimchi
+    display-name-kiwijellyitem: Kiwi Jelly
+    display-name-kiwijellysandwichitem: Kiwi Jelly Sandwich
+    display-name-kiwijellytoastitem: Kiwi Jelly Toast
+    display-name-kiwijuiceitem: Kiwi Juice
+    display-name-kiwipieitem: Kiwi Pie
+    display-name-kiwismoothieitem: Kiwi Smoothie
+    display-name-kiwiyogurtitem: Kiwi Yogurt
+    display-name-kohlundpinkelitem: Kohlund Pinkel
+    display-name-koreandinneritem: Korean Dinner
+    display-name-kungpaochickenitem: Kung Pao Chicken
+    display-name-lambbarleysoupitem: Lamb Barley Soup
+    display-name-lambkebabitem: Lamb Kebab
+    display-name-lambwithmintsauceitem: Lamb With Mintsauce
+    display-name-lamingtonitem: Lamington
+    display-name-lasagnaitem: Lasagna
+    display-name-lavendershortbreaditem: Lavender Shortbread
+    display-name-leafychickensandwichitem: Leafy Chicken Sandwich
+    display-name-leafyfishsandwichitem: Leafy Fish Sandwich
+    display-name-leekbaconsoupitem: Leek Bacon Soup
+    display-name-lemonaideitem: Lemonaide
+    display-name-lemonchickenitem: Lemon Chicken
+    display-name-lemondrizzlecakeitem: Lemon Drizzle Cake
+    display-name-lemonjellyitem: Lemon Jelly
+    display-name-lemonjellysandwichitem: Lemon Jelly Sandwich
+    display-name-lemonjellytoastitem: Lemon Jelly Toast
+    display-name-lemonjuiceitem: Lemon Juice
+    display-name-lemonlimesodaitem: Lemon Lime Soda
+    display-name-lemonmeringueitem: Lemon Meringue
+    display-name-lemonpieitem: Lemon Pie
+    display-name-lemonsmoothieitem: Lemon Smoothie
+    display-name-lemonyogurtitem: Lemon Yogurt
+    display-name-limejellyitem: Lime Jelly
+    display-name-limejellysandwichitem: Lime Jelly Sandwich
+    display-name-limejellytoastitem: Lime Jelly Toast
+    display-name-limejuiceitem: Lime Juice
+    display-name-limepieitem: Lime Pie
+    display-name-limesmoothieitem: Lime Smoothie
+    display-name-limeyogurtitem: Lime Yogurt
+    display-name-liverandonionsitem: Liver And Onions
+    display-name-loadedbakedpotatoitem: Loaded Baked Potato
+    display-name-loxbagelsandwichitem: Loxbagel Sandwich
+    display-name-lycheejellyitem: Lychee Jelly
+    display-name-lycheejellysandwichitem: Lychee Jelly Sandwich
+    display-name-lycheejellytoastitem: Lychee Jelly Toast
+    display-name-lycheejuiceitem: Lychee Juice
+    display-name-lycheepieitem: Lychee Pie
+    display-name-lycheesmoothieitem: Lychee Smoothie
+    display-name-lycheeyogurtitem: Lychee Yogurt
+    display-name-mangochutneyitem: Mango Chutney
+    display-name-mangojellyitem: Mango Jelly
+    display-name-mangojellysandwichitem: Mango Jelly Sandwich
+    display-name-mangojellytoastitem: Mango Jelly Toast
+    display-name-mangojuiceitem: Mango Juice
+    display-name-mangopieitem: Mango Pie
+    display-name-mangosmoothieitem: Mango Smoothie
+    display-name-mangoyogurtitem: Mango Yogurt
+    display-name-manjuuitem: Manjuu
+    display-name-maplecandiedbaconitem: Maple Candied B0acon
+    display-name-mapleoatmealitem: Maple Oatmeal
+    display-name-maplesausageitem: Maple Sausage
+    display-name-maplesyruppancakesitem: Maple Syrup Pancakes
+    display-name-maplesyrupwafflesitem: Maple Syrup Waffles
+    display-name-marzipanitem: Marzipan
+    display-name-mashedpotatoeschickenbiscuititem: Mashed Potatoes Chicken Biscuit
+    display-name-mashedsweetpotatoesitem: Mashed Sweet Potatoes
+    display-name-mcpamitem: Mcpam
+    display-name-meatfeastpizzaitem: Meat Feast Pizza
+    display-name-meatloafsandwichitem: Meatloaf Sandwich
+    display-name-meatpieitem: Meat Pie
+    display-name-meatystirfryitem: Meaty Stirfry
+    display-name-meesuaitem: Meesua
+    display-name-melonjellysandwichitem: Melon Jelly Sandwich
+    display-name-meringueitem: Meringue
+    display-name-meringuebombeitem: Meringue Bombe
+    display-name-meringuebrownieitem: Meringue Brownie
+    display-name-meringuecookieitem: Meringue Cookie
+    display-name-meringuerouladeitem: Meringue Roulade
+    display-name-merveilleuxitem: Merveilleux
+    display-name-mettbrotchenitem: Mettbrotchen
+    display-name-mincepieitem: Mince Pie
+    display-name-mintchocolatechipicecreamitem: Mint Chocolate Chip Icecream
+    display-name-misopasteitem: Misopaste
+    display-name-misosoupitem: Misosoup
+    display-name-mixedflowerssaladitem: Mixed Flowers Salad
+    display-name-mixedsaladitem: Mixed Salad
+    display-name-mochaicecreamitem: Mocha Icecream
+    display-name-mochiitem: Mochi
+    display-name-mochicakeitem: Mochi Cake
+    display-name-mochidessertitem: Mochi Dessert
+    display-name-molasseschickenitem: Molasses Chicken
+    display-name-mozzerellasticksitem: Mozzerella Sticks
+    display-name-mulberryjellyitem: Mulberry Jelly
+    display-name-mulberryjellysandwichitem: Mulberry Jelly Sandwich
+    display-name-mulberryjellytoastitem: Mulberry Jelly Toast
+    display-name-mulberryjuiceitem: Mulberry Juice
+    display-name-mulberrypieitem: Mulberry Pie
+    display-name-mulberrysmoothieitem: Mulberry Smoothie
+    display-name-mulberryyogurtitem: Mulberry Yogurt
+    display-name-museliitem: Museli
+    display-name-mushroomketchupitem: Mushroom Ketchup
+    display-name-mushroomketchupomeletitem: Mushroom Ketchup Omelet
+    display-name-mushroomlasagnaitem: Mushroom Lasagna
+    display-name-mushroomoilitem: Mushroomoil
+    display-name-mushroomrisottoitem: Mushroom Risotto
+    display-name-mushroomsteakitem: Mushroom Steak
+    display-name-mustarditem: Mustard
+    display-name-musubiitem: Musubi
+    display-name-naanitem: Naan
+    display-name-nachoesitem: Nachoes
+    display-name-neapolitanicecreamitem: Neapolitan Icecream
+    display-name-nopalessaladitem: Nopales Salad
+    display-name-nuttoppedicecreamitem: Nut Topped Icecream
+    display-name-oatmealraisincookiesitem: Oatmeal Raisin Cookies
+    display-name-okrachipsitem: Okra Chips
+    display-name-okracreoleitem: Okra Creole
+    display-name-oldworldveggiesoupitem: Old World Veggiesoup
+    display-name-omeletitem: Omelet
+    display-name-omuriceitem: Omurice
+    display-name-onigiriitem: Onigiri
+    display-name-onionhamburgeritem: Onion Hamburger
+    display-name-onionringsitem: Onion Rings
+    display-name-orangechickenitem: Orange Chicken
+    display-name-orangegingerbeefitem: Orange Ginger Beef
+    display-name-orangejellyitem: Orange Jelly
+    display-name-orangejellysandwichitem: Orange Jelly Sandwich
+    display-name-orangejellytoastitem: Orange Jelly Toast
+    display-name-orangejuiceitem: Orange Juice
+    display-name-orangepieitem: Orange Pie
+    display-name-orangesmoothieitem: Orange Smoothie
+    display-name-orangesodaitem: Orange Soda
+    display-name-orangeyogurtitem: Orange Yogurt
+    display-name-ovenroastedcaulifloweritem: Oven Roasted Cauliflower
+    display-name-oystersauceitem: Oyster Sauce
+    display-name-padthaiitem: Padthai
+    display-name-pambitsboxitem: Pambits Box
+    display-name-pancakesitem: Pancakes
+    display-name-paneeritem: Paneer
+    display-name-paneertikkamasalaitem: Paneer Tikka Masala
+    display-name-papayajellyitem: Papaya Jelly
+    display-name-papayajellysandwichitem: Papaya Jelly Sandwich
+    display-name-papayajellytoastitem: Papaya Jelly Toast
+    display-name-papayajuiceitem: Papaya Juice
+    display-name-papayapieitem: Papaya Pie
+    display-name-papayasmoothieitem: Papaya Smoothie
+    display-name-papayayogurtitem: Papaya Yogurt
+    display-name-paradiseburgeritem: Paradise Burger
+    display-name-passionfruitjellyitem: Passionfruit Jelly
+    display-name-passionfruitjellysandwichitem: Passionfruit Jelly Sandwich
+    display-name-passionfruitjellytoastitem: Passionfruit Jelly Toast
+    display-name-passionfruitjuiceitem: Passionfruit Juice
+    display-name-passionfruitpieitem: Passionfruit Pie
+    display-name-passionfruitsmoothieitem: Passionfruit Smoothie
+    display-name-passionfruityogurtitem: Passionfruit Yogurt
+    display-name-pastagardeniaitem: Pasta Gardenia
+    display-name-pavlovaitem: Pavlova
+    display-name-pawpawjellyitem: Pawpaw Jelly
+    display-name-pawpawjellysandwichitem: Pawpaw Jelly Sandwich
+    display-name-pawpawjellytoastitem: Pawpaw Jelly Toast
+    display-name-pawpawjuiceitem: Pawpaw Juice
+    display-name-pawpawpieitem: Pawpaw Pie
+    display-name-pawpawsmoothieitem: Pawpaw Smoothie
+    display-name-pawpawyogurtitem: Pawpaw Yogurt
+    display-name-peaandhamsoupitem: Pea And Ham Soup
+    display-name-peachcobbleritem: Peach Cobbler
+    display-name-peachesandcreamoatmealitem: Peaches And Cream Oatmeal
+    display-name-peachjellyitem: Peach Jelly
+    display-name-peachjellysandwichitem: Peach Jelly Sandwich
+    display-name-peachjellytoastitem: Peach Jelly T0oast
+    display-name-peachjuiceitem: Peach Juice
+    display-name-peachpieitem: Peach Pie
+    display-name-peachsmoothieitem: Peach Smoothie
+    display-name-peachyogurtitem: Peach Yogurt
+    display-name-peanutbutteritem: Peanut Butter
+    display-name-peanutbutterbananapancakesitem: Peanut Butter Banana Pancakes
+    display-name-peanutbutterbananasandwichitem: Peanut Butter Banana Sandwich
+    display-name-peanutbuttercookiesitem: Peanut Butter Cookies
+    display-name-peanutbuttercupitem: Peanut Butter Cup
+    display-name-peanutchocolatebaritem: Peanut Chocolate Bar
+    display-name-pearjellyitem: Pear Jelly
+    display-name-pearjellysandwichitem: Pear Jelly Sandwich
+    display-name-pearjellytoastitem: Pear Jelly Toast
+    display-name-pearjuiceitem: Pear Juice
+    display-name-pearpieitem: Pear Pie
+    display-name-pearsmoothieitem: Pear Smoothie
+    display-name-pearyogurtitem: Pear Yogurt
+    display-name-peasandceleryitem: Peas And Celery
+    display-name-pecanbutteritem: Pecan Butter
+    display-name-pecanpieitem: Pecan Pie
+    display-name-pemmicanitem: Pemmican
+    display-name-peppermintitem: Pepper Mint
+    display-name-pepperoniitem: Pepperoni
+    display-name-pepperonipizzaitem: Pepperoni Pizza
+    display-name-pepperstirfryitem: Pepper Stirfry
+    display-name-persimmonjellyitem: Persimmon Jelly
+    display-name-persimmonjellysandwichitem: Persimmon Jelly Sandwich
+    display-name-persimmonjellytoastitem: Persimmon Jelly Toast
+    display-name-persimmonjuiceitem: Persimmon Juice
+    display-name-persimmonpieitem: Persimmon Pie
+    display-name-persimmonsmoothieitem: Persimmon Smoothie
+    display-name-persimmonyogurtitem: Persimmon Yogurt
+    display-name-phoitem: Pho
+    display-name-pickledonionsitem: Pickled O0nions
+    display-name-picklesitem: Pickles
+    display-name-pigshapeitem: Pigshape
+    display-name-pinacoladaitem: Pina Colada
+    display-name-pineapplehamitem: Pineapple Ham
+    display-name-pineapplejellyitem: Pineapple Jelly
+    display-name-pineapplejellysandwichitem: Pineapple Jelly Sandwich
+    display-name-pineapplejellytoastitem: Pineapple Jelly Toast
+    display-name-pineapplejuiceitem: Pineapple Juice
+    display-name-pineapplepieitem: Pineapple Pie
+    display-name-pineapplesmoothieitem: Pineapple Smoothie
+    display-name-pineappleupsidedowncakeitem: Pineapple Upsidedown Cake
+    display-name-pineappleyogurtitem: Pineapple Yogurt
+    display-name-pinkelitem: Pinkel
+    display-name-pistachiobutteritem: Pistachio Butter
+    display-name-pitepaltitem: Pitepalt
+    display-name-pizzasliceitem: Pizza Slice
+    display-name-pizzasoupitem: Pizza Soup
+    display-name-ploughmanslunchitem: Ploughmans Lunch
+    display-name-plumjellyitem: Plum Jelly
+    display-name-plumjellysandwichitem: Plum Jelly Sandwich
+    display-name-plumjellytoastitem: Plum Jelly Toast
+    display-name-plumjuiceitem: Plum Juice
+    display-name-plumpieitem: Plum Pie
+    display-name-plumsmoothieitem: Plum Smoothie
+    display-name-plumyogurtitem: Plum Yogurt
+    display-name-poachedpearitem: Poached Pear
+    display-name-pokebowlitem: Pokebowl
+    display-name-pomegranatejellyitem: Pomegranate Jelly
+    display-name-pomegranatejellysandwichitem: Pomegranate Jelly Sandwich
+    display-name-pomegranatejellytoastitem: Pomegranate Jelly Toast
+    display-name-pomegranatejuiceitem: Pomegranate Juice
+    display-name-pomegranatepieitem: Pomegranate Pie
+    display-name-pomegranatesmoothieitem: Pomegranate Smoothie
+    display-name-pomegranateyogurtitem: Pomegranate Yogurt
+    display-name-popcornitem: Popcorn
+    display-name-porklettucewrapitem: Pork Lettuce Wrap
+    display-name-porklomeinitem: Pork Lomein
+    display-name-porkrindsitem: Pork Rinds
+    display-name-potatoandcheesepirogiitem: Potato And Cheese Pirogi
+    display-name-potatoandleeksoupitem: Potato And Leek Soup
+    display-name-potatocakesitem: Potato Cakes
+    display-name-potatoesobrienitem: Potatoe Sobrien
+    display-name-potatoskinsitem: Potato Skins
+    display-name-potstickersitem: Pot Stickers
+    display-name-poutineitem: Poutine
+    display-name-powdereddonutitem: Powdered Donut
+    display-name-pralinesitem: Pralines
+    display-name-pumpkinoatsconesitem: Pumpkin Oat Scones
+    display-name-pumpkinspicelatteitem: Pumpkin Spice L0atte
+    display-name-quesadillaitem: Quesadilla
+    display-name-rabbitshapeitem: Rabbitshape
+    display-name-rainbowcurryitem: Rainbow Curry
+    display-name-raisinsitem: Raisins
+    display-name-rambutanjellyitem: Rambutan Jelly
+    display-name-rambutanjellysandwichitem: Rambutan Jelly Sandwich
+    display-name-rambutanjellytoastitem: Rambutan Jelly Toast
+    display-name-rambutanjuiceitem: Rambutan Juice
+    display-name-rambutanpieitem: Rambutan Pie
+    display-name-rambutansmoothieitem: Rambutan Smoothie
+    display-name-rambutanyogurtitem: Rambutan Yogurt
+    display-name-ramenitem: Ramen
+    display-name-ranchfriedchickenitem: Ranch Fried Chicken
+    display-name-raspberryjellyitem: Raspberry Jelly
+    display-name-raspberryjellysandwichitem: Raspberry Jelly Sandwich
+    display-name-raspberryjellytoastitem: Raspberry Jelly Toast
+    display-name-raspberryjuiceitem: Raspberry Juice
+    display-name-raspberrypieitem: Raspberry Pie
+    display-name-raspberrysmoothieitem: Raspberry Smoothie
+    display-name-raspberrytrifleitem: Raspberry Trifle
+    display-name-raspberryyogurtitem: Raspberry Yogurt
+    display-name-rawtofabbititem: Raw tofabbit
+    display-name-rawtofaconitem: Raw tofacon
+    display-name-rawtofeakitem: Raw tofeak
+    display-name-rawtofickenitem: Raw toficken
+    display-name-rawtofishitem: Raw tofish
+    display-name-rawtofuttonitem: Raw tofutton
+    display-name-redvelvetcakeitem: Red Velvet Cake
+    display-name-redvelvetcupcakeitem: Red Velvet Cupcake
+    display-name-refriedbeansitem: Refried Beans
+    display-name-relishitem: Relish
+    display-name-ricecakeitem: Rice Cake
+    display-name-ricepuddingitem: Rice Pudding
+    display-name-rivermudcakeitem: River Mudcake
+    display-name-roastchickenitem: Roast Chicken
+    display-name-roastedrootveggiemedleyitem: Roasted Root Veggie Medley
+    display-name-roastpotatoesitem: Roast Potatoes
+    display-name-rootbeerfloatitem: Root Beer Float
+    display-name-rootbeersodaitem: Root Beer Soda
+    display-name-rosepetalteaitem: Rose Petal Tea
+    display-name-rouxitem: Roux
+    display-name-saladdressingitem: Salad Dressing
+    display-name-salisburysteakitem: Salisbury Steak
+    display-name-salsaitem: Salsa
+    display-name-saltandpepperitem: Salt And Pepper
+    display-name-saltedcaramelitem: Salted Caramel
+    display-name-saucedlambkebabitem: Sauced Lamb Kebab
+    display-name-sauerbratenitem: Sauerbraten
+    display-name-sausageitem: Sausage
+    display-name-sausagebeanmeltitem: Sausage Bean Melt
+    display-name-sausageinbreaditem: Sausage In Bread
+    display-name-sausagerollitem: Sausage Roll
+    display-name-scallionbakedpotatoitem: Scallion Baked Potato
+    display-name-schnitzelitem: Schnitzel
+    display-name-seedenergygelitem: Seedenergygel
+    display-name-seedsoupitem: Seed Soup
+    display-name-sesameballitem: Sesame Ball
+    display-name-sesameoilitem: Sesame Oil
+    display-name-sesamesnapsitem: Sesame Snaps
+    display-name-sheepshapeitem: Sheepshape
+    display-name-shepardspieitem: Shepards Pie
+    display-name-silkentofuitem: Silken Tofu
+    display-name-slawdogitem: Slawdog
+    display-name-sorbetitem: Sorbet
+    display-name-sourcreamandonionpotatochipsitem: Sourcream And Onion Potatochips
+    display-name-soursopjellyitem: Soursop Jelly
+    display-name-soursopjellysandwichitem: Soursop Jelly Sandwich
+    display-name-soursopjellytoastitem: Soursop Jelly Toast
+    display-name-soursopjuiceitem: Soursop Juice
+    display-name-soursoppieitem: Soursop Pie
+    display-name-soursopsmoothieitem: Soursop Smoothie
+    display-name-soursopyogurtitem: Soursop Yogurt
+    display-name-southernstylebreakfastitem: Southern Style Breakfast
+    display-name-soymilkitem: Soy Milk
+    display-name-soysauceitem: Soy Sauce
+    display-name-spagettiitem: Spagetti
+    display-name-spagettiandmeatballsitem: Spagetti And Meatballs
+    display-name-spaghettidinneritem: Spaghetti Dinner
+    display-name-spicebunitem: Spice Bun
+    display-name-spicygreensitem: Spicy Greens
+    display-name-spicymustardporkitem: Spicy Mustard Pork
+    display-name-spinachpieitem: Spinach Pie
+    display-name-splitpeasoupitem: Split Pea Soup
+    display-name-springfieldcashewchickenitem: Springfield Cashew Chicken
+    display-name-springrollitem: Spring Roll
+    display-name-springsaladitem: Spring Salad
+    display-name-sprinklescupcakeitem: Sprinkles Cupcake
+    display-name-squidinkspaghettiitem: Squid Ink Spaghetti
+    display-name-starfruitjellyitem: Starfruit Jelly
+    display-name-starfruitjellysandwichitem: Starfruit Jelly Sandwich
+    display-name-starfruitjellytoastitem: Starfruit Jelly Toast
+    display-name-starfruitjuiceitem: Starfruit Juice
+    display-name-starfruitpieitem: Starfruit Pie
+    display-name-starfruitsmoothieitem: Starfruit Smoothie
+    display-name-starfruityogurtitem: Starfruit Yogurt
+    display-name-steakandchipsitem: Steak And Chips
+    display-name-steakfajitaitem: Steak Fajita
+    display-name-steaktartareitem: Steak Tartare
+    display-name-strawberryjellyitem: Strawberry Jelly
+    display-name-strawberryjellysandwichitem: Strawberry Jelly Sandwich
+    display-name-strawberryjellytoastitem: Strawberry Jelly Toast
+    display-name-strawberryjuiceitem: Strawberry Juice
+    display-name-strawberrypieitem: Strawberry Pie
+    display-name-strawberryrhubarbpieitem: Strawberry Rhubarb Pie
+    display-name-strawberrysmoothieitem: Strawberry Smoothie
+    display-name-strawberrysodaitem: Strawberry Soda
+    display-name-strawberrysouffleitem: Strawberry Souffle
+    display-name-strawberryyogurtitem: Strawberry Yogurt
+    display-name-stuffedchilipeppersitem: Stuffed Chili Peppers
+    display-name-stuffedeggplantitem: Stuffed Eggplant
+    display-name-stuffedmushroomitem: Stuffed Mushroom
+    display-name-stuffedpepperitem: Stuffed Pepper
+    display-name-stuffingitem: Stuffing
+    display-name-suaderoitem: Suadero
+    display-name-succotashitem: Succotash
+    display-name-sugarcookieitem: Sugar Cookie
+    display-name-summersquashwithradishitem: Summer Squash With Radish
+    display-name-sundayhighteaitem: Sunday High Tea
+    display-name-sundayroastitem: Sunday Roast
+    display-name-sunflowerbroccolisaladitem: Sunflower Broccoli Salad
+    display-name-sunflowerseedsbutteritem: Sunflower Seeds Butter
+    display-name-sunflowerwheatrollsitem: Sunflower Wheat Rolls
+    display-name-supremepizzaitem: Supreme Pizza
+    display-name-surfandturfitem: Surf And Turf
+    display-name-sushiitem: Sushi
+    display-name-swedishmeatballsitem: Swedish Meatballs
+    display-name-sweetandsourchickenitem: Sweet And Sour Chicken
+    display-name-sweetandsourmeatballsitem: Sweet And Sour Meatballs
+    display-name-sweetandsoursauceitem: Sweet And Sour Sauce
+    display-name-sweetberryjellysandwichitem: Sweetberry Jelly Sandwich
+    display-name-sweetpickleitem: Sweet Pickle
+    display-name-sweetpotatopieitem: Sweet Potato Pie
+    display-name-sweetpotatosouffleitem: Sweet Potato Souffle
+    display-name-sweetteaitem: Sweet Tea
+    display-name-szechuaneggplantitem: Szechuan Eggplant
+    display-name-tacoitem: Taco
+    display-name-taiyakiitem: Taiyaki
+    display-name-takoyakiitem: Takoyaki
+    display-name-tamarindjellyitem: Tamarind Jelly
+    display-name-tamarindjellysandwichitem: Tamarind Jelly Sandwich
+    display-name-tamarindjellytoastitem: Tamarind Jelly Toast
+    display-name-tamarindjuiceitem: Tamarind Juice
+    display-name-tamarindpieitem: Tamarind Pie
+    display-name-tamarindsmoothieitem: Tamarind Smoothie
+    display-name-tamarindyogurtitem: Tamarind Yogurt
+    display-name-tatertotsitem: Tater Tots
+    display-name-teriyakichickenitem: Teriyaki Chicken
+    display-name-theatreboxitem: Theatre Box
+    display-name-threebeansaladitem: Three Bean Salad
+    display-name-timpanoitem: Timpano
+    display-name-timtamitem: Timtam
+    display-name-tiropitaitem: Tiro Pita
+    display-name-toadintheholeitem: Toad In The Hole
+    display-name-toastedwesternitem: Toasted Western
+    display-name-toastsandwichitem: Toast Sandwich
+    display-name-tomatoherbchickenitem: Tomato Herb Chicken
+    display-name-tomatosoupitem: Tomato Soup
+    display-name-tortillaitem: Tortilla
+    display-name-tortillachipsitem: Tortilla Chips
+    display-name-turkishdelightitem: Turkish Delight
+    display-name-vanillaitem: Vanilla
+    display-name-vanillaconchasbreaditem: Vanilla Conchas Bread
+    display-name-vanillaicecreamitem: Vanilla Icecream
+    display-name-vegemiteitem: Vegemite
+    display-name-vegemiteontoastitem: Vegemite On Toast
+    display-name-vegetablesoupitem: Vegetable Soup
+    display-name-vegetarianlettucewrapitem: Vegetarian Lettuce Wrap
+    display-name-veggiestirfryitem: Veggie Stirfry
+    display-name-veggiestripsitem: Veggie Strips
+    display-name-vindalooitem: Vindaloo
+    display-name-wafflesitem: Waffles
+    display-name-walnutbutteritem: Walnut Butter
+    display-name-walnutraisinbreaditem: Walnut Raisin Bread
+    display-name-weekendpicnicitem: Weekend Picnic
+    display-name-wontonsoupitem: Wonton Soup
+    display-name-yorkshirepuddingitem: Yorkshire Pudding
+    display-name-zeppoleitem: Zeppole
+    display-name-zestyzucchiniitem: Zesty Zucchini
+    display-name-zucchinibakeitem: Zucchini Bake
+    display-name-zucchinifriesitem: Zucchini Fries
+    # End of Food Extended

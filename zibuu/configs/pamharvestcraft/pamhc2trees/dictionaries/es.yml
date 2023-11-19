@@ -1,0 +1,124 @@
+#   CRÉDITOS:
+#
+#   Traducido por: Kissadere
+#   Twitter: @Kissadere
+#   E-mail: kissadere@zibuu.net
+#   Website: https://studio.zibuu.net/
+#
+info:
+    namespace: pamhc2trees
+    dictionary-lang: "es"
+dictionary:
+    # Category & Lore
+    display-category-name-trees: 'Frutas y vegetales'
+    display-lore-saturation-value-trees: '&a+1 &7Saturación'
+    display-lore-food-value-trees: '&a+1 &7Comida'
+    display-lore-category-name-trees: '&8Frutas y vegetales'
+    # Trees
+    display-category-pamhc2trees: "Frutas y Verduras"
+    display-name-acornitem: Bellota
+    display-name-almonditem: Almendra
+    display-name-apricotitem: Albaricoque
+    display-name-avocadoitem: Aguacate
+    display-name-bananaitem: Plátano
+    display-name-breadfruititem: Panapén
+    display-name-candlenutitem: Candlenut
+    display-name-cashewitem: Cajuil
+    display-name-cherryitem: Cereza
+    display-name-chestnutitem: Castaña
+    display-name-cinnamonitem: Canela
+    display-name-coconutitem: Coco
+    display-name-dateitem: Dátil
+    display-name-dragonfruititem: Fruta del dragón
+    display-name-durianitem: Durián
+    display-name-figitem: Higo
+    display-name-gooseberryitem: Grosella
+    display-name-grapefruititem: Pomelo
+    display-name-guavaitem: Guayaba
+    display-name-hazelnutitem: Avellana
+    display-name-jackfruititem: Jaca
+    display-name-lemonitem: Limón
+    display-name-limeitem: Lima
+    display-name-lycheeitem: Lychee
+    display-name-mangoitem: Mango
+    display-name-maplesyrupitem: Maple
+    display-name-nutmegitem: Nuez Moscada
+    display-name-oliveitem: Aceituna
+    display-name-orangeitem: Naranja
+    display-name-papayaitem: Papaya
+    display-name-passionfruititem: Fruta de la pasión
+    display-name-pawpawitem: Pawpaw
+    display-name-peachitem: Durazno
+    display-name-pearitem: Pera
+    display-name-pecanitem: Pecana
+    display-name-peppercornitem: Pimienta
+    display-name-persimmonitem: Persimo
+    display-name-pinenutitem: Sésamo
+    display-name-pistachioitem: Pistache
+    display-name-plumitem: Ciruela
+    display-name-pomegranateitem: Granada
+    display-name-rambutanitem: Rambután
+    display-name-roastedacornitem: Maiz rostizado
+    display-name-roastedalmonditem: Almenda rostizada
+    display-name-roastedcashewitem: Anacardo rostizado
+    display-name-roastedchestnutitem: Castaña rostizada
+    display-name-roastedhazelnutitem: Avellana rostizada
+    display-name-roastedpecanitem: Pacana rostizada
+    display-name-roastedpinenutitem: Sésamo rostizado
+    display-name-roastedpistachioitem: Pistache rostizado
+    display-name-roastedwalnutitem: Nuez rostizada
+    display-name-soursopitem: Guanábana
+    display-name-starfruititem: Carambolo
+    display-name-tamarinditem: Tamarindo
+    display-name-vanillabeanitem: Vanilla
+    display-name-walnutitem: Nuez
+    # Saplings
+    display-name-almondtreesapling: Retoño de Almendra
+    display-name-apricottreesapling: Retoño de Albaricoque
+    display-name-avocadotreesapling: Retoño de Aguacate
+    display-name-bananatreesapling: Retoño de Plátano
+    display-name-breadfruittreesapling: Retoño de Panapén
+    display-name-candlenuttreesapling: Retoño de Candlenut
+    display-name-cashewtreesapling: Retoño de Cajuil
+    display-name-cherrytreesapling: Retoño de Cereza
+    display-name-chestnuttreesapling: Retoño de Castaña
+    display-name-cinnamontreesapling: Retoño de Canela
+    display-name-coconuttreesapling: Retoño de Coco
+    display-name-datetreesapling: Retoño de Dátil
+    display-name-dragonfruittreesapling: Retoño de Fruta del dragón
+    display-name-duriantreesapling: Retoño de Durián
+    display-name-figtreesapling: Retoño de Higo
+    display-name-gooseberrytreesapling: Retoño de Grosella
+    display-name-grapefruittreesapling: Retoño de Pomelo
+    display-name-guavatreesapling: Retoño de Guayaba
+    display-name-hazelnuttreesapling: Retoño de Avellana
+    display-name-jackfruittreesapling: Retoño de Jaca
+    display-name-lemontreesapling: Retoño de Limón
+    display-name-limetreesapling: Retoño de Lima
+    display-name-lycheetreesapling: Retoño de Lychee
+    display-name-mangotreesapling: Retoño de Mango
+    display-name-nutmegtreesapling: Retoño de Nuez Moscada
+    display-name-olivetreesapling: Retoño de Aceituna
+    display-name-orangetreesapling: Retoño de Naranja
+    display-name-papayatreesapling: Retoño de Papaya
+    display-name-passionfruittreesapling: Retoño de Fruta de la pasión
+    display-name-pawpawtreesapling: Retoño de Pawpaw
+    display-name-peachtreesapling: Retoño de Durazno
+    display-name-peartreesapling: Retoño de Pera
+    display-name-pecantreesapling: Retoño de Pecana
+    display-name-peppercorntreesapling: Retoño de Pimienta
+    display-name-persimmontreesapling: Retoño de Persimo
+    display-name-pinenuttreesapling: Retoño de Sésamo
+    display-name-pistachiotreesapling: Retoño de Pistache
+    display-name-plumtreesapling: Retoño de Ciruela
+    display-name-pomegranatetreesapling: Retoño de Granada
+    display-name-rambutantreesapling: Retoño de Rambután
+    display-name-soursoptreesapling: Retoño de Guanábana
+    display-name-starfruittreesapling: Retoño de Carambolo
+    display-name-tamarindtreesapling: Retoño de Tamarindo
+    display-name-vanillabeantreesapling: Retoño de Vanilla
+    display-name-walnuttreesapling: Retoño de Nuez
+    # Logs & Leaves
+    display-name-pamleaves: Hojas
+    display-name-pamlog: Tronco
+    # End of Trees
