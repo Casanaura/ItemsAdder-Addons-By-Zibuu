@@ -1,0 +1,36 @@
+#   CREDITOS:
+#
+#   Traducido por: Kissadere
+#   Twitter: @Kissadere
+#   E-mail: kissadere@zibuu.net
+#   Website: www.zibuu.net
+#
+info:
+    namespace: drugs
+    dictionary-lang: "es"
+dictionary:
+    display-name-cocaineseed: "Semilla de coca"
+    display-name-cocaineleaf: "Hoja de coca"
+    display-name-cocaine: "Cocaína"
+    display-name-cocainepackage: "Paquete de cocaína"
+    display-name-weedseed: "Semilla de marihuana"
+    display-name-weedleaf: "Hoja de marihuana"
+    display-name-joint: "Porro de marihuana"
+    display-name-weedpackage: "Paquete de marihuana"
+    display-name-tobaccoleaf: "Hoja de tabaco"
+    display-name-driedtobaccoleaf: "Hoja seca de tabaco"
+    display-name-tobacco: "Tabaco en polvo"
+    display-name-cigar: "Puro"
+    display-name-cigarette: "Cigarro"
+    display-name-peyote: "Peyote"
+    display-name-peyoteslice: "Pedazo de peyote"
+    display-name-magicmushroom: "Hongo mágico"
+    display-name-lsaseed: "Semilla de LSA"
+    display-name-lsapowder: "Polvo de LSA"
+    display-name-lsdblotter: "Cuadro"
+    display-name-pipewithlsa: "Pipa con LSA"
+    display-name-lsakohresidue: "Residuos de LSA"
+    display-name-cbpill: "Píldora de CB"
+    display-name-mdmapill: "Píldora de MDMA"
+    display-name-emptypipe: "Pipa vacía"
+    display-name-filter: "Filtro"
