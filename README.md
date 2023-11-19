@@ -34,8 +34,10 @@ This project is made to bring the functionality
 
 
 ### Installation
-<a href="https://studio.zibuu.net/wiki/harvestcraft-port/">Harvestcraft Add-On Installation</a>
-<a href="https://studio.zibuu.net/wiki/aquaculture/">Aquaculture Add-On Installation</a>
+<ul>
+  <li><a href="https://studio.zibuu.net/wiki/harvestcraft-port/">Harvestcraft Add-On Installation</a></li>
+  <li><a href="https://studio.zibuu.net/wiki/aquaculture/">Aquaculture Add-On Installation</a></li>
+</ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
