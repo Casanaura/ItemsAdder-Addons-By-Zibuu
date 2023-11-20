@@ -1,0 +1,615 @@
+info:
+  namespace: ztrees
+
+items:
+  almondtreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  appletreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  apricottreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  avocadotreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  bananatreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  breadfruittreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  candlenuttreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  cashewtreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  cherrytreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  datetreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  dragonfruittreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  duriantreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  figtreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  gooseberrytreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  grapefruittreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  guavatreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  hazelnuttreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  jackfruittreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  lemontreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  limetreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  lycheetreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  mangotreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  nutmegtreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  olivetreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  orangetreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  papayatreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  passionfruittreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  pawpawtreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  peachtreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  peartreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  pecantreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  peppercorntreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  persimmontreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  pistachiotreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  plumtreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  pomegranatetreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  rambutantreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  soursoptreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  starfruittreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  tamarindtreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  vanillabeantreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+  walnuttreeleaves:
+    display_name: display-name-zleaves
+    resource:
+      material: OAK_LEAVES
+      generate: true
+      textures:
+      - block/trees/z_leaves.png
+    specific_properties:
+      block:
+        hardness: 0.2
+        cancel_drop: true
+        placed_model:
+          type: REAL_TRANSPARENT
+          break_particles: ITEM
+
+  corelog:
+    display_name: display-name-zlog
+    resource:
+      material: BROWN_MUSHROOM_BLOCK
+      generate: true
+      textures:
+      - block/trees/z_log_top.png
+      - block/trees/z_log.png
+      - block/trees/z_log.png
+      - block/trees/z_log.png
+      - block/trees/z_log_top.png
+      - block/trees/z_log.png
+    specific_properties:
+      block:
+        hardness: 1.7
+        placed_model:
+          type: REAL
+          break_particles: ITEM
+        break_tools_whitelist:
+        - _AXE
+        - _axe
+        - HAND

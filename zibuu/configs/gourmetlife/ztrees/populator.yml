@@ -1,0 +1,802 @@
+info:
+  namespace: ztrees
+
+trees_populators:
+  almondtree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:almondtreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  appletree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:appletreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  apricottree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:apricottreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  avocadotree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:avocadotreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  bananatree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:bananatreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  breadfruittree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:breadfruittreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  candlenuttree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:candlenuttreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  cashewtree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:cashewtreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  cherrytree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:cherrytreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  datetree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:datetreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  dragonfruittree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:dragonfruittreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  duriantree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:duriantreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  figtree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:figtreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  gooseberrytree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:gooseberrytreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  grapefruittree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:grapefruittreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  guavatree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:guavatreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  hazelnuttree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:hazelnuttreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  jackfruittree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:jackfruittreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  lemontree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:lemontreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  limetree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:limetreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  lycheetree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:lycheetreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  mangotree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:mangotreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  nutmegtree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:nutmegtreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  olivetree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:olivetreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  orangetree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:orangetreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  papayatree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:papayatreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  passionfruittree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:passionfruittreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  pawpawtree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:pawpawtreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  peachtree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:peachtreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  peartree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:peartreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  pecantree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:pecantreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  peppercorntree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:peppercorntreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  persimmontree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:persimmontreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  pistachiotree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:pistachiotreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  plumtree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:plumtreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  pomegranatetree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:pomegranatetreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  rambutantree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:rambutantreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  soursoptree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:soursoptreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  starfruittree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:starfruittreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  tamarindtree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:tamarindtreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  vanillabeantree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:vanillabeantreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS
+  walnuttree:
+    worlds:
+    - world
+    bottom_blocks:
+    - DIRT
+    - GRASS_BLOCK
+    - PODZOL
+    chance: 0.0
+    max_height: 100
+    min_height: 50
+    amount: 3
+    iterations: 2
+    tree_type: TREE
+    leaves: ztrees:walnuttreeleaves
+    log: ztrees:corelog
+    biomes:
+    - PLAINS
+    - SUNFLOWER_PLAINS
+    - MOUNTAINS

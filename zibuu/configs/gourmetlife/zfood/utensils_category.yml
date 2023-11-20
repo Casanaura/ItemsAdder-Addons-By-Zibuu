@@ -1,0 +1,18 @@
+info:
+  namespace: zfood
+
+categories:
+  zfood:
+    enabled: true
+    name: Utencilios de cocina
+    icon: zfood:potitem
+    items:
+    - zfood:bakewareitem
+    - zfood:cuttingboarditem
+    - zfood:grinderitem
+    - zfood:juiceritem
+    - zfood:mixingbowlitem
+    - zfood:potitem
+    - zfood:saucepanitem
+    - zfood:rolleritem
+    - zfood:skilletitem

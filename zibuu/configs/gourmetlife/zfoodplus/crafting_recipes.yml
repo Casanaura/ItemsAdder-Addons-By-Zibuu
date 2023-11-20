@@ -1,0 +1,7173 @@
+info:
+  namespace: zfoodplus
+
+recipes:
+  crafting_table:
+    aebleskivers:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:aebleskiversitem
+      shapeless: true
+    almondbutter:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:almondbutteritem
+      shapeless: true
+    anchovypepperonipizza:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:anchovypepperonipizzaitem
+      shapeless: true
+    applecider:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:applecideritem
+      shapeless: true
+    applefritter:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:applefritteritem
+      shapeless: true
+    applejellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:applejellysandwichitem
+      shapeless: true
+    applesnow:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:applesnowitem
+      shapeless: true
+    apricotglazedpork:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:apricotglazedporkitem
+      shapeless: true
+    apricotjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:apricotjellyitem
+      shapeless: true
+    apricotjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:apricotjellysandwichitem
+      shapeless: true
+    apricotjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:apricotjellytoastitem
+      shapeless: true
+    apricotjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:apricotjuiceitem
+      shapeless: true
+    apricotpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:apricotpieitem
+      shapeless: true
+    apricotsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:apricotsmoothieitem
+      shapeless: true
+    apricotyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:apricotyogurtitem
+      shapeless: true
+    asparagusquiche:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:asparagusquicheitem
+      shapeless: true
+    avocadoburrito:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:avocadoburritoitem
+      shapeless: true
+    avocadotoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:avocadotoastitem
+      shapeless: true
+    babaganoush:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:babaganoushitem
+      shapeless: true
+    baconmushroomburger:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:baconmushroomburgeritem
+      shapeless: true
+    baconpancakes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:baconpancakesitem
+      shapeless: true
+    baconwrappedchili:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:baconwrappedchiliitem
+      shapeless: true
+    baconwrappeddates:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:baconwrappeddatesitem
+      shapeless: true
+    bakedalaska:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bakedalaskaitem
+      shapeless: true
+    bakedbeans:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bakedbeansitem
+      shapeless: true
+    bakedcactus:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bakedcactusitem
+      shapeless: true
+    bakedham:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bakedhamitem
+      shapeless: true
+    baklava:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:baklavaitem
+      shapeless: true
+    bamboosteamedrice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bamboosteamedriceitem
+      shapeless: true
+    bananajelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bananajellyitem
+      shapeless: true
+    bananajellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bananajellysandwichitem
+      shapeless: true
+    bananajellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bananajellytoastitem
+      shapeless: true
+    bananajuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bananajuiceitem
+      shapeless: true
+    banananutbread:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:banananutbreaditem
+      shapeless: true
+    bananapie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bananapieitem
+      shapeless: true
+    bananasmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bananasmoothieitem
+      shapeless: true
+    bananasplit:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bananasplititem
+      shapeless: true
+    bananayogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bananayogurtitem
+      shapeless: true
+    bangersandmash:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bangersandmashitem
+      shapeless: true
+    battenberg:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:battenbergitem
+      shapeless: true
+    batteredsausage:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:batteredsausageitem
+      shapeless: true
+    bbqchickenbiscuit:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bbqchickenbiscuititem
+      shapeless: true
+    bbqchickenpizza:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bbqchickenpizzaitem
+      shapeless: true
+    bbqjackfruit:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bbqjackfruititem
+      shapeless: true
+    bbqpotatochips:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bbqpotatochipsitem
+      shapeless: true
+    bbqpulledpork:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bbqpulledporkitem
+      shapeless: true
+    bbqsauce:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bbqsauceitem
+      shapeless: true
+    beanburrito:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:beanburritoitem
+      shapeless: true
+    beancornmeal:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:beancornmealitem
+      shapeless: true
+    beansandrice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:beansandriceitem
+      shapeless: true
+    beansontoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:beansontoastitem
+      shapeless: true
+    beefwellington:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:beefwellingtonitem
+      shapeless: true
+    beetburger:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:beetburgeritem
+      shapeless: true
+    bentobox:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bentoboxitem
+      shapeless: true
+    berrymeringuenest:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:berrymeringuenestitem
+      shapeless: true
+    berryvinaigrettesalad:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:berryvinaigrettesaladitem
+      shapeless: true
+    bibimbap:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bibimbapitem
+      shapeless: true
+    biscuit:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:biscuititem
+      shapeless: true
+    biscuitsandgravy:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:biscuitsandgravyitem
+      shapeless: true
+    blackberrycobbler:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blackberrycobbleritem
+      shapeless: true
+    blackberryjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blackberryjellyitem
+      shapeless: true
+    blackberryjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blackberryjellysandwichitem
+      shapeless: true
+    blackberryjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blackberryjellytoastitem
+      shapeless: true
+    blackberryjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blackberryjuiceitem
+      shapeless: true
+    blackberrypie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blackberrypieitem
+      shapeless: true
+    blackberrysmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blackberrysmoothieitem
+      shapeless: true
+    blackberryyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blackberryyogurtitem
+      shapeless: true
+    blackpepper:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blackpepperitem
+      shapeless: true
+    blt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bltitem
+      shapeless: true
+    blueberryjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blueberryjellyitem
+      shapeless: true
+    blueberryjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blueberryjellysandwichitem
+      shapeless: true
+    blueberryjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blueberryjellytoastitem
+      shapeless: true
+    blueberryjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blueberryjuiceitem
+      shapeless: true
+    blueberrypie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blueberrypieitem
+      shapeless: true
+    blueberrysmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blueberrysmoothieitem
+      shapeless: true
+    blueberryyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:blueberryyogurtitem
+      shapeless: true
+    bologna:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bolognaitem
+      shapeless: true
+    bolognasandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bolognasandwichitem
+      shapeless: true
+    braisedonions:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:braisedonionsitem
+      shapeless: true
+    bratwurst:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bratwurstitem
+      shapeless: true
+    breadedporkchop:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:breadedporkchopitem
+      shapeless: true
+    breadfruitjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:breadfruitjellyitem
+      shapeless: true
+    breadfruitjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:breadfruitjellysandwichitem
+      shapeless: true
+    breadfruitjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:breadfruitjellytoastitem
+      shapeless: true
+    breadfruitjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:breadfruitjuiceitem
+      shapeless: true
+    breadfruitpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:breadfruitpieitem
+      shapeless: true
+    breadfruitsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:breadfruitsmoothieitem
+      shapeless: true
+    breadfruityogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:breadfruityogurtitem
+      shapeless: true
+    breakfastburrito:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:breakfastburritoitem
+      shapeless: true
+    briochebun:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:briochebunitem
+      shapeless: true
+    broccolimac:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:broccolimacitem
+      shapeless: true
+    broccolindip:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:broccolindipitem
+      shapeless: true
+    brownie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:brownieitem
+      shapeless: true
+    bulgogi:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:bulgogiitem
+      shapeless: true
+    buttertart:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:buttertartitem
+      shapeless: true
+    cactusfruitjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cactusfruitjellyitem
+      shapeless: true
+    cactusfruitjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cactusfruitjellysandwichitem
+      shapeless: true
+    cactusfruitjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cactusfruitjellytoastitem
+      shapeless: true
+    cactusfruitjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cactusfruitjuiceitem
+      shapeless: true
+    cactusfruitpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cactusfruitpieitem
+      shapeless: true
+    cactusfruitsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cactusfruitsmoothieitem
+      shapeless: true
+    cactusfruityogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cactusfruityogurtitem
+      shapeless: true
+    cactussoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cactussoupitem
+      shapeless: true
+    californiaroll:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:californiarollitem
+      shapeless: true
+    candiedginger:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:candiedgingeritem
+      shapeless: true
+    candiedlemon:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:candiedlemonitem
+      shapeless: true
+    candiedpecans:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:candiedpecansitem
+      shapeless: true
+    candiedsweetpotatoes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:candiedsweetpotatoesitem
+      shapeless: true
+    candiedwalnuts:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:candiedwalnutsitem
+      shapeless: true
+    candleberryjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:candleberryjellyitem
+      shapeless: true
+    candleberryjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:candleberryjellysandwichitem
+      shapeless: true
+    candleberryjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:candleberryjellytoastitem
+      shapeless: true
+    candleberryjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:candleberryjuiceitem
+      shapeless: true
+    candleberrypie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:candleberrypieitem
+      shapeless: true
+    candleberrysmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:candleberrysmoothieitem
+      shapeless: true
+    candleberryyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:candleberryyogurtitem
+      shapeless: true
+    candycorn:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:candycornitem
+      shapeless: true
+    cantaloupejelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cantaloupejellyitem
+      shapeless: true
+    cantaloupejellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cantaloupejellysandwichitem
+      shapeless: true
+    cantaloupejellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cantaloupejellytoastitem
+      shapeless: true
+    cantaloupejuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cantaloupejuiceitem
+      shapeless: true
+    cantaloupepie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cantaloupepieitem
+      shapeless: true
+    cantaloupesmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cantaloupesmoothieitem
+      shapeless: true
+    cantaloupeyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cantaloupeyogurtitem
+      shapeless: true
+    cantonesegreens:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cantonesegreensitem
+      shapeless: true
+    cantonesenoodles:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cantonesenoodlesitem
+      shapeless: true
+    capresesalad:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:capresesaladitem
+      shapeless: true
+    carrotjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:carrotjuiceitem
+      shapeless: true
+    cashewbutter:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cashewbutteritem
+      shapeless: true
+    cashewchicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cashewchickenitem
+      shapeless: true
+    ceasarsalad:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:ceasarsaladitem
+      shapeless: true
+    celeryandpeanutbutter:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:celeryandpeanutbutteritem
+      shapeless: true
+    ceviche:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cevicheitem
+      shapeless: true
+    chaitea:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chaiteaitem
+      shapeless: true
+    charsiu:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:charsiuitem
+      shapeless: true
+    cheddarandsourcreampotatochips:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cheddarandsourcreampotatochipsitem
+      shapeless: true
+    cheesedanish:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cheesedanishitem
+      shapeless: true
+    cheeseontoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cheeseontoastitem
+      shapeless: true
+    cheesesteak:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cheesesteakitem
+      shapeless: true
+    cheesytacotortillachips:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cheesytacotortillachipsitem
+      shapeless: true
+    cheezepuffs:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cheezepuffsitem
+      shapeless: true
+    cherrycoconutchocolatebar:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cherrycoconutchocolatebaritem
+      shapeless: true
+    cherryicecream:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cherryicecreamitem
+      shapeless: true
+    cherryjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cherryjellyitem
+      shapeless: true
+    cherryjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cherryjellysandwichitem
+      shapeless: true
+    cherryjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cherryjellytoastitem
+      shapeless: true
+    cherryjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cherryjuiceitem
+      shapeless: true
+    cherrypie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cherrypieitem
+      shapeless: true
+    cherrysmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cherrysmoothieitem
+      shapeless: true
+    cherrysoda:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cherrysodaitem
+      shapeless: true
+    cherryyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cherryyogurtitem
+      shapeless: true
+    chestnutbutter:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chestnutbutteritem
+      shapeless: true
+    chickenalfredo:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickenalfredoitem
+      shapeless: true
+    chickenandwaffles:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickenandwafflesitem
+      shapeless: true
+    chickenbiscuit:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickenbiscuititem
+      shapeless: true
+    chickencelerycasserole:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickencelerycasseroleitem
+      shapeless: true
+    chickenchowmein:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickenchowmeinitem
+      shapeless: true
+    chickencordonbleu:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickencordonbleuitem
+      shapeless: true
+    chickencurry:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickencurryitem
+      shapeless: true
+    chickendinner:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickendinneritem
+      shapeless: true
+    chickengumbo:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickengumboitem
+      shapeless: true
+    chickenkatsu:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickenkatsuitem
+      shapeless: true
+    chickennoodlesoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickennoodlesoupitem
+      shapeless: true
+    chickenpaella:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickenpaellaitem
+      shapeless: true
+    chickenparmasan:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickenparmasanitem
+      shapeless: true
+    chickenshape:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickenshapeitem
+      shapeless: true
+    chickentenders:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickentendersitem
+      shapeless: true
+    chickentendersmeal:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chickentendersmealitem
+      shapeless: true
+    chikoroll:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chikorollitem
+      shapeless: true
+    chili:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chiliitem
+      shapeless: true
+    chilichocolate:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chilichocolateitem
+      shapeless: true
+    chilidog:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chilidogitem
+      shapeless: true
+    chilipoppers:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chilipoppersitem
+      shapeless: true
+    chimichanga:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chimichangaitem
+      shapeless: true
+    chipsanddip:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chipsanddipitem
+      shapeless: true
+    chipsandsalsa:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chipsandsalsaitem
+      shapeless: true
+    chocolatecherry:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chocolatecherryitem
+      shapeless: true
+    chocolatechippancakes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chocolatechippancakesitem
+      shapeless: true
+    chocolatecoconutbar:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chocolatecoconutbaritem
+      shapeless: true
+    chocolatemilk:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chocolatemilkitem
+      shapeless: true
+    chocolatemilkshake:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chocolatemilkshakeitem
+      shapeless: true
+    chocolateorange:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chocolateorangeitem
+      shapeless: true
+    chocolateorangebiscuit:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chocolateorangebiscuititem
+      shapeless: true
+    chocolatepeanutbar:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chocolatepeanutbaritem
+      shapeless: true
+    chocolatepeanutsbar:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chocolatepeanutsbaritem
+      shapeless: true
+    chocolatesprinklecake:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chocolatesprinklecakeitem
+      shapeless: true
+    chocolatestrawberry:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chocolatestrawberryitem
+      shapeless: true
+    chocovoxels:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chocovoxelsitem
+      shapeless: true
+    chorizo:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:chorizoitem
+      shapeless: true
+    cinnamonappleoatmeal:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cinnamonappleoatmealitem
+      shapeless: true
+    cinnamonbread:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cinnamonbreaditem
+      shapeless: true
+    cinnamonroll:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cinnamonrollitem
+      shapeless: true
+    cinnamonsugardonut:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cinnamonsugardonutitem
+      shapeless: true
+    cinnamontoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cinnamontoastitem
+      shapeless: true
+    citrussalad:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:citrussaladitem
+      shapeless: true
+    coffeeconleche:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:coffeeconlecheitem
+      shapeless: true
+    colasoda:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:colasodaitem
+      shapeless: true
+    coleslaw:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:coleslawitem
+      shapeless: true
+    coleslawburger:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:coleslawburgeritem
+      shapeless: true
+    cookedgroundbeef:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cookedgroundbeefitem
+      shapeless: true
+    cookedgroundchicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cookedgroundchickenitem
+      shapeless: true
+    cookedgroundfish:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cookedgroundfishitem
+      shapeless: true
+    cookedgroundmutton:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cookedgroundmuttonitem
+      shapeless: true
+    cookedgroundpork:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cookedgroundporkitem
+      shapeless: true
+    cookedgroundrabbit:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cookedgroundrabbititem
+      shapeless: true
+    cookedtofabbit:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cookedtofabbititem
+      shapeless: true
+    cookedtofacon:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cookedtofaconitem
+      shapeless: true
+    cookedtofeak:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cookedtofeakitem
+      shapeless: true
+    cookedtoficken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cookedtofickenitem
+      shapeless: true
+    cookedtofish:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cookedtofishitem
+      shapeless: true
+    cookedtofutton:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cookedtofuttonitem
+      shapeless: true
+    cookoutmeal:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cookoutmealitem
+      shapeless: true
+    cornbread:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cornbreaditem
+      shapeless: true
+    cornchips:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cornchipsitem
+      shapeless: true
+    corndog:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:corndogitem
+      shapeless: true
+    cornedbeef:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cornedbeefitem
+      shapeless: true
+    cornedbeefandcabbage:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cornedbeefandcabbageitem
+      shapeless: true
+    cornedbeefbreakfast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cornedbeefbreakfastitem
+      shapeless: true
+    cornedbeefhash:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cornedbeefhashitem
+      shapeless: true
+    cornflakes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cornflakesitem
+      shapeless: true
+    cornishpasty:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cornishpastyitem
+      shapeless: true
+    cornmeal:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cornmealitem
+      shapeless: true
+    cornonthecob:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cornonthecobitem
+      shapeless: true
+    cottagepie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cottagepieitem
+      shapeless: true
+    couscous:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:couscousitem
+      shapeless: true
+    cowshape:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cowshapeitem
+      shapeless: true
+    crackersandcheese:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:crackersandcheeseitem
+      shapeless: true
+    cracklins:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cracklinsitem
+      shapeless: true
+    cranberrybar:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cranberrybaritem
+      shapeless: true
+    cranberryjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cranberryjellyitem
+      shapeless: true
+    cranberryjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cranberryjellysandwichitem
+      shapeless: true
+    cranberryjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cranberryjellytoastitem
+      shapeless: true
+    cranberryjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cranberryjuiceitem
+      shapeless: true
+    cranberrypie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cranberrypieitem
+      shapeless: true
+    cranberrysauce:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cranberrysauceitem
+      shapeless: true
+    cranberrysmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cranberrysmoothieitem
+      shapeless: true
+    cranberryyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cranberryyogurtitem
+      shapeless: true
+    creamedbroccolisoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:creamedbroccolisoupitem
+      shapeless: true
+    creamedcorn:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:creamedcornitem
+      shapeless: true
+    creamofavocadosoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:creamofavocadosoupitem
+      shapeless: true
+    creamofchicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:creamofchickenitem
+      shapeless: true
+    creamofmushroom:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:creamofmushroomitem
+      shapeless: true
+    crispyricepuffbars:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:crispyricepuffbarsitem
+      shapeless: true
+    crispyricepuffcereal:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:crispyricepuffcerealitem
+      shapeless: true
+    croissant:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:croissantitem
+      shapeless: true
+    cucumbersandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:cucumbersandwichitem
+      shapeless: true
+    curry:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:curryitem
+      shapeless: true
+    currypowder:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:currypowderitem
+      shapeless: true
+    custard:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:custarditem
+      shapeless: true
+    damper:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:damperitem
+      shapeless: true
+    dandelionltea:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:dandelionlteaitem
+      shapeless: true
+    dandeliontea:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:dandelionteaitem
+      shapeless: true
+    dango:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:dangoitem
+      shapeless: true
+    datejelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:datejellyitem
+      shapeless: true
+    datejellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:datejellysandwichitem
+      shapeless: true
+    datejellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:datejellytoastitem
+      shapeless: true
+    datejuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:datejuiceitem
+      shapeless: true
+    datepie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:datepieitem
+      shapeless: true
+    datesmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:datesmoothieitem
+      shapeless: true
+    dateyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:dateyogurtitem
+      shapeless: true
+    delightedmeal:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:delightedmealitem
+      shapeless: true
+    deluxecheeseburger:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:deluxecheeseburgeritem
+      shapeless: true
+    deluxechickencurry:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:deluxechickencurryitem
+      shapeless: true
+    deluxenachoes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:deluxenachoesitem
+      shapeless: true
+    desktop:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:desktopitem
+      shapeless: true
+    deviledegg:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:deviledeggitem
+      shapeless: true
+    dhal:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:dhalitem
+      shapeless: true
+    dimsum:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:dimsumitem
+      shapeless: true
+    dragonfruitjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:dragonfruitjellyitem
+      shapeless: true
+    dragonfruitjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:dragonfruitjellysandwichitem
+      shapeless: true
+    dragonfruitjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:dragonfruitjellytoastitem
+      shapeless: true
+    dragonfruitjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:dragonfruitjuiceitem
+      shapeless: true
+    dragonfruitpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:dragonfruitpieitem
+      shapeless: true
+    dragonfruitsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:dragonfruitsmoothieitem
+      shapeless: true
+    dragonfruityogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:dragonfruityogurtitem
+      shapeless: true
+    driedsoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:driedsoupitem
+      shapeless: true
+    durianjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:durianjellyitem
+      shapeless: true
+    durianjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:durianjellysandwichitem
+      shapeless: true
+    durianjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:durianjellytoastitem
+      shapeless: true
+    durianjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:durianjuiceitem
+      shapeless: true
+    durianpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:durianpieitem
+      shapeless: true
+    duriansmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:duriansmoothieitem
+      shapeless: true
+    durianyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:durianyogurtitem
+      shapeless: true
+    earlgreytea:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:earlgreyteaitem
+      shapeless: true
+    edibleroot:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:ediblerootitem
+      shapeless: true
+    eggnog:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:eggnogitem
+      shapeless: true
+    eggplantparm:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:eggplantparmitem
+      shapeless: true
+    eggroll:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:eggrollitem
+      shapeless: true
+    eggsalad:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:eggsaladitem
+      shapeless: true
+    eggsbenedict:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:eggsbenedictitem
+      shapeless: true
+    eggtart:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:eggtartitem
+      shapeless: true
+    elderberryjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:elderberryjellyitem
+      shapeless: true
+    elderberryjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:elderberryjellysandwichitem
+      shapeless: true
+    elderberryjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:elderberryjellytoastitem
+      shapeless: true
+    elderberryjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:elderberryjuiceitem
+      shapeless: true
+    elderberrypie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:elderberrypieitem
+      shapeless: true
+    elderberrysmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:elderberrysmoothieitem
+      shapeless: true
+    elderberryyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:elderberryyogurtitem
+      shapeless: true
+    enchilada:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:enchiladaitem
+      shapeless: true
+    energydrink:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:energydrinkitem
+      shapeless: true
+    epicblt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:epicbltitem
+      shapeless: true
+    espresso:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:espressoitem
+      shapeless: true
+    etonmess:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:etonmessitem
+      shapeless: true
+    fairybread:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:fairybreaditem
+      shapeless: true
+    fajitaburrito:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:fajitaburritoitem
+      shapeless: true
+    festivalbread:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:festivalbreaditem
+      shapeless: true
+    fiestacornsalad:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:fiestacornsaladitem
+      shapeless: true
+    figbar:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:figbaritem
+      shapeless: true
+    figjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:figjellyitem
+      shapeless: true
+    figjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:figjellysandwichitem
+      shapeless: true
+    figjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:figjellytoastitem
+      shapeless: true
+    figjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:figjuiceitem
+      shapeless: true
+    figpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:figpieitem
+      shapeless: true
+    figsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:figsmoothieitem
+      shapeless: true
+    figyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:figyogurtitem
+      shapeless: true
+    firmtofu:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:firmtofuitem
+      shapeless: true
+    fishcakes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:fishcakesitem
+      shapeless: true
+    fishdinner:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:fishdinneritem
+      shapeless: true
+    fishfingersandcustard:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:fishfingersandcustarditem
+      shapeless: true
+    fishlettucewrap:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:fishlettucewrapitem
+      shapeless: true
+    fishshape:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:fishshapeitem
+      shapeless: true
+    fishtaco:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:fishtacoitem
+      shapeless: true
+    fivespice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:fivespiceitem
+      shapeless: true
+    footlong:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:footlongitem
+      shapeless: true
+    fortunecookie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:fortunecookieitem
+      shapeless: true
+    frenchtoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:frenchtoastitem
+      shapeless: true
+    friedbolognasandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:friedbolognasandwichitem
+      shapeless: true
+    friedfeast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:friedfeastitem
+      shapeless: true
+    friedgreentomatoes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:friedgreentomatoesitem
+      shapeless: true
+    friedonions:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:friedonionsitem
+      shapeless: true
+    friedpecanokra:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:friedpecanokraitem
+      shapeless: true
+    friedrice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:friedriceitem
+      shapeless: true
+    frosteddonut:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:frosteddonutitem
+      shapeless: true
+    fruitcake:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:fruitcakeitem
+      shapeless: true
+    fruitcreamfestivalbread:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:fruitcreamfestivalbreaditem
+      shapeless: true
+    futomaki:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:futomakiitem
+      shapeless: true
+    garammasala:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:garammasalaitem
+      shapeless: true
+    gardensoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gardensoupitem
+      shapeless: true
+    garlicbread:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:garlicbreaditem
+      shapeless: true
+    garlicchicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:garlicchickenitem
+      shapeless: true
+    garlicmashedpotatoes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:garlicmashedpotatoesitem
+      shapeless: true
+    garlicsteak:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:garlicsteakitem
+      shapeless: true
+    generaltsochicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:generaltsochickenitem
+      shapeless: true
+    gherkin:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gherkinitem
+      shapeless: true
+    gingerchicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gingerchickenitem
+      shapeless: true
+    gingeredrhubarbtart:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gingeredrhubarbtartitem
+      shapeless: true
+    gingersnaps:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gingersnapsitem
+      shapeless: true
+    gingersoda:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gingersodaitem
+      shapeless: true
+    gooseberryjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gooseberryjellyitem
+      shapeless: true
+    gooseberryjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gooseberryjellysandwichitem
+      shapeless: true
+    gooseberryjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gooseberryjellytoastitem
+      shapeless: true
+    gooseberryjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gooseberryjuiceitem
+      shapeless: true
+    gooseberrypie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gooseberrypieitem
+      shapeless: true
+    gooseberrysmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gooseberrysmoothieitem
+      shapeless: true
+    gooseberryyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gooseberryyogurtitem
+      shapeless: true
+    gourmetbeefburger:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gourmetbeefburgeritem
+      shapeless: true
+    gourmetbeefpatty:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gourmetbeefpattyitem
+      shapeless: true
+    gourmetburger:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gourmetburgeritem
+      shapeless: true
+    gourmetmuttonburger:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gourmetmuttonburgeritem
+      shapeless: true
+    gourmetmuttonpatty:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gourmetmuttonpattyitem
+      shapeless: true
+    gourmetpatty:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gourmetpattyitem
+      shapeless: true
+    gourmetporkburger:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gourmetporkburgeritem
+      shapeless: true
+    gourmetporkpatty:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gourmetporkpattyitem
+      shapeless: true
+    grandmasmacaronicasserole:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grandmasmacaronicasseroleitem
+      shapeless: true
+    grapefruitjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapefruitjellyitem
+      shapeless: true
+    grapefruitjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapefruitjellysandwichitem
+      shapeless: true
+    grapefruitjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapefruitjellytoastitem
+      shapeless: true
+    grapefruitjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapefruitjuiceitem
+      shapeless: true
+    grapefruitpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapefruitpieitem
+      shapeless: true
+    grapefruitsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapefruitsmoothieitem
+      shapeless: true
+    grapefruitsoda:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapefruitsodaitem
+      shapeless: true
+    grapefruityogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapefruityogurtitem
+      shapeless: true
+    grapejelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapejellyitem
+      shapeless: true
+    grapejellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapejellysandwichitem
+      shapeless: true
+    grapejellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapejellytoastitem
+      shapeless: true
+    grapejuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapejuiceitem
+      shapeless: true
+    grapepie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapepieitem
+      shapeless: true
+    grapesmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapesmoothieitem
+      shapeless: true
+    grapesoda:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapesodaitem
+      shapeless: true
+    grapeyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grapeyogurtitem
+      shapeless: true
+    gravy:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gravyitem
+      shapeless: true
+    greenbeancasserole:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:greenbeancasseroleitem
+      shapeless: true
+    greeneggsandham:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:greeneggsandhamitem
+      shapeless: true
+    greengrapejelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:greengrapejellyitem
+      shapeless: true
+    greengrapejellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:greengrapejellysandwichitem
+      shapeless: true
+    greengrapejellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:greengrapejellytoastitem
+      shapeless: true
+    greengrapejuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:greengrapejuiceitem
+      shapeless: true
+    greengrapepie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:greengrapepieitem
+      shapeless: true
+    greengrapesmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:greengrapesmoothieitem
+      shapeless: true
+    greengrapeyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:greengrapeyogurtitem
+      shapeless: true
+    greentea:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:greenteaitem
+      shapeless: true
+    grilledcheesevegemitetoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grilledcheesevegemitetoastitem
+      shapeless: true
+    grilledskewers:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:grilledskewersitem
+      shapeless: true
+    grits:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gritsitem
+      shapeless: true
+    groiledcheesesandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:groiledcheesesandwichitem
+      shapeless: true
+    groundcinnamon:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:groundcinnamonitem
+      shapeless: true
+    groundnutmeg:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:groundnutmegitem
+      shapeless: true
+    guacamole:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:guacamoleitem
+      shapeless: true
+    guavajelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:guavajellyitem
+      shapeless: true
+    guavajellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:guavajellysandwichitem
+      shapeless: true
+    guavajellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:guavajellytoastitem
+      shapeless: true
+    guavajuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:guavajuiceitem
+      shapeless: true
+    guavapie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:guavapieitem
+      shapeless: true
+    guavasmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:guavasmoothieitem
+      shapeless: true
+    guavayogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:guavayogurtitem
+      shapeless: true
+    guiso:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:guisoitem
+      shapeless: true
+    gumbo:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gumboitem
+      shapeless: true
+    gyudon:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:gyudonitem
+      shapeless: true
+    haggis:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:haggisitem
+      shapeless: true
+    hamandcheesesandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hamandcheesesandwichitem
+      shapeless: true
+    hamandpineapplepizza:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hamandpineapplepizzaitem
+      shapeless: true
+    hamsweetpicklesandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hamsweetpicklesandwichitem
+      shapeless: true
+    hash:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hashitem
+      shapeless: true
+    hazelnutbutter:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hazelnutbutteritem
+      shapeless: true
+    hazelnutchocolate:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hazelnutchocolateitem
+      shapeless: true
+    hazelnutcoffee:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hazelnutcoffeeitem
+      shapeless: true
+    heartybreakfast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:heartybreakfastitem
+      shapeless: true
+    herbbutterparsnips:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:herbbutterparsnipsitem
+      shapeless: true
+    herbcheeseball:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:herbcheeseballitem
+      shapeless: true
+    hoisinsauce:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hoisinsauceitem
+      shapeless: true
+    holidaycake:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:holidaycakeitem
+      shapeless: true
+    homestylelunch:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:homestylelunchitem
+      shapeless: true
+    honeybun:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:honeybunitem
+      shapeless: true
+    honeycombchocolatebar:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:honeycombchocolatebaritem
+      shapeless: true
+    honeyglazedcarrots:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:honeyglazedcarrotsitem
+      shapeless: true
+    honeyglazedham:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:honeyglazedhamitem
+      shapeless: true
+    honeylemonlamb:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:honeylemonlambitem
+      shapeless: true
+    honeysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:honeysandwichitem
+      shapeless: true
+    honeysoyribs:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:honeysoyribsitem
+      shapeless: true
+    hotandsoursoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hotandsoursoupitem
+      shapeless: true
+    hotdishcasserole:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hotdishcasseroleitem
+      shapeless: true
+    hotsauce:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hotsauceitem
+      shapeless: true
+    hotwings:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hotwingsitem
+      shapeless: true
+    huckleberryjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:huckleberryjellyitem
+      shapeless: true
+    huckleberryjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:huckleberryjellysandwichitem
+      shapeless: true
+    huckleberryjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:huckleberryjellytoastitem
+      shapeless: true
+    huckleberryjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:huckleberryjuiceitem
+      shapeless: true
+    huckleberrypie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:huckleberrypieitem
+      shapeless: true
+    huckleberrysmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:huckleberrysmoothieitem
+      shapeless: true
+    huckleberryyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:huckleberryyogurtitem
+      shapeless: true
+    hummus:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hummusitem
+      shapeless: true
+    hushpuppies:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:hushpuppiesitem
+      shapeless: true
+    imagawayaki:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:imagawayakiitem
+      shapeless: true
+    imitationcrabsticks:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:imitationcrabsticksitem
+      shapeless: true
+    jackfruitjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:jackfruitjellyitem
+      shapeless: true
+    jackfruitjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:jackfruitjellysandwichitem
+      shapeless: true
+    jackfruitjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:jackfruitjellytoastitem
+      shapeless: true
+    jackfruitjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:jackfruitjuiceitem
+      shapeless: true
+    jackfruitpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:jackfruitpieitem
+      shapeless: true
+    jackfruitsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:jackfruitsmoothieitem
+      shapeless: true
+    jackfruityogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:jackfruityogurtitem
+      shapeless: true
+    jalapenoburger:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:jalapenoburgeritem
+      shapeless: true
+    jambalaya:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:jambalayaitem
+      shapeless: true
+    jellyroll:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:jellyrollitem
+      shapeless: true
+    juniperberryjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:juniperberryjellyitem
+      shapeless: true
+    juniperberryjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:juniperberryjellysandwichitem
+      shapeless: true
+    juniperberryjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:juniperberryjellytoastitem
+      shapeless: true
+    juniperberryjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:juniperberryjuiceitem
+      shapeless: true
+    juniperberrypie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:juniperberrypieitem
+      shapeless: true
+    juniperberrysmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:juniperberrysmoothieitem
+      shapeless: true
+    juniperberryyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:juniperberryyogurtitem
+      shapeless: true
+    juniperpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:juniperpieitem
+      shapeless: true
+    kalechips:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:kalechipsitem
+      shapeless: true
+    ketchup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:ketchupitem
+      shapeless: true
+    keylimepie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:keylimepieitem
+      shapeless: true
+    kimchi:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:kimchiitem
+      shapeless: true
+    kiwijelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:kiwijellyitem
+      shapeless: true
+    kiwijellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:kiwijellysandwichitem
+      shapeless: true
+    kiwijellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:kiwijellytoastitem
+      shapeless: true
+    kiwijuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:kiwijuiceitem
+      shapeless: true
+    kiwipie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:kiwipieitem
+      shapeless: true
+    kiwismoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:kiwismoothieitem
+      shapeless: true
+    kiwiyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:kiwiyogurtitem
+      shapeless: true
+    kohlundpinkel:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:kohlundpinkelitem
+      shapeless: true
+    koreandinner:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:koreandinneritem
+      shapeless: true
+    kungpaochicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:kungpaochickenitem
+      shapeless: true
+    lambbarleysoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lambbarleysoupitem
+      shapeless: true
+    lambkebab:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lambkebabitem
+      shapeless: true
+    lambwithmintsauce:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lambwithmintsauceitem
+      shapeless: true
+    lamington:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lamingtonitem
+      shapeless: true
+    lasagna:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lasagnaitem
+      shapeless: true
+    lavendershortbread:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lavendershortbreaditem
+      shapeless: true
+    leafychickensandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:leafychickensandwichitem
+      shapeless: true
+    leafyfishsandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:leafyfishsandwichitem
+      shapeless: true
+    leekbaconsoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:leekbaconsoupitem
+      shapeless: true
+    lemonaide:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lemonaideitem
+      shapeless: true
+    lemonchicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lemonchickenitem
+      shapeless: true
+    lemondrizzlecake:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lemondrizzlecakeitem
+      shapeless: true
+    lemonjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lemonjellyitem
+      shapeless: true
+    lemonjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lemonjellysandwichitem
+      shapeless: true
+    lemonjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lemonjellytoastitem
+      shapeless: true
+    lemonjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lemonjuiceitem
+      shapeless: true
+    lemonlimesoda:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lemonlimesodaitem
+      shapeless: true
+    lemonmeringue:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lemonmeringueitem
+      shapeless: true
+    lemonpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lemonpieitem
+      shapeless: true
+    lemonsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lemonsmoothieitem
+      shapeless: true
+    lemonyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lemonyogurtitem
+      shapeless: true
+    limejelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:limejellyitem
+      shapeless: true
+    limejellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:limejellysandwichitem
+      shapeless: true
+    limejellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:limejellytoastitem
+      shapeless: true
+    limejuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:limejuiceitem
+      shapeless: true
+    limepie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:limepieitem
+      shapeless: true
+    limesmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:limesmoothieitem
+      shapeless: true
+    limeyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:limeyogurtitem
+      shapeless: true
+    liverandonions:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:liverandonionsitem
+      shapeless: true
+    loadedbakedpotato:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:loadedbakedpotatoitem
+      shapeless: true
+    loxbagelsandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:loxbagelsandwichitem
+      shapeless: true
+    lycheejelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lycheejellyitem
+      shapeless: true
+    lycheejellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lycheejellysandwichitem
+      shapeless: true
+    lycheejellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lycheejellytoastitem
+      shapeless: true
+    lycheejuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lycheejuiceitem
+      shapeless: true
+    lycheepie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lycheepieitem
+      shapeless: true
+    lycheesmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lycheesmoothieitem
+      shapeless: true
+    lycheeyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:lycheeyogurtitem
+      shapeless: true
+    mangochutney:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mangochutneyitem
+      shapeless: true
+    mangojelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mangojellyitem
+      shapeless: true
+    mangojellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mangojellysandwichitem
+      shapeless: true
+    mangojellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mangojellytoastitem
+      shapeless: true
+    mangojuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mangojuiceitem
+      shapeless: true
+    mangopie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mangopieitem
+      shapeless: true
+    mangosmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mangosmoothieitem
+      shapeless: true
+    mangoyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mangoyogurtitem
+      shapeless: true
+    manjuu:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:manjuuitem
+      shapeless: true
+    maplecandiedbacon:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:maplecandiedbaconitem
+      shapeless: true
+    mapleoatmeal:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mapleoatmealitem
+      shapeless: true
+    maplesausage:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:maplesausageitem
+      shapeless: true
+    maplesyruppancakes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:maplesyruppancakesitem
+      shapeless: true
+    maplesyrupwaffles:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:maplesyrupwafflesitem
+      shapeless: true
+    marzipan:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:marzipanitem
+      shapeless: true
+    mashedpotatoeschickenbiscuit:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mashedpotatoeschickenbiscuititem
+      shapeless: true
+    mashedsweetpotatoes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mashedsweetpotatoesitem
+      shapeless: true
+    meatfeastpizza:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:meatfeastpizzaitem
+      shapeless: true
+    meatloafsandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:meatloafsandwichitem
+      shapeless: true
+    meatpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:meatpieitem
+      shapeless: true
+    meatystirfry:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:meatystirfryitem
+      shapeless: true
+    meesua:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:meesuaitem
+      shapeless: true
+    melonjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:melonjellysandwichitem
+      shapeless: true
+    meringue:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:meringueitem
+      shapeless: true
+    meringuebombe:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:meringuebombeitem
+      shapeless: true
+    meringuebrownie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:meringuebrownieitem
+      shapeless: true
+    meringuecookie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:meringuecookieitem
+      shapeless: true
+    meringueroulade:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:meringuerouladeitem
+      shapeless: true
+    merveilleux:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:merveilleuxitem
+      shapeless: true
+    mettbrotchen:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mettbrotchenitem
+      shapeless: true
+    mincepie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mincepieitem
+      shapeless: true
+    mintchocolatechipicecream:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mintchocolatechipicecreamitem
+      shapeless: true
+    misopaste:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:misopasteitem
+      shapeless: true
+    misosoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:misosoupitem
+      shapeless: true
+    mixedflowerssalad:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mixedflowerssaladitem
+      shapeless: true
+    mixedsalad:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mixedsaladitem
+      shapeless: true
+    mochaicecream:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mochaicecreamitem
+      shapeless: true
+    mochi:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mochiitem
+      shapeless: true
+    mochicake:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mochicakeitem
+      shapeless: true
+    mochidessert:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mochidessertitem
+      shapeless: true
+    molasseschicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:molasseschickenitem
+      shapeless: true
+    mozzerellasticks:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mozzerellasticksitem
+      shapeless: true
+    mulberryjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mulberryjellyitem
+      shapeless: true
+    mulberryjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mulberryjellysandwichitem
+      shapeless: true
+    mulberryjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mulberryjellytoastitem
+      shapeless: true
+    mulberryjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mulberryjuiceitem
+      shapeless: true
+    mulberrypie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mulberrypieitem
+      shapeless: true
+    mulberrysmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mulberrysmoothieitem
+      shapeless: true
+    mulberryyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mulberryyogurtitem
+      shapeless: true
+    museli:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:museliitem
+      shapeless: true
+    mushroomketchup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mushroomketchupitem
+      shapeless: true
+    mushroomketchupomelet:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mushroomketchupomeletitem
+      shapeless: true
+    mushroomlasagna:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mushroomlasagnaitem
+      shapeless: true
+    mushroomoil:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mushroomoilitem
+      shapeless: true
+    mushroomrisotto:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mushroomrisottoitem
+      shapeless: true
+    mushroomsteak:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mushroomsteakitem
+      shapeless: true
+    mustard:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:mustarditem
+      shapeless: true
+    musubi:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:musubiitem
+      shapeless: true
+    naan:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:naanitem
+      shapeless: true
+    nachoes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:nachoesitem
+      shapeless: true
+    neapolitanicecream:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:neapolitanicecreamitem
+      shapeless: true
+    nopalessalad:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:nopalessaladitem
+      shapeless: true
+    nuttoppedicecream:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:nuttoppedicecreamitem
+      shapeless: true
+    oatmealraisincookies:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:oatmealraisincookiesitem
+      shapeless: true
+    okrachips:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:okrachipsitem
+      shapeless: true
+    okracreole:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:okracreoleitem
+      shapeless: true
+    oldworldveggiesoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:oldworldveggiesoupitem
+      shapeless: true
+    omelet:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:omeletitem
+      shapeless: true
+    omurice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:omuriceitem
+      shapeless: true
+    onigiri:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:onigiriitem
+      shapeless: true
+    onionhamburger:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:onionhamburgeritem
+      shapeless: true
+    onionrings:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:onionringsitem
+      shapeless: true
+    orangechicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:orangechickenitem
+      shapeless: true
+    orangegingerbeef:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:orangegingerbeefitem
+      shapeless: true
+    orangejelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:orangejellyitem
+      shapeless: true
+    orangejellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:orangejellysandwichitem
+      shapeless: true
+    orangejellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:orangejellytoastitem
+      shapeless: true
+    orangejuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:orangejuiceitem
+      shapeless: true
+    orangepie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:orangepieitem
+      shapeless: true
+    orangesmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:orangesmoothieitem
+      shapeless: true
+    orangesoda:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:orangesodaitem
+      shapeless: true
+    orangeyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:orangeyogurtitem
+      shapeless: true
+    ovenroastedcauliflower:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:ovenroastedcaulifloweritem
+      shapeless: true
+    oystersauce:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:oystersauceitem
+      shapeless: true
+    padthai:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:padthaiitem
+      shapeless: true
+    pancakes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pancakesitem
+      shapeless: true
+    paneer:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:paneeritem
+      shapeless: true
+    paneertikkamasala:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:paneertikkamasalaitem
+      shapeless: true
+    papayajelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:papayajellyitem
+      shapeless: true
+    papayajellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:papayajellysandwichitem
+      shapeless: true
+    papayajellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:papayajellytoastitem
+      shapeless: true
+    papayajuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:papayajuiceitem
+      shapeless: true
+    papayapie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:papayapieitem
+      shapeless: true
+    papayasmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:papayasmoothieitem
+      shapeless: true
+    papayayogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:papayayogurtitem
+      shapeless: true
+    paradiseburger:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:paradiseburgeritem
+      shapeless: true
+    passionfruitjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:passionfruitjellyitem
+      shapeless: true
+    passionfruitjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:passionfruitjellysandwichitem
+      shapeless: true
+    passionfruitjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:passionfruitjellytoastitem
+      shapeless: true
+    passionfruitjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:passionfruitjuiceitem
+      shapeless: true
+    passionfruitpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:passionfruitpieitem
+      shapeless: true
+    passionfruitsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:passionfruitsmoothieitem
+      shapeless: true
+    passionfruityogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:passionfruityogurtitem
+      shapeless: true
+    pastagardenia:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pastagardeniaitem
+      shapeless: true
+    pavlova:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pavlovaitem
+      shapeless: true
+    pawpawjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pawpawjellyitem
+      shapeless: true
+    pawpawjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pawpawjellysandwichitem
+      shapeless: true
+    pawpawjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pawpawjellytoastitem
+      shapeless: true
+    pawpawjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pawpawjuiceitem
+      shapeless: true
+    pawpawpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pawpawpieitem
+      shapeless: true
+    pawpawsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pawpawsmoothieitem
+      shapeless: true
+    pawpawyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pawpawyogurtitem
+      shapeless: true
+    peaandhamsoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peaandhamsoupitem
+      shapeless: true
+    peachcobbler:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peachcobbleritem
+      shapeless: true
+    peachesandcreamoatmeal:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peachesandcreamoatmealitem
+      shapeless: true
+    peachjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peachjellyitem
+      shapeless: true
+    peachjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peachjellysandwichitem
+      shapeless: true
+    peachjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peachjellytoastitem
+      shapeless: true
+    peachjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peachjuiceitem
+      shapeless: true
+    peachpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peachpieitem
+      shapeless: true
+    peachsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peachsmoothieitem
+      shapeless: true
+    peachyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peachyogurtitem
+      shapeless: true
+    peanutbutter:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peanutbutteritem
+      shapeless: true
+    peanutbutterbananapancakes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peanutbutterbananapancakesitem
+      shapeless: true
+    peanutbutterbananasandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peanutbutterbananasandwichitem
+      shapeless: true
+    peanutbuttercookies:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peanutbuttercookiesitem
+      shapeless: true
+    peanutbuttercup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peanutbuttercupitem
+      shapeless: true
+    peanutchocolatebar:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peanutchocolatebaritem
+      shapeless: true
+    pearjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pearjellyitem
+      shapeless: true
+    pearjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pearjellysandwichitem
+      shapeless: true
+    pearjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pearjellytoastitem
+      shapeless: true
+    pearjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pearjuiceitem
+      shapeless: true
+    pearpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pearpieitem
+      shapeless: true
+    pearsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pearsmoothieitem
+      shapeless: true
+    pearyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pearyogurtitem
+      shapeless: true
+    peasandcelery:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peasandceleryitem
+      shapeless: true
+    pecanbutter:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pecanbutteritem
+      shapeless: true
+    pecanpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pecanpieitem
+      shapeless: true
+    pemmican:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pemmicanitem
+      shapeless: true
+    peppermint:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:peppermintitem
+      shapeless: true
+    pepperoni:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pepperoniitem
+      shapeless: true
+    pepperonipizza:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pepperonipizzaitem
+      shapeless: true
+    pepperstirfry:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pepperstirfryitem
+      shapeless: true
+    persimmonjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:persimmonjellyitem
+      shapeless: true
+    persimmonjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:persimmonjellysandwichitem
+      shapeless: true
+    persimmonjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:persimmonjellytoastitem
+      shapeless: true
+    persimmonjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:persimmonjuiceitem
+      shapeless: true
+    persimmonpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:persimmonpieitem
+      shapeless: true
+    persimmonsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:persimmonsmoothieitem
+      shapeless: true
+    persimmonyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:persimmonyogurtitem
+      shapeless: true
+    pho:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:phoitem
+      shapeless: true
+    pickledonions:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pickledonionsitem
+      shapeless: true
+    pickles:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:picklesitem
+      shapeless: true
+    pigshape:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pigshapeitem
+      shapeless: true
+    pinacolada:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pinacoladaitem
+      shapeless: true
+    pineappleham:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pineapplehamitem
+      shapeless: true
+    pineapplejelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pineapplejellyitem
+      shapeless: true
+    pineapplejellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pineapplejellysandwichitem
+      shapeless: true
+    pineapplejellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pineapplejellytoastitem
+      shapeless: true
+    pineapplejuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pineapplejuiceitem
+      shapeless: true
+    pineapplepie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pineapplepieitem
+      shapeless: true
+    pineapplesmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pineapplesmoothieitem
+      shapeless: true
+    pineappleupsidedowncake:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pineappleupsidedowncakeitem
+      shapeless: true
+    pineappleyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pineappleyogurtitem
+      shapeless: true
+    pinkel:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pinkelitem
+      shapeless: true
+    pistachiobutter:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pistachiobutteritem
+      shapeless: true
+    pitepalt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pitepaltitem
+      shapeless: true
+    pizzaslice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pizzasliceitem
+      shapeless: true
+    pizzasoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pizzasoupitem
+      shapeless: true
+    ploughmanslunch:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:ploughmanslunchitem
+      shapeless: true
+    plumjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:plumjellyitem
+      shapeless: true
+    plumjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:plumjellysandwichitem
+      shapeless: true
+    plumjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:plumjellytoastitem
+      shapeless: true
+    plumjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:plumjuiceitem
+      shapeless: true
+    plumpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:plumpieitem
+      shapeless: true
+    plumsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:plumsmoothieitem
+      shapeless: true
+    plumyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:plumyogurtitem
+      shapeless: true
+    poachedpear:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:poachedpearitem
+      shapeless: true
+    pokebowl:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pokebowlitem
+      shapeless: true
+    pomegranatejelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pomegranatejellyitem
+      shapeless: true
+    pomegranatejellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pomegranatejellysandwichitem
+      shapeless: true
+    pomegranatejellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pomegranatejellytoastitem
+      shapeless: true
+    pomegranatejuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pomegranatejuiceitem
+      shapeless: true
+    pomegranatepie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pomegranatepieitem
+      shapeless: true
+    pomegranatesmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pomegranatesmoothieitem
+      shapeless: true
+    pomegranateyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pomegranateyogurtitem
+      shapeless: true
+    popcorn:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:popcornitem
+      shapeless: true
+    porklettucewrap:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:porklettucewrapitem
+      shapeless: true
+    porklomein:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:porklomeinitem
+      shapeless: true
+    porkrinds:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:porkrindsitem
+      shapeless: true
+    potatoandcheesepirogi:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:potatoandcheesepirogiitem
+      shapeless: true
+    potatoandleeksoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:potatoandleeksoupitem
+      shapeless: true
+    potatocakes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:potatocakesitem
+      shapeless: true
+    potatoesobrien:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:potatoesobrienitem
+      shapeless: true
+    potatosalad:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:potatosaladitem
+      shapeless: true
+    potatoskins:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:potatoskinsitem
+      shapeless: true
+    potstickers:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:potstickersitem
+      shapeless: true
+    poutine:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:poutineitem
+      shapeless: true
+    powdereddonut:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:powdereddonutitem
+      shapeless: true
+    pralines:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pralinesitem
+      shapeless: true
+    pumpkinoatscones:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pumpkinoatsconesitem
+      shapeless: true
+    pumpkinspicelatte:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:pumpkinspicelatteitem
+      shapeless: true
+    quesadilla:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:quesadillaitem
+      shapeless: true
+    rabbitshape:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rabbitshapeitem
+      shapeless: true
+    rainbowcurry:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rainbowcurryitem
+      shapeless: true
+    raisins:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:raisinsitem
+      shapeless: true
+    rambutanjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rambutanjellyitem
+      shapeless: true
+    rambutanjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rambutanjellysandwichitem
+      shapeless: true
+    rambutanjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rambutanjellytoastitem
+      shapeless: true
+    rambutanjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rambutanjuiceitem
+      shapeless: true
+    rambutanpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rambutanpieitem
+      shapeless: true
+    rambutansmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rambutansmoothieitem
+      shapeless: true
+    rambutanyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rambutanyogurtitem
+      shapeless: true
+    ramen:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:ramenitem
+      shapeless: true
+    ranchfriedchicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:ranchfriedchickenitem
+      shapeless: true
+    raspberryjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:raspberryjellyitem
+      shapeless: true
+    raspberryjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:raspberryjellysandwichitem
+      shapeless: true
+    raspberryjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:raspberryjellytoastitem
+      shapeless: true
+    raspberryjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:raspberryjuiceitem
+      shapeless: true
+    raspberrypie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:raspberrypieitem
+      shapeless: true
+    raspberrysmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:raspberrysmoothieitem
+      shapeless: true
+    raspberrytrifle:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:raspberrytrifleitem
+      shapeless: true
+    raspberryyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:raspberryyogurtitem
+      shapeless: true
+    rawtofabbit:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rawtofabbititem
+      shapeless: true
+    rawtofacon:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rawtofaconitem
+      shapeless: true
+    rawtofeak:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rawtofeakitem
+      shapeless: true
+    rawtoficken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rawtofickenitem
+      shapeless: true
+    rawtofish:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rawtofishitem
+      shapeless: true
+    rawtofutton:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rawtofuttonitem
+      shapeless: true
+    redvelvetcake:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:redvelvetcakeitem
+      shapeless: true
+    redvelvetcupcake:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:redvelvetcupcakeitem
+      shapeless: true
+    refriedbeans:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:refriedbeansitem
+      shapeless: true
+    relish:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:relishitem
+      shapeless: true
+    ricecake:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:ricecakeitem
+      shapeless: true
+    ricepudding:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:ricepuddingitem
+      shapeless: true
+    rivermudcake:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rivermudcakeitem
+      shapeless: true
+    roastchicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:roastchickenitem
+      shapeless: true
+    roastedrootveggiemedley:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:roastedrootveggiemedleyitem
+      shapeless: true
+    roastpotatoes:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:roastpotatoesitem
+      shapeless: true
+    rootbeerfloat:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rootbeerfloatitem
+      shapeless: true
+    rootbeersoda:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rootbeersodaitem
+      shapeless: true
+    rosepetaltea:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rosepetalteaitem
+      shapeless: true
+    roux:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:rouxitem
+      shapeless: true
+    saladdressing:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:saladdressingitem
+      shapeless: true
+    salisburysteak:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:salisburysteakitem
+      shapeless: true
+    salsa:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:salsaitem
+      shapeless: true
+    saltandpepper:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:saltandpepperitem
+      shapeless: true
+    saltedcaramel:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:saltedcaramelitem
+      shapeless: true
+    saucedlambkebab:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:saucedlambkebabitem
+      shapeless: true
+    sauerbraten:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sauerbratenitem
+      shapeless: true
+    sausage:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sausageitem
+      shapeless: true
+    sausagebeanmelt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sausagebeanmeltitem
+      shapeless: true
+    sausageinbread:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sausageinbreaditem
+      shapeless: true
+    sausageroll:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sausagerollitem
+      shapeless: true
+    scallionbakedpotato:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:scallionbakedpotatoitem
+      shapeless: true
+    schnitzel:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:schnitzelitem
+      shapeless: true
+    seedenergygel:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:seedenergygelitem
+      shapeless: true
+    seedsoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:seedsoupitem
+      shapeless: true
+    sesameball:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sesameballitem
+      shapeless: true
+    sesameoil:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sesameoilitem
+      shapeless: true
+    sesamesnaps:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sesamesnapsitem
+      shapeless: true
+    sheepshape:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sheepshapeitem
+      shapeless: true
+    shepardspie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:shepardspieitem
+      shapeless: true
+    silkentofu:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:silkentofuitem
+      shapeless: true
+    slawdog:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:slawdogitem
+      shapeless: true
+    sorbet:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sorbetitem
+      shapeless: true
+    sourcreamandonionpotatochips:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sourcreamandonionpotatochipsitem
+      shapeless: true
+    soursopjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:soursopjellyitem
+      shapeless: true
+    soursopjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:soursopjellysandwichitem
+      shapeless: true
+    soursopjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:soursopjellytoastitem
+      shapeless: true
+    soursopjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:soursopjuiceitem
+      shapeless: true
+    soursoppie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:soursoppieitem
+      shapeless: true
+    soursopsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:soursopsmoothieitem
+      shapeless: true
+    soursopyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:soursopyogurtitem
+      shapeless: true
+    southernstylebreakfast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:southernstylebreakfastitem
+      shapeless: true
+    soymilk:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:soymilkitem
+      shapeless: true
+    soysauce:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:soysauceitem
+      shapeless: true
+    spagetti:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:spagettiitem
+      shapeless: true
+    spagettiandmeatballs:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:spagettiandmeatballsitem
+      shapeless: true
+    spaghettidinner:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:spaghettidinneritem
+      shapeless: true
+    spicebun:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:spicebunitem
+      shapeless: true
+    spicygreens:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:spicygreensitem
+      shapeless: true
+    spicymustardpork:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:spicymustardporkitem
+      shapeless: true
+    spinachpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:spinachpieitem
+      shapeless: true
+    splitpeasoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:splitpeasoupitem
+      shapeless: true
+    springfieldcashewchicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:springfieldcashewchickenitem
+      shapeless: true
+    springroll:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:springrollitem
+      shapeless: true
+    springsalad:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:springsaladitem
+      shapeless: true
+    sprinklescupcake:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sprinklescupcakeitem
+      shapeless: true
+    squidinkspaghetti:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:squidinkspaghettiitem
+      shapeless: true
+    starfruitjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:starfruitjellyitem
+      shapeless: true
+    starfruitjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:starfruitjellysandwichitem
+      shapeless: true
+    starfruitjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:starfruitjellytoastitem
+      shapeless: true
+    starfruitjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:starfruitjuiceitem
+      shapeless: true
+    starfruitpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:starfruitpieitem
+      shapeless: true
+    starfruitsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:starfruitsmoothieitem
+      shapeless: true
+    starfruityogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:starfruityogurtitem
+      shapeless: true
+    steakandchips:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:steakandchipsitem
+      shapeless: true
+    steakfajita:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:steakfajitaitem
+      shapeless: true
+    steaktartare:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:steaktartareitem
+      shapeless: true
+    strawberryjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:strawberryjellyitem
+      shapeless: true
+    strawberryjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:strawberryjellysandwichitem
+      shapeless: true
+    strawberryjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:strawberryjellytoastitem
+      shapeless: true
+    strawberryjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:strawberryjuiceitem
+      shapeless: true
+    strawberrypie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:strawberrypieitem
+      shapeless: true
+    strawberryrhubarbpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:strawberryrhubarbpieitem
+      shapeless: true
+    strawberrysmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:strawberrysmoothieitem
+      shapeless: true
+    strawberrysoda:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:strawberrysodaitem
+      shapeless: true
+    strawberrysouffle:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:strawberrysouffleitem
+      shapeless: true
+    strawberryyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:strawberryyogurtitem
+      shapeless: true
+    stuffedchilipeppers:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:stuffedchilipeppersitem
+      shapeless: true
+    stuffedeggplant:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:stuffedeggplantitem
+      shapeless: true
+    stuffedmushroom:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:stuffedmushroomitem
+      shapeless: true
+    stuffedpepper:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:stuffedpepperitem
+      shapeless: true
+    stuffing:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:stuffingitem
+      shapeless: true
+    suadero:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:suaderoitem
+      shapeless: true
+    succotash:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:succotashitem
+      shapeless: true
+    sugarcookie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sugarcookieitem
+      shapeless: true
+    summersquashwithradish:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:summersquashwithradishitem
+      shapeless: true
+    sundayhightea:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sundayhighteaitem
+      shapeless: true
+    sundayroast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sundayroastitem
+      shapeless: true
+    sunflowerbroccolisalad:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sunflowerbroccolisaladitem
+      shapeless: true
+    sunflowerseedsbutter:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sunflowerseedsbutteritem
+      shapeless: true
+    sunflowerwheatrolls:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sunflowerwheatrollsitem
+      shapeless: true
+    supremepizza:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:supremepizzaitem
+      shapeless: true
+    surfandturf:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:surfandturfitem
+      shapeless: true
+    sushi:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sushiitem
+      shapeless: true
+    swedishmeatballs:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:swedishmeatballsitem
+      shapeless: true
+    sweetandsourchicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sweetandsourchickenitem
+      shapeless: true
+    sweetandsourmeatballs:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sweetandsourmeatballsitem
+      shapeless: true
+    sweetandsoursauce:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sweetandsoursauceitem
+      shapeless: true
+    sweetberryjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sweetberryjellysandwichitem
+      shapeless: true
+    sweetpickle:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sweetpickleitem
+      shapeless: true
+    sweetpotatopie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sweetpotatopieitem
+      shapeless: true
+    sweetpotatosouffle:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sweetpotatosouffleitem
+      shapeless: true
+    sweettea:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:sweetteaitem
+      shapeless: true
+    szechuaneggplant:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:szechuaneggplantitem
+      shapeless: true
+    taco:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tacoitem
+      shapeless: true
+    taiyaki:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:taiyakiitem
+      shapeless: true
+    takoyaki:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:takoyakiitem
+      shapeless: true
+    tamarindjelly:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tamarindjellyitem
+      shapeless: true
+    tamarindjellysandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tamarindjellysandwichitem
+      shapeless: true
+    tamarindjellytoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tamarindjellytoastitem
+      shapeless: true
+    tamarindjuice:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tamarindjuiceitem
+      shapeless: true
+    tamarindpie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tamarindpieitem
+      shapeless: true
+    tamarindsmoothie:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tamarindsmoothieitem
+      shapeless: true
+    tamarindyogurt:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tamarindyogurtitem
+      shapeless: true
+    tatertots:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tatertotsitem
+      shapeless: true
+    teriyakichicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:teriyakichickenitem
+      shapeless: true
+    theatrebox:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:theatreboxitem
+      shapeless: true
+    threebeansalad:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:threebeansaladitem
+      shapeless: true
+    timpano:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:timpanoitem
+      shapeless: true
+    timtam:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:timtamitem
+      shapeless: true
+    tiropita:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tiropitaitem
+      shapeless: true
+    toadinthehole:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:toadintheholeitem
+      shapeless: true
+    toastedwestern:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:toastedwesternitem
+      shapeless: true
+    toastsandwich:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:toastsandwichitem
+      shapeless: true
+    tomatoherbchicken:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tomatoherbchickenitem
+      shapeless: true
+    tomatosoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tomatosoupitem
+      shapeless: true
+    tortilla:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tortillaitem
+      shapeless: true
+    tortillachips:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:tortillachipsitem
+      shapeless: true
+    turkishdelight:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:turkishdelightitem
+      shapeless: true
+    vanilla:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:vanillaitem
+      shapeless: true
+    vanillaconchasbread:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:vanillaconchasbreaditem
+      shapeless: true
+    vanillaicecream:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:vanillaicecreamitem
+      shapeless: true
+    vegemite:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:vegemiteitem
+      shapeless: true
+    vegemiteontoast:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:vegemiteontoastitem
+      shapeless: true
+    vegetablesoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:vegetablesoupitem
+      shapeless: true
+    vegetarianlettucewrap:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:vegetarianlettucewrapitem
+      shapeless: true
+    veggiestirfry:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:veggiestirfryitem
+      shapeless: true
+    veggiestrips:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:veggiestripsitem
+      shapeless: true
+    vindaloo:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:vindalooitem
+      shapeless: true
+    waffles:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:wafflesitem
+      shapeless: true
+    walnutbutter:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:walnutbutteritem
+      shapeless: true
+    walnutraisinbread:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:walnutraisinbreaditem
+      shapeless: true
+    weekendpicnic:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:weekendpicnicitem
+      shapeless: true
+    wontonsoup:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:wontonsoupitem
+      shapeless: true
+    yorkshirepudding:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:yorkshirepuddingitem
+      shapeless: true
+    zeppole:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:zeppoleitem
+      shapeless: true
+    zestyzucchini:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:zestyzucchiniitem
+      shapeless: true
+    zucchinibake:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:zucchinibakeitem
+      shapeless: true
+    zucchinifries:
+      enabled: false
+      ingredients:
+        A: BARRIER
+      result:
+        amount: 1
+        item: zfood:zucchinifriesitem
+      shapeless: true

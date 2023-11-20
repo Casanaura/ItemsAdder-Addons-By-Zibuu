@@ -1,0 +1,2349 @@
+info:
+  namespace: zfood
+
+loots:
+  mobs:
+    zombie:
+      type: ZOMBIE
+      items:
+        applejellyitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:applejellyitem
+          max_amount: 1
+          min_amount: 0
+        applejellytoastitem:
+          biomes:
+          - WOODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:applejellytoastitem
+          max_amount: 1
+          min_amount: 0
+        applejuiceitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:applejuiceitem
+          max_amount: 1
+          min_amount: 0
+        applepieitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:applepieitem
+          max_amount: 1
+          min_amount: 0
+        applesauceitem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:applesauceitem
+          max_amount: 1
+          min_amount: 0
+        applesmoothieitem:
+          biomes:
+          - STONY_SHORE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:applesmoothieitem
+          max_amount: 1
+          min_amount: 0
+        appleyogurtitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:appleyogurtitem
+          max_amount: 1
+          min_amount: 0
+        baconandeggsitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:baconandeggsitem
+          max_amount: 1
+          min_amount: 0
+        baconcheeseburgeritem:
+          biomes:
+          - TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:baconcheeseburgeritem
+          max_amount: 1
+          min_amount: 0
+        basiccheeseburgeritem:
+          biomes:
+          - FROZEN_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:basiccheeseburgeritem
+          max_amount: 1
+          min_amount: 0
+        basicchickensandwichitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:basicchickensandwichitem
+          max_amount: 1
+          min_amount: 0
+        basicfishsandwichitem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:basicfishsandwichitem
+          max_amount: 1
+          min_amount: 0
+        basichamburgeritem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:basichamburgeritem
+          max_amount: 1
+          min_amount: 0
+        batteritem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:batteritem
+          max_amount: 1
+          min_amount: 0
+        beefjerkyitem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:beefjerkyitem
+          max_amount: 1
+          min_amount: 0
+        boiledeggitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:boiledeggitem
+          max_amount: 1
+          min_amount: 0
+        butteredbakedpotatoitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:butteredbakedpotatoitem
+          max_amount: 1
+          min_amount: 0
+        butteritem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:butteritem
+          max_amount: 1
+          min_amount: 0
+        caramelappleitem:
+          biomes:
+          - MANGROVE_SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:caramelappleitem
+          max_amount: 1
+          min_amount: 0
+        caramelcupcakeitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:caramelcupcakeitem
+          max_amount: 1
+          min_amount: 0
+        caramelicecreamitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:caramelicecreamitem
+          max_amount: 1
+          min_amount: 0
+        caramelitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:caramelitem
+          max_amount: 1
+          min_amount: 0
+        caramelmuffinitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:caramelmuffinitem
+          max_amount: 1
+          min_amount: 0
+        caramelyogurtitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:caramelyogurtitem
+          max_amount: 1
+          min_amount: 0
+        carrotbreaditem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:carrotbreaditem
+          max_amount: 1
+          min_amount: 0
+        carrotcakeitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:carrotcakeitem
+          max_amount: 1
+          min_amount: 0
+        carrotcupcakeitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:carrotcupcakeitem
+          max_amount: 1
+          min_amount: 0
+        carrotmuffinitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:carrotmuffinitem
+          max_amount: 1
+          min_amount: 0
+        carrotsoupitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:carrotsoupitem
+          max_amount: 1
+          min_amount: 0
+        cheesecakeitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cheesecakeitem
+          max_amount: 1
+          min_amount: 0
+        cheeseitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cheeseitem
+          max_amount: 1
+          min_amount: 0
+        chickendinneritem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chickendinneritem
+          max_amount: 1
+          min_amount: 0
+        chickenjerkyitem:
+          biomes:
+          - FROZEN_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chickenjerkyitem
+          max_amount: 1
+          min_amount: 0
+        chickennuggetitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chickennuggetitem
+          max_amount: 1
+          min_amount: 0
+        chickenpotpieitem:
+          biomes:
+          - OLD_GROWTH_BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chickenpotpieitem
+          max_amount: 1
+          min_amount: 0
+        chocolatebaconitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatebaconitem
+          max_amount: 1
+          min_amount: 0
+        chocolatebaritem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatebaritem
+          max_amount: 1
+          min_amount: 0
+        chocolatecakeitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatecakeitem
+          max_amount: 1
+          min_amount: 0
+        chocolatecaramelfudgeitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatecaramelfudgeitem
+          max_amount: 1
+          min_amount: 0
+        chocolatecupcakeitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatecupcakeitem
+          max_amount: 1
+          min_amount: 0
+        chocolatedonutitem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatedonutitem
+          max_amount: 1
+          min_amount: 0
+        chocolateicecreamitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolateicecreamitem
+          max_amount: 1
+          min_amount: 0
+        chocolatemilkitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatemilkitem
+          max_amount: 1
+          min_amount: 0
+        chocolatemilkshakeitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatemilkshakeitem
+          max_amount: 1
+          min_amount: 0
+        chocolatemuffinitem:
+          biomes:
+          - OLD_GROWTH_BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatemuffinitem
+          max_amount: 1
+          min_amount: 0
+        chocolatepuddingitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatepuddingitem
+          max_amount: 1
+          min_amount: 0
+        chocolaterollitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolaterollitem
+          max_amount: 1
+          min_amount: 0
+        chocolateyogurtitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolateyogurtitem
+          max_amount: 1
+          min_amount: 0
+        cocoapowderitem:
+          biomes:
+          - FROZEN_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cocoapowderitem
+          max_amount: 1
+          min_amount: 0
+        cookedgroundbeefitem:
+          biomes:
+          - JAGGED_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookedgroundbeefitem
+          max_amount: 1
+          min_amount: 0
+        cookedgroundchickenitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookedgroundchickenitem
+          max_amount: 1
+          min_amount: 0
+        cookedgroundfishitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookedgroundfishitem
+          max_amount: 1
+          min_amount: 0
+        cookedgroundmuttonitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookedgroundmuttonitem
+          max_amount: 1
+          min_amount: 0
+        cookedgroundporkitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookedgroundporkitem
+          max_amount: 1
+          min_amount: 0
+        cookedgroundrabbititem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookedgroundrabbititem
+          max_amount: 1
+          min_amount: 0
+        cookiesandmilkitem:
+          biomes:
+          - JAGGED_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookiesandmilkitem
+          max_amount: 1
+          min_amount: 0
+        cookingoilitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookingoilitem
+          max_amount: 1
+          min_amount: 0
+        cottoncandyitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cottoncandyitem
+          max_amount: 1
+          min_amount: 0
+        crackeritem:
+          biomes:
+          - MANGROVE_SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:crackeritem
+          max_amount: 1
+          min_amount: 0
+        creamitem:
+          biomes:
+          - TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:creamitem
+          max_amount: 1
+          min_amount: 0
+        donutitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:donutitem
+          max_amount: 1
+          min_amount: 0
+        doughitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:doughitem
+          max_amount: 1
+          min_amount: 0
+        fishandchipsitem:
+          biomes:
+          - JAGGED_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:fishandchipsitem
+          max_amount: 1
+          min_amount: 0
+        fishjerkyitem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:fishjerkyitem
+          max_amount: 1
+          min_amount: 0
+        fishsticksitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:fishsticksitem
+          max_amount: 1
+          min_amount: 0
+        flouritem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:flouritem
+          max_amount: 1
+          min_amount: 0
+        freshmilkitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:freshmilkitem
+          max_amount: 1
+          min_amount: 0
+        freshwateritem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:freshwateritem
+          max_amount: 1
+          min_amount: 0
+        friedchickenitem:
+          biomes:
+          - TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:friedchickenitem
+          max_amount: 1
+          min_amount: 0
+        friedeggitem:
+          biomes:
+          - STONY_SHORE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:friedeggitem
+          max_amount: 1
+          min_amount: 0
+        friesitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:friesitem
+          max_amount: 1
+          min_amount: 0
+        fruitcrumbleitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:fruitcrumbleitem
+          max_amount: 1
+          min_amount: 0
+        fruitpunchitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:fruitpunchitem
+          max_amount: 1
+          min_amount: 0
+        fruitsaladitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:fruitsaladitem
+          max_amount: 1
+          min_amount: 0
+        glazedcarrotsitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glazedcarrotsitem
+          max_amount: 1
+          min_amount: 0
+        glowberryjellyitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glowberryjellyitem
+          max_amount: 1
+          min_amount: 0
+        glowberryjellytoastitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glowberryjellytoastitem
+          max_amount: 1
+          min_amount: 0
+        glowberryjuiceitem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glowberryjuiceitem
+          max_amount: 1
+          min_amount: 0
+        glowberrypieitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glowberrypieitem
+          max_amount: 1
+          min_amount: 0
+        glowberrysmoothieitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glowberrysmoothieitem
+          max_amount: 1
+          min_amount: 0
+        glowberryyogurtitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glowberryyogurtitem
+          max_amount: 1
+          min_amount: 0
+        grilledcheeseitem:
+          biomes:
+          - TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:grilledcheeseitem
+          max_amount: 1
+          min_amount: 0
+        groundbeefitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:groundbeefitem
+          max_amount: 1
+          min_amount: 0
+        groundchickenitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:groundchickenitem
+          max_amount: 1
+          min_amount: 0
+        groundfishitem:
+          biomes:
+          - JAGGED_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:groundfishitem
+          max_amount: 1
+          min_amount: 0
+        groundmuttonitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:groundmuttonitem
+          max_amount: 1
+          min_amount: 0
+        groundporkitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:groundporkitem
+          max_amount: 1
+          min_amount: 0
+        groundrabbititem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:groundrabbititem
+          max_amount: 1
+          min_amount: 0
+        gummybearsitem:
+          biomes:
+          - JAGGED_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:gummybearsitem
+          max_amount: 1
+          min_amount: 0
+        hotchocolateitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:hotchocolateitem
+          max_amount: 1
+          min_amount: 0
+        hotdogitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:hotdogitem
+          max_amount: 1
+          min_amount: 0
+        icecreamitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:icecreamitem
+          max_amount: 1
+          min_amount: 0
+        jellybeansitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:jellybeansitem
+          max_amount: 1
+          min_amount: 0
+        jellydonutitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:jellydonutitem
+          max_amount: 1
+          min_amount: 0
+        macncheeseitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:macncheeseitem
+          max_amount: 1
+          min_amount: 0
+        marshmellowchicksitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:marshmellowchicksitem
+          max_amount: 1
+          min_amount: 0
+        marshmellowsitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:marshmellowsitem
+          max_amount: 1
+          min_amount: 0
+        mashedpotatoesitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:mashedpotatoesitem
+          max_amount: 1
+          min_amount: 0
+        mayonaiseitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:mayonaiseitem
+          max_amount: 1
+          min_amount: 0
+        meatloafitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:meatloafitem
+          max_amount: 1
+          min_amount: 0
+        melonjellyitem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:melonjellyitem
+          max_amount: 1
+          min_amount: 0
+        melonjellytoastitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:melonjellytoastitem
+          max_amount: 1
+          min_amount: 0
+        melonjuiceitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:melonjuiceitem
+          max_amount: 1
+          min_amount: 0
+        melonsmoothieitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:melonsmoothieitem
+          max_amount: 1
+          min_amount: 0
+        melonyogurtitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:melonyogurtitem
+          max_amount: 1
+          min_amount: 0
+        muttonjerkyitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:muttonjerkyitem
+          max_amount: 1
+          min_amount: 0
+        noodlesitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:noodlesitem
+          max_amount: 1
+          min_amount: 0
+        noodlesoupitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:noodlesoupitem
+          max_amount: 1
+          min_amount: 0
+        p8juiceitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:p8juiceitem
+          max_amount: 1
+          min_amount: 0
+        pastaitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pastaitem
+          max_amount: 1
+          min_amount: 0
+        pickledbeetsitem:
+          biomes:
+          - STONY_SHORE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pickledbeetsitem
+          max_amount: 1
+          min_amount: 0
+        porkjerkyitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:porkjerkyitem
+          max_amount: 1
+          min_amount: 0
+        potatochipsitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:potatochipsitem
+          max_amount: 1
+          min_amount: 0
+        potatosaladitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:potatosaladitem
+          max_amount: 1
+          min_amount: 0
+        potatosoupitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:potatosoupitem
+          max_amount: 1
+          min_amount: 0
+        potroastitem:
+          biomes:
+          - TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:potroastitem
+          max_amount: 1
+          min_amount: 0
+        pumpkinbreaditem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pumpkinbreaditem
+          max_amount: 1
+          min_amount: 0
+        pumpkincheesecakeitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pumpkincheesecakeitem
+          max_amount: 1
+          min_amount: 0
+        pumpkincupcakeitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pumpkincupcakeitem
+          max_amount: 1
+          min_amount: 0
+        pumpkinmuffinitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pumpkinmuffinitem
+          max_amount: 1
+          min_amount: 0
+        pumpkinsoupitem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pumpkinsoupitem
+          max_amount: 1
+          min_amount: 0
+        pumpkinyogurtitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pumpkinyogurtitem
+          max_amount: 1
+          min_amount: 0
+        rabbitjerkyitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:rabbitjerkyitem
+          max_amount: 1
+          min_amount: 0
+        roastedsunflowerseedsitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:roastedsunflowerseedsitem
+          max_amount: 1
+          min_amount: 0
+        rolleritem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:rolleritem
+          max_amount: 1
+          min_amount: 0
+        saltitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:saltitem
+          max_amount: 1
+          min_amount: 0
+        scrambledeggitem:
+          biomes:
+          - STONY_SHORE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:scrambledeggitem
+          max_amount: 1
+          min_amount: 0
+        skilletitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:skilletitem
+          max_amount: 1
+          min_amount: 0
+        smoresitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:smoresitem
+          max_amount: 1
+          min_amount: 0
+        softpretzelitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:softpretzelitem
+          max_amount: 1
+          min_amount: 0
+        stewitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:stewitem
+          max_amount: 1
+          min_amount: 0
+        stockitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:stockitem
+          max_amount: 1
+          min_amount: 0
+        sunflowerseedsitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sunflowerseedsitem
+          max_amount: 1
+          min_amount: 0
+        sweetberryjellyitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sweetberryjellyitem
+          max_amount: 1
+          min_amount: 0
+        sweetberryjellytoastitem:
+          biomes:
+          - TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sweetberryjellytoastitem
+          max_amount: 1
+          min_amount: 0
+        sweetberryjuiceitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sweetberryjuiceitem
+          max_amount: 1
+          min_amount: 0
+        sweetberrypieitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sweetberrypieitem
+          max_amount: 1
+          min_amount: 0
+        sweetberrysmoothieitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sweetberrysmoothieitem
+          max_amount: 1
+          min_amount: 0
+        sweetberryyogurtitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sweetberryyogurtitem
+          max_amount: 1
+          min_amount: 0
+        toastitem:
+          biomes:
+          - TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:toastitem
+          max_amount: 1
+          min_amount: 0
+        trailmixitem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:trailmixitem
+          max_amount: 1
+          min_amount: 0
+        vinegaritem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:vinegaritem
+          max_amount: 1
+          min_amount: 0
+        yogurtitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:yogurtitem
+          max_amount: 1
+          min_amount: 0
+
+    zombie_villager:
+      type: ZOMBIE_VILLAGER
+      items:
+        applejellyitem:
+          biomes:
+          - OLD_GROWTH_BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:applejellyitem
+          max_amount: 1
+          min_amount: 0
+        applejellytoastitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:applejellytoastitem
+          max_amount: 1
+          min_amount: 0
+        applejuiceitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:applejuiceitem
+          max_amount: 1
+          min_amount: 0
+        applepieitem:
+          biomes:
+          - OLD_GROWTH_BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:applepieitem
+          max_amount: 1
+          min_amount: 0
+        applesauceitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:applesauceitem
+          max_amount: 1
+          min_amount: 0
+        applesmoothieitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:applesmoothieitem
+          max_amount: 1
+          min_amount: 0
+        appleyogurtitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:appleyogurtitem
+          max_amount: 1
+          min_amount: 0
+        baconandeggsitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:baconandeggsitem
+          max_amount: 1
+          min_amount: 0
+        baconcheeseburgeritem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:baconcheeseburgeritem
+          max_amount: 1
+          min_amount: 0
+        bakewareitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:bakewareitem
+          max_amount: 1
+          min_amount: 0
+        basiccheeseburgeritem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:basiccheeseburgeritem
+          max_amount: 1
+          min_amount: 0
+        basicchickensandwichitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:basicchickensandwichitem
+          max_amount: 1
+          min_amount: 0
+        basicfishsandwichitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:basicfishsandwichitem
+          max_amount: 1
+          min_amount: 0
+        basichamburgeritem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:basichamburgeritem
+          max_amount: 1
+          min_amount: 0
+        batteritem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:batteritem
+          max_amount: 1
+          min_amount: 0
+        beefjerkyitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:beefjerkyitem
+          max_amount: 1
+          min_amount: 0
+        boiledeggitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:boiledeggitem
+          max_amount: 1
+          min_amount: 0
+        butteredbakedpotatoitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:butteredbakedpotatoitem
+          max_amount: 1
+          min_amount: 0
+        butteritem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:butteritem
+          max_amount: 1
+          min_amount: 0
+        caramelappleitem:
+          biomes:
+          - MANGROVE_SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:caramelappleitem
+          max_amount: 1
+          min_amount: 0
+        caramelcupcakeitem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:caramelcupcakeitem
+          max_amount: 1
+          min_amount: 0
+        caramelicecreamitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:caramelicecreamitem
+          max_amount: 1
+          min_amount: 0
+        caramelitem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:caramelitem
+          max_amount: 1
+          min_amount: 0
+        caramelmuffinitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:caramelmuffinitem
+          max_amount: 1
+          min_amount: 0
+        caramelyogurtitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:caramelyogurtitem
+          max_amount: 1
+          min_amount: 0
+        carrotbreaditem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:carrotbreaditem
+          max_amount: 1
+          min_amount: 0
+        carrotcakeitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:carrotcakeitem
+          max_amount: 1
+          min_amount: 0
+        carrotcupcakeitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:carrotcupcakeitem
+          max_amount: 1
+          min_amount: 0
+        carrotmuffinitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:carrotmuffinitem
+          max_amount: 1
+          min_amount: 0
+        carrotsoupitem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:carrotsoupitem
+          max_amount: 1
+          min_amount: 0
+        cheesecakeitem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cheesecakeitem
+          max_amount: 1
+          min_amount: 0
+        cheeseitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cheeseitem
+          max_amount: 1
+          min_amount: 0
+        chickendinneritem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chickendinneritem
+          max_amount: 1
+          min_amount: 0
+        chickenjerkyitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chickenjerkyitem
+          max_amount: 1
+          min_amount: 0
+        chickennuggetitem:
+          biomes:
+          - WOODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chickennuggetitem
+          max_amount: 1
+          min_amount: 0
+        chickenpotpieitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chickenpotpieitem
+          max_amount: 1
+          min_amount: 0
+        chocolatebaconitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatebaconitem
+          max_amount: 1
+          min_amount: 0
+        chocolatebaritem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatebaritem
+          max_amount: 1
+          min_amount: 0
+        chocolatecakeitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatecakeitem
+          max_amount: 1
+          min_amount: 0
+        chocolatecaramelfudgeitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatecaramelfudgeitem
+          max_amount: 1
+          min_amount: 0
+        chocolatecupcakeitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatecupcakeitem
+          max_amount: 1
+          min_amount: 0
+        chocolatedonutitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatedonutitem
+          max_amount: 1
+          min_amount: 0
+        chocolateicecreamitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolateicecreamitem
+          max_amount: 1
+          min_amount: 0
+        chocolatemilkitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatemilkitem
+          max_amount: 1
+          min_amount: 0
+        chocolatemilkshakeitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatemilkshakeitem
+          max_amount: 1
+          min_amount: 0
+        chocolatemuffinitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatemuffinitem
+          max_amount: 1
+          min_amount: 0
+        chocolatepuddingitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolatepuddingitem
+          max_amount: 1
+          min_amount: 0
+        chocolaterollitem:
+          biomes:
+          - OLD_GROWTH_BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolaterollitem
+          max_amount: 1
+          min_amount: 0
+        chocolateyogurtitem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:chocolateyogurtitem
+          max_amount: 1
+          min_amount: 0
+        cocoapowderitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cocoapowderitem
+          max_amount: 1
+          min_amount: 0
+        cookedgroundbeefitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookedgroundbeefitem
+          max_amount: 1
+          min_amount: 0
+        cookedgroundchickenitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookedgroundchickenitem
+          max_amount: 1
+          min_amount: 0
+        cookedgroundfishitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookedgroundfishitem
+          max_amount: 1
+          min_amount: 0
+        cookedgroundmuttonitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookedgroundmuttonitem
+          max_amount: 1
+          min_amount: 0
+        cookedgroundporkitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookedgroundporkitem
+          max_amount: 1
+          min_amount: 0
+        cookedgroundrabbititem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookedgroundrabbititem
+          max_amount: 1
+          min_amount: 0
+        cookiesandmilkitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookiesandmilkitem
+          max_amount: 1
+          min_amount: 0
+        cookingoilitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cookingoilitem
+          max_amount: 1
+          min_amount: 0
+        cottoncandyitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cottoncandyitem
+          max_amount: 1
+          min_amount: 0
+        crackeritem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:crackeritem
+          max_amount: 1
+          min_amount: 0
+        creamitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:creamitem
+          max_amount: 1
+          min_amount: 0
+        cuttingboarditem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:cuttingboarditem
+          max_amount: 1
+          min_amount: 0
+        donutitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:donutitem
+          max_amount: 1
+          min_amount: 0
+        doughitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:doughitem
+          max_amount: 1
+          min_amount: 0
+        epicbaconitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:epicbaconitem
+          max_amount: 1
+          min_amount: 0
+        fishandchipsitem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:fishandchipsitem
+          max_amount: 1
+          min_amount: 0
+        fishjerkyitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:fishjerkyitem
+          max_amount: 1
+          min_amount: 0
+        fishsticksitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:fishsticksitem
+          max_amount: 1
+          min_amount: 0
+        flouritem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:flouritem
+          max_amount: 1
+          min_amount: 0
+        freshmilkitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:freshmilkitem
+          max_amount: 1
+          min_amount: 0
+        freshwateritem:
+          biomes:
+          - OLD_GROWTH_BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:freshwateritem
+          max_amount: 1
+          min_amount: 0
+        friedchickenitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:friedchickenitem
+          max_amount: 1
+          min_amount: 0
+        friedeggitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:friedeggitem
+          max_amount: 1
+          min_amount: 0
+        friesitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:friesitem
+          max_amount: 1
+          min_amount: 0
+        fruitcrumbleitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:fruitcrumbleitem
+          max_amount: 1
+          min_amount: 0
+        fruitpunchitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:fruitpunchitem
+          max_amount: 1
+          min_amount: 0
+        fruitsaladitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:fruitsaladitem
+          max_amount: 1
+          min_amount: 0
+        glazedcarrotsitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glazedcarrotsitem
+          max_amount: 1
+          min_amount: 0
+        glowberryjellyitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glowberryjellyitem
+          max_amount: 1
+          min_amount: 0
+        glowberryjellytoastitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glowberryjellytoastitem
+          max_amount: 1
+          min_amount: 0
+        glowberryjuiceitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glowberryjuiceitem
+          max_amount: 1
+          min_amount: 0
+        glowberrypieitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glowberrypieitem
+          max_amount: 1
+          min_amount: 0
+        glowberrysmoothieitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glowberrysmoothieitem
+          max_amount: 1
+          min_amount: 0
+        glowberryyogurtitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:glowberryyogurtitem
+          max_amount: 1
+          min_amount: 0
+        grilledcheeseitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:grilledcheeseitem
+          max_amount: 1
+          min_amount: 0
+        grinderitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:grinderitem
+          max_amount: 1
+          min_amount: 0
+        groundbeefitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:groundbeefitem
+          max_amount: 1
+          min_amount: 0
+        groundchickenitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:groundchickenitem
+          max_amount: 1
+          min_amount: 0
+        groundfishitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:groundfishitem
+          max_amount: 1
+          min_amount: 0
+        groundmuttonitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:groundmuttonitem
+          max_amount: 1
+          min_amount: 0
+        groundporkitem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:groundporkitem
+          max_amount: 1
+          min_amount: 0
+        groundrabbititem:
+          biomes:
+          - FROZEN_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:groundrabbititem
+          max_amount: 1
+          min_amount: 0
+        gummybearsitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:gummybearsitem
+          max_amount: 1
+          min_amount: 0
+        hotchocolateitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:hotchocolateitem
+          max_amount: 1
+          min_amount: 0
+        hotdogitem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:hotdogitem
+          max_amount: 1
+          min_amount: 0
+        icecreamitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:icecreamitem
+          max_amount: 1
+          min_amount: 0
+        jellybeansitem:
+          biomes:
+          - WOODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:jellybeansitem
+          max_amount: 1
+          min_amount: 0
+        jellydonutitem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:jellydonutitem
+          max_amount: 1
+          min_amount: 0
+        juiceritem:
+          biomes:
+          - MANGROVE_SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:juiceritem
+          max_amount: 1
+          min_amount: 0
+        macncheeseitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:macncheeseitem
+          max_amount: 1
+          min_amount: 0
+        marshmellowchicksitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:marshmellowchicksitem
+          max_amount: 1
+          min_amount: 0
+        marshmellowsitem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:marshmellowsitem
+          max_amount: 1
+          min_amount: 0
+        mashedpotatoesitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:mashedpotatoesitem
+          max_amount: 1
+          min_amount: 0
+        mayonaiseitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:mayonaiseitem
+          max_amount: 1
+          min_amount: 0
+        meatloafitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:meatloafitem
+          max_amount: 1
+          min_amount: 0
+        melonjellyitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:melonjellyitem
+          max_amount: 1
+          min_amount: 0
+        melonjellytoastitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:melonjellytoastitem
+          max_amount: 1
+          min_amount: 0
+        melonjuiceitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:melonjuiceitem
+          max_amount: 1
+          min_amount: 0
+        melonsmoothieitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:melonsmoothieitem
+          max_amount: 1
+          min_amount: 0
+        melonyogurtitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:melonyogurtitem
+          max_amount: 1
+          min_amount: 0
+        mixingbowlitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:mixingbowlitem
+          max_amount: 1
+          min_amount: 0
+        muttonjerkyitem:
+          biomes:
+          - FROZEN_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:muttonjerkyitem
+          max_amount: 1
+          min_amount: 0
+        noodlesitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:noodlesitem
+          max_amount: 1
+          min_amount: 0
+        noodlesoupitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:noodlesoupitem
+          max_amount: 1
+          min_amount: 0
+        p8juiceitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:p8juiceitem
+          max_amount: 1
+          min_amount: 0
+        pastaitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pastaitem
+          max_amount: 1
+          min_amount: 0
+        pickledbeetsitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pickledbeetsitem
+          max_amount: 1
+          min_amount: 0
+        porkjerkyitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:porkjerkyitem
+          max_amount: 1
+          min_amount: 0
+        potatochipsitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:potatochipsitem
+          max_amount: 1
+          min_amount: 0
+        potatosaladitem:
+          biomes:
+          - JAGGED_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:potatosaladitem
+          max_amount: 1
+          min_amount: 0
+        potatosoupitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:potatosoupitem
+          max_amount: 1
+          min_amount: 0
+        potitem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:potitem
+          max_amount: 1
+          min_amount: 0
+        potroastitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:potroastitem
+          max_amount: 1
+          min_amount: 0
+        pumpkinbreaditem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pumpkinbreaditem
+          max_amount: 1
+          min_amount: 0
+        pumpkincheesecakeitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pumpkincheesecakeitem
+          max_amount: 1
+          min_amount: 0
+        pumpkincupcakeitem:
+          biomes:
+          - OLD_GROWTH_BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pumpkincupcakeitem
+          max_amount: 1
+          min_amount: 0
+        pumpkinmuffinitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pumpkinmuffinitem
+          max_amount: 1
+          min_amount: 0
+        pumpkinsoupitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pumpkinsoupitem
+          max_amount: 1
+          min_amount: 0
+        pumpkinyogurtitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:pumpkinyogurtitem
+          max_amount: 1
+          min_amount: 0
+        rabbitjerkyitem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:rabbitjerkyitem
+          max_amount: 1
+          min_amount: 0
+        roastedsunflowerseedsitem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:roastedsunflowerseedsitem
+          max_amount: 1
+          min_amount: 0
+        saltitem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:saltitem
+          max_amount: 1
+          min_amount: 0
+        saucepanitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:saucepanitem
+          max_amount: 1
+          min_amount: 0
+        scrambledeggitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:scrambledeggitem
+          max_amount: 1
+          min_amount: 0
+        smoresitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:smoresitem
+          max_amount: 1
+          min_amount: 0
+        softpretzelitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:softpretzelitem
+          max_amount: 1
+          min_amount: 0
+        stewitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:stewitem
+          max_amount: 1
+          min_amount: 0
+        stockitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:stockitem
+          max_amount: 1
+          min_amount: 0
+        sunflowerseedsitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sunflowerseedsitem
+          max_amount: 1
+          min_amount: 0
+        sweetberryjellyitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sweetberryjellyitem
+          max_amount: 1
+          min_amount: 0
+        sweetberryjellytoastitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sweetberryjellytoastitem
+          max_amount: 1
+          min_amount: 0
+        sweetberryjuiceitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sweetberryjuiceitem
+          max_amount: 1
+          min_amount: 0
+        sweetberrypieitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sweetberrypieitem
+          max_amount: 1
+          min_amount: 0
+        sweetberrysmoothieitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sweetberrysmoothieitem
+          max_amount: 1
+          min_amount: 0
+        sweetberryyogurtitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:sweetberryyogurtitem
+          max_amount: 1
+          min_amount: 0
+        toastitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:toastitem
+          max_amount: 1
+          min_amount: 0
+        trailmixitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:trailmixitem
+          max_amount: 1
+          min_amount: 0
+        vinegaritem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:vinegaritem
+          max_amount: 1
+          min_amount: 0
+        yogurtitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zfood:yogurtitem
+          max_amount: 1
+          min_amount: 0
+

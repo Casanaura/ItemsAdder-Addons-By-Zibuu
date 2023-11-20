@@ -1,0 +1,3124 @@
+info:
+  namespace: zcrops
+
+loots:
+  blocks:
+    grass:
+      type: GRASS
+      items:
+        agaveitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:agaveitem
+          max_amount: 1
+          min_amount: 0
+        alfalfaitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:alfalfaitem
+          max_amount: 1
+          min_amount: 0
+        aloeitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:aloeitem
+          max_amount: 1
+          min_amount: 0
+        amaranthitem:
+          biomes:
+          - JAGGED_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:amaranthitem
+          max_amount: 1
+          min_amount: 0
+        arrowrootitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:arrowrootitem
+          max_amount: 1
+          min_amount: 0
+        artichokeitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:artichokeitem
+          max_amount: 1
+          min_amount: 0
+        asparagusitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:asparagusitem
+          max_amount: 1
+          min_amount: 0
+        barleyitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:barleyitem
+          max_amount: 1
+          min_amount: 0
+        barrelcactusitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:barrelcactusitem
+          max_amount: 1
+          min_amount: 0
+        beanitem:
+          biomes:
+          - WOODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:beanitem
+          max_amount: 1
+          min_amount: 0
+        bellpepperitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:bellpepperitem
+          max_amount: 1
+          min_amount: 0
+        blackberryitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:blackberryitem
+          max_amount: 1
+          min_amount: 0
+        blueberryitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:blueberryitem
+          max_amount: 1
+          min_amount: 0
+        bokchoyitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:bokchoyitem
+          max_amount: 1
+          min_amount: 0
+        broccoliitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:broccoliitem
+          max_amount: 1
+          min_amount: 0
+        brusselsproutitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:brusselsproutitem
+          max_amount: 1
+          min_amount: 0
+        cabbageitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cabbageitem
+          max_amount: 1
+          min_amount: 0
+        cactusfruititem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cactusfruititem
+          max_amount: 1
+          min_amount: 0
+        calabashitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:calabashitem
+          max_amount: 1
+          min_amount: 0
+        candleberryitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:candleberryitem
+          max_amount: 1
+          min_amount: 0
+        canolaitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:canolaitem
+          max_amount: 1
+          min_amount: 0
+        cantaloupeitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cantaloupeitem
+          max_amount: 1
+          min_amount: 0
+        cassavaitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cassavaitem
+          max_amount: 1
+          min_amount: 0
+        cattailitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cattailitem
+          max_amount: 1
+          min_amount: 0
+        caulifloweritem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:caulifloweritem
+          max_amount: 1
+          min_amount: 0
+        celeryitem:
+          biomes:
+          - STONY_SHORE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:celeryitem
+          max_amount: 1
+          min_amount: 0
+        chiaitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:chiaitem
+          max_amount: 1
+          min_amount: 0
+        chickpeaitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:chickpeaitem
+          max_amount: 1
+          min_amount: 0
+        chilipepperitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:chilipepperitem
+          max_amount: 1
+          min_amount: 0
+        cloudberryitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cloudberryitem
+          max_amount: 1
+          min_amount: 0
+        coffeebeanitem:
+          biomes:
+          - OLD_GROWTH_BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:coffeebeanitem
+          max_amount: 1
+          min_amount: 0
+        cornitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cornitem
+          max_amount: 1
+          min_amount: 0
+        cottonitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cottonitem
+          max_amount: 1
+          min_amount: 0
+        cranberryitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cranberryitem
+          max_amount: 1
+          min_amount: 0
+        cucumberitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cucumberitem
+          max_amount: 1
+          min_amount: 0
+        eggplantitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:eggplantitem
+          max_amount: 1
+          min_amount: 0
+        elderberryitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:elderberryitem
+          max_amount: 1
+          min_amount: 0
+        flaxitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:flaxitem
+          max_amount: 1
+          min_amount: 0
+        garlicitem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:garlicitem
+          max_amount: 1
+          min_amount: 0
+        gingeritem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:gingeritem
+          max_amount: 1
+          min_amount: 0
+        grapeitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:grapeitem
+          max_amount: 1
+          min_amount: 0
+        greengrapeitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:greengrapeitem
+          max_amount: 1
+          min_amount: 0
+        guaranaitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:guaranaitem
+          max_amount: 1
+          min_amount: 0
+        huckleberryitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:huckleberryitem
+          max_amount: 1
+          min_amount: 0
+        jicamaitem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:jicamaitem
+          max_amount: 1
+          min_amount: 0
+        juniperberryitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:juniperberryitem
+          max_amount: 1
+          min_amount: 0
+        juteitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:juteitem
+          max_amount: 1
+          min_amount: 0
+        kaleitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kaleitem
+          max_amount: 1
+          min_amount: 0
+        kenafitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kenafitem
+          max_amount: 1
+          min_amount: 0
+        kiwiitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kiwiitem
+          max_amount: 1
+          min_amount: 0
+        kohlrabiitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kohlrabiitem
+          max_amount: 1
+          min_amount: 0
+        leekitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:leekitem
+          max_amount: 1
+          min_amount: 0
+        lentilitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:lentilitem
+          max_amount: 1
+          min_amount: 0
+        lettuceitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:lettuceitem
+          max_amount: 1
+          min_amount: 0
+        lotusitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:lotusitem
+          max_amount: 1
+          min_amount: 0
+        milletitem:
+          biomes:
+          - OLD_GROWTH_BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:milletitem
+          max_amount: 1
+          min_amount: 0
+        mulberryitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:mulberryitem
+          max_amount: 1
+          min_amount: 0
+        mustardseedsitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:mustardseedsitem
+          max_amount: 1
+          min_amount: 0
+        nettlesitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:nettlesitem
+          max_amount: 1
+          min_amount: 0
+        nopalesitem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:nopalesitem
+          max_amount: 1
+          min_amount: 0
+        oatsitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:oatsitem
+          max_amount: 1
+          min_amount: 0
+        okraitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:okraitem
+          max_amount: 1
+          min_amount: 0
+        onionitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:onionitem
+          max_amount: 1
+          min_amount: 0
+        papyrusitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:papyrusitem
+          max_amount: 1
+          min_amount: 0
+        parsnipitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:parsnipitem
+          max_amount: 1
+          min_amount: 0
+        peanutitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:peanutitem
+          max_amount: 1
+          min_amount: 0
+        peasitem:
+          biomes:
+          - WOODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:peasitem
+          max_amount: 1
+          min_amount: 0
+        pineappleitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:pineappleitem
+          max_amount: 1
+          min_amount: 0
+        quinoaitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:quinoaitem
+          max_amount: 1
+          min_amount: 0
+        radishitem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:radishitem
+          max_amount: 1
+          min_amount: 0
+        raspberryitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:raspberryitem
+          max_amount: 1
+          min_amount: 0
+        rhubarbitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:rhubarbitem
+          max_amount: 1
+          min_amount: 0
+        riceitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:riceitem
+          max_amount: 1
+          min_amount: 0
+        rutabagaitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:rutabagaitem
+          max_amount: 1
+          min_amount: 0
+        ryeitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:ryeitem
+          max_amount: 1
+          min_amount: 0
+        scallionitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:scallionitem
+          max_amount: 1
+          min_amount: 0
+        sesameseedsitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sesameseedsitem
+          max_amount: 1
+          min_amount: 0
+        sisalitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sisalitem
+          max_amount: 1
+          min_amount: 0
+        sorghumitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sorghumitem
+          max_amount: 1
+          min_amount: 0
+        soybeanitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:soybeanitem
+          max_amount: 1
+          min_amount: 0
+        spiceleafitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:spiceleafitem
+          max_amount: 1
+          min_amount: 0
+        spinachitem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:spinachitem
+          max_amount: 1
+          min_amount: 0
+        strawberryitem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:strawberryitem
+          max_amount: 1
+          min_amount: 0
+        sunchokeitem:
+          biomes:
+          - WOODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sunchokeitem
+          max_amount: 1
+          min_amount: 0
+        sweetpotatoitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sweetpotatoitem
+          max_amount: 1
+          min_amount: 0
+        taroitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:taroitem
+          max_amount: 1
+          min_amount: 0
+        tealeafitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:tealeafitem
+          max_amount: 1
+          min_amount: 0
+        tomatilloitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:tomatilloitem
+          max_amount: 1
+          min_amount: 0
+        tomatoitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:tomatoitem
+          max_amount: 1
+          min_amount: 0
+        truffleitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:truffleitem
+          max_amount: 1
+          min_amount: 0
+        turnipitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:turnipitem
+          max_amount: 1
+          min_amount: 0
+        waterchestnutitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:waterchestnutitem
+          max_amount: 1
+          min_amount: 0
+        whitemushroomitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:whitemushroomitem
+          max_amount: 1
+          min_amount: 0
+        wintersquashitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:wintersquashitem
+          max_amount: 1
+          min_amount: 0
+        wolfberryitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:wolfberryitem
+          max_amount: 1
+          min_amount: 0
+        yuccaitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:yuccaitem
+          max_amount: 1
+          min_amount: 0
+        zucchiniitem:
+          biomes:
+          - STONY_SHORE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:zucchiniitem
+          max_amount: 1
+          min_amount: 0
+
+    fern:
+      type: FERN
+      items:
+        agaveitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:agaveitem
+          max_amount: 1
+          min_amount: 0
+        alfalfaitem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:alfalfaitem
+          max_amount: 1
+          min_amount: 0
+        aloeitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:aloeitem
+          max_amount: 1
+          min_amount: 0
+        amaranthitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:amaranthitem
+          max_amount: 1
+          min_amount: 0
+        arrowrootitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:arrowrootitem
+          max_amount: 1
+          min_amount: 0
+        artichokeitem:
+          biomes:
+          - OLD_GROWTH_BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:artichokeitem
+          max_amount: 1
+          min_amount: 0
+        asparagusitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:asparagusitem
+          max_amount: 1
+          min_amount: 0
+        barleyitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:barleyitem
+          max_amount: 1
+          min_amount: 0
+        barrelcactusitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:barrelcactusitem
+          max_amount: 1
+          min_amount: 0
+        beanitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:beanitem
+          max_amount: 1
+          min_amount: 0
+        bellpepperitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:bellpepperitem
+          max_amount: 1
+          min_amount: 0
+        blackberryitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:blackberryitem
+          max_amount: 1
+          min_amount: 0
+        blueberryitem:
+          biomes:
+          - STONY_SHORE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:blueberryitem
+          max_amount: 1
+          min_amount: 0
+        bokchoyitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:bokchoyitem
+          max_amount: 1
+          min_amount: 0
+        broccoliitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:broccoliitem
+          max_amount: 1
+          min_amount: 0
+        brusselsproutitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:brusselsproutitem
+          max_amount: 1
+          min_amount: 0
+        cabbageitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cabbageitem
+          max_amount: 1
+          min_amount: 0
+        cactusfruititem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cactusfruititem
+          max_amount: 1
+          min_amount: 0
+        calabashitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:calabashitem
+          max_amount: 1
+          min_amount: 0
+        candleberryitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:candleberryitem
+          max_amount: 1
+          min_amount: 0
+        canolaitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:canolaitem
+          max_amount: 1
+          min_amount: 0
+        cantaloupeitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cantaloupeitem
+          max_amount: 1
+          min_amount: 0
+        cassavaitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cassavaitem
+          max_amount: 1
+          min_amount: 0
+        cattailitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cattailitem
+          max_amount: 1
+          min_amount: 0
+        caulifloweritem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:caulifloweritem
+          max_amount: 1
+          min_amount: 0
+        celeryitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:celeryitem
+          max_amount: 1
+          min_amount: 0
+        chiaitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:chiaitem
+          max_amount: 1
+          min_amount: 0
+        chickpeaitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:chickpeaitem
+          max_amount: 1
+          min_amount: 0
+        chilipepperitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:chilipepperitem
+          max_amount: 1
+          min_amount: 0
+        cloudberryitem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cloudberryitem
+          max_amount: 1
+          min_amount: 0
+        coffeebeanitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:coffeebeanitem
+          max_amount: 1
+          min_amount: 0
+        cornitem:
+          biomes:
+          - MANGROVE_SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cornitem
+          max_amount: 1
+          min_amount: 0
+        cottonitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cottonitem
+          max_amount: 1
+          min_amount: 0
+        cranberryitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cranberryitem
+          max_amount: 1
+          min_amount: 0
+        cucumberitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cucumberitem
+          max_amount: 1
+          min_amount: 0
+        eggplantitem:
+          biomes:
+          - WOODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:eggplantitem
+          max_amount: 1
+          min_amount: 0
+        elderberryitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:elderberryitem
+          max_amount: 1
+          min_amount: 0
+        flaxitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:flaxitem
+          max_amount: 1
+          min_amount: 0
+        garlicitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:garlicitem
+          max_amount: 1
+          min_amount: 0
+        gingeritem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:gingeritem
+          max_amount: 1
+          min_amount: 0
+        grapeitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:grapeitem
+          max_amount: 1
+          min_amount: 0
+        greengrapeitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:greengrapeitem
+          max_amount: 1
+          min_amount: 0
+        guaranaitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:guaranaitem
+          max_amount: 1
+          min_amount: 0
+        huckleberryitem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:huckleberryitem
+          max_amount: 1
+          min_amount: 0
+        jicamaitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:jicamaitem
+          max_amount: 1
+          min_amount: 0
+        juniperberryitem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:juniperberryitem
+          max_amount: 1
+          min_amount: 0
+        juteitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:juteitem
+          max_amount: 1
+          min_amount: 0
+        kaleitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kaleitem
+          max_amount: 1
+          min_amount: 0
+        kenafitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kenafitem
+          max_amount: 1
+          min_amount: 0
+        kiwiitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kiwiitem
+          max_amount: 1
+          min_amount: 0
+        kohlrabiitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kohlrabiitem
+          max_amount: 1
+          min_amount: 0
+        leekitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:leekitem
+          max_amount: 1
+          min_amount: 0
+        lentilitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:lentilitem
+          max_amount: 1
+          min_amount: 0
+        lettuceitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:lettuceitem
+          max_amount: 1
+          min_amount: 0
+        lotusitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:lotusitem
+          max_amount: 1
+          min_amount: 0
+        milletitem:
+          biomes:
+          - TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:milletitem
+          max_amount: 1
+          min_amount: 0
+        mulberryitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:mulberryitem
+          max_amount: 1
+          min_amount: 0
+        mustardseedsitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:mustardseedsitem
+          max_amount: 1
+          min_amount: 0
+        nettlesitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:nettlesitem
+          max_amount: 1
+          min_amount: 0
+        nopalesitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:nopalesitem
+          max_amount: 1
+          min_amount: 0
+        oatsitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:oatsitem
+          max_amount: 1
+          min_amount: 0
+        okraitem:
+          biomes:
+          - WOODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:okraitem
+          max_amount: 1
+          min_amount: 0
+        onionitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:onionitem
+          max_amount: 1
+          min_amount: 0
+        papyrusitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:papyrusitem
+          max_amount: 1
+          min_amount: 0
+        parsnipitem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:parsnipitem
+          max_amount: 1
+          min_amount: 0
+        peanutitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:peanutitem
+          max_amount: 1
+          min_amount: 0
+        peasitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:peasitem
+          max_amount: 1
+          min_amount: 0
+        pineappleitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:pineappleitem
+          max_amount: 1
+          min_amount: 0
+        quinoaitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:quinoaitem
+          max_amount: 1
+          min_amount: 0
+        radishitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:radishitem
+          max_amount: 1
+          min_amount: 0
+        raspberryitem:
+          biomes:
+          - MANGROVE_SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:raspberryitem
+          max_amount: 1
+          min_amount: 0
+        rhubarbitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:rhubarbitem
+          max_amount: 1
+          min_amount: 0
+        riceitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:riceitem
+          max_amount: 1
+          min_amount: 0
+        rutabagaitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:rutabagaitem
+          max_amount: 1
+          min_amount: 0
+        ryeitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:ryeitem
+          max_amount: 1
+          min_amount: 0
+        scallionitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:scallionitem
+          max_amount: 1
+          min_amount: 0
+        sesameseedsitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sesameseedsitem
+          max_amount: 1
+          min_amount: 0
+        sisalitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sisalitem
+          max_amount: 1
+          min_amount: 0
+        sorghumitem:
+          biomes:
+          - WOODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sorghumitem
+          max_amount: 1
+          min_amount: 0
+        soybeanitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:soybeanitem
+          max_amount: 1
+          min_amount: 0
+        spiceleafitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:spiceleafitem
+          max_amount: 1
+          min_amount: 0
+        spinachitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:spinachitem
+          max_amount: 1
+          min_amount: 0
+        strawberryitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:strawberryitem
+          max_amount: 1
+          min_amount: 0
+        sunchokeitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sunchokeitem
+          max_amount: 1
+          min_amount: 0
+        sweetpotatoitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sweetpotatoitem
+          max_amount: 1
+          min_amount: 0
+        taroitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:taroitem
+          max_amount: 1
+          min_amount: 0
+        tealeafitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:tealeafitem
+          max_amount: 1
+          min_amount: 0
+        tomatilloitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:tomatilloitem
+          max_amount: 1
+          min_amount: 0
+        tomatoitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:tomatoitem
+          max_amount: 1
+          min_amount: 0
+        truffleitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:truffleitem
+          max_amount: 1
+          min_amount: 0
+        turnipitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:turnipitem
+          max_amount: 1
+          min_amount: 0
+        waterchestnutitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:waterchestnutitem
+          max_amount: 1
+          min_amount: 0
+        whitemushroomitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:whitemushroomitem
+          max_amount: 1
+          min_amount: 0
+        wintersquashitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:wintersquashitem
+          max_amount: 1
+          min_amount: 0
+        wolfberryitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:wolfberryitem
+          max_amount: 1
+          min_amount: 0
+        yuccaitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:yuccaitem
+          max_amount: 1
+          min_amount: 0
+        zucchiniitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:zucchiniitem
+          max_amount: 1
+          min_amount: 0
+
+    tall_grass:
+      type: TALL_GRASS
+      items:
+        agaveitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:agaveitem
+          max_amount: 1
+          min_amount: 0
+        alfalfaitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:alfalfaitem
+          max_amount: 1
+          min_amount: 0
+        aloeitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:aloeitem
+          max_amount: 1
+          min_amount: 0
+        amaranthitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:amaranthitem
+          max_amount: 1
+          min_amount: 0
+        arrowrootitem:
+          biomes:
+          - JAGGED_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:arrowrootitem
+          max_amount: 1
+          min_amount: 0
+        artichokeitem:
+          biomes:
+          - TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:artichokeitem
+          max_amount: 1
+          min_amount: 0
+        asparagusitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:asparagusitem
+          max_amount: 1
+          min_amount: 0
+        barleyitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:barleyitem
+          max_amount: 1
+          min_amount: 0
+        barrelcactusitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:barrelcactusitem
+          max_amount: 1
+          min_amount: 0
+        beanitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:beanitem
+          max_amount: 1
+          min_amount: 0
+        bellpepperitem:
+          biomes:
+          - STONY_SHORE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:bellpepperitem
+          max_amount: 1
+          min_amount: 0
+        blackberryitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:blackberryitem
+          max_amount: 1
+          min_amount: 0
+        blueberryitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:blueberryitem
+          max_amount: 1
+          min_amount: 0
+        bokchoyitem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:bokchoyitem
+          max_amount: 1
+          min_amount: 0
+        broccoliitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:broccoliitem
+          max_amount: 1
+          min_amount: 0
+        brusselsproutitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:brusselsproutitem
+          max_amount: 1
+          min_amount: 0
+        cabbageitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cabbageitem
+          max_amount: 1
+          min_amount: 0
+        cactusfruititem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cactusfruititem
+          max_amount: 1
+          min_amount: 0
+        calabashitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:calabashitem
+          max_amount: 1
+          min_amount: 0
+        candleberryitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:candleberryitem
+          max_amount: 1
+          min_amount: 0
+        canolaitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:canolaitem
+          max_amount: 1
+          min_amount: 0
+        cantaloupeitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cantaloupeitem
+          max_amount: 1
+          min_amount: 0
+        cassavaitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cassavaitem
+          max_amount: 1
+          min_amount: 0
+        cattailitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cattailitem
+          max_amount: 1
+          min_amount: 0
+        caulifloweritem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:caulifloweritem
+          max_amount: 1
+          min_amount: 0
+        celeryitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:celeryitem
+          max_amount: 1
+          min_amount: 0
+        chiaitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:chiaitem
+          max_amount: 1
+          min_amount: 0
+        chickpeaitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:chickpeaitem
+          max_amount: 1
+          min_amount: 0
+        chilipepperitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:chilipepperitem
+          max_amount: 1
+          min_amount: 0
+        cloudberryitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cloudberryitem
+          max_amount: 1
+          min_amount: 0
+        coffeebeanitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:coffeebeanitem
+          max_amount: 1
+          min_amount: 0
+        cornitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cornitem
+          max_amount: 1
+          min_amount: 0
+        cottonitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cottonitem
+          max_amount: 1
+          min_amount: 0
+        cranberryitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cranberryitem
+          max_amount: 1
+          min_amount: 0
+        cucumberitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cucumberitem
+          max_amount: 1
+          min_amount: 0
+        eggplantitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:eggplantitem
+          max_amount: 1
+          min_amount: 0
+        elderberryitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:elderberryitem
+          max_amount: 1
+          min_amount: 0
+        flaxitem:
+          biomes:
+          - JAGGED_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:flaxitem
+          max_amount: 1
+          min_amount: 0
+        garlicitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:garlicitem
+          max_amount: 1
+          min_amount: 0
+        gingeritem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:gingeritem
+          max_amount: 1
+          min_amount: 0
+        grapeitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:grapeitem
+          max_amount: 1
+          min_amount: 0
+        greengrapeitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:greengrapeitem
+          max_amount: 1
+          min_amount: 0
+        guaranaitem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:guaranaitem
+          max_amount: 1
+          min_amount: 0
+        huckleberryitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:huckleberryitem
+          max_amount: 1
+          min_amount: 0
+        jicamaitem:
+          biomes:
+          - STONY_SHORE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:jicamaitem
+          max_amount: 1
+          min_amount: 0
+        juniperberryitem:
+          biomes:
+          - MANGROVE_SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:juniperberryitem
+          max_amount: 1
+          min_amount: 0
+        juteitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:juteitem
+          max_amount: 1
+          min_amount: 0
+        kaleitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kaleitem
+          max_amount: 1
+          min_amount: 0
+        kenafitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kenafitem
+          max_amount: 1
+          min_amount: 0
+        kiwiitem:
+          biomes:
+          - TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kiwiitem
+          max_amount: 1
+          min_amount: 0
+        kohlrabiitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kohlrabiitem
+          max_amount: 1
+          min_amount: 0
+        leekitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:leekitem
+          max_amount: 1
+          min_amount: 0
+        lentilitem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:lentilitem
+          max_amount: 1
+          min_amount: 0
+        lettuceitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:lettuceitem
+          max_amount: 1
+          min_amount: 0
+        lotusitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:lotusitem
+          max_amount: 1
+          min_amount: 0
+        milletitem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:milletitem
+          max_amount: 1
+          min_amount: 0
+        mulberryitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:mulberryitem
+          max_amount: 1
+          min_amount: 0
+        mustardseedsitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:mustardseedsitem
+          max_amount: 1
+          min_amount: 0
+        nettlesitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:nettlesitem
+          max_amount: 1
+          min_amount: 0
+        nopalesitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:nopalesitem
+          max_amount: 1
+          min_amount: 0
+        oatsitem:
+          biomes:
+          - FROZEN_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:oatsitem
+          max_amount: 1
+          min_amount: 0
+        okraitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:okraitem
+          max_amount: 1
+          min_amount: 0
+        onionitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:onionitem
+          max_amount: 1
+          min_amount: 0
+        papyrusitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:papyrusitem
+          max_amount: 1
+          min_amount: 0
+        parsnipitem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:parsnipitem
+          max_amount: 1
+          min_amount: 0
+        peanutitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:peanutitem
+          max_amount: 1
+          min_amount: 0
+        peasitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:peasitem
+          max_amount: 1
+          min_amount: 0
+        pineappleitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:pineappleitem
+          max_amount: 1
+          min_amount: 0
+        quinoaitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:quinoaitem
+          max_amount: 1
+          min_amount: 0
+        radishitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:radishitem
+          max_amount: 1
+          min_amount: 0
+        raspberryitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:raspberryitem
+          max_amount: 1
+          min_amount: 0
+        rhubarbitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:rhubarbitem
+          max_amount: 1
+          min_amount: 0
+        riceitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:riceitem
+          max_amount: 1
+          min_amount: 0
+        rutabagaitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:rutabagaitem
+          max_amount: 1
+          min_amount: 0
+        ryeitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:ryeitem
+          max_amount: 1
+          min_amount: 0
+        scallionitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:scallionitem
+          max_amount: 1
+          min_amount: 0
+        sesameseedsitem:
+          biomes:
+          - BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sesameseedsitem
+          max_amount: 1
+          min_amount: 0
+        sisalitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sisalitem
+          max_amount: 1
+          min_amount: 0
+        sorghumitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sorghumitem
+          max_amount: 1
+          min_amount: 0
+        soybeanitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:soybeanitem
+          max_amount: 1
+          min_amount: 0
+        spiceleafitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:spiceleafitem
+          max_amount: 1
+          min_amount: 0
+        spinachitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:spinachitem
+          max_amount: 1
+          min_amount: 0
+        strawberryitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:strawberryitem
+          max_amount: 1
+          min_amount: 0
+        sunchokeitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sunchokeitem
+          max_amount: 1
+          min_amount: 0
+        sweetpotatoitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sweetpotatoitem
+          max_amount: 1
+          min_amount: 0
+        taroitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:taroitem
+          max_amount: 1
+          min_amount: 0
+        tealeafitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:tealeafitem
+          max_amount: 1
+          min_amount: 0
+        tomatilloitem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:tomatilloitem
+          max_amount: 1
+          min_amount: 0
+        tomatoitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:tomatoitem
+          max_amount: 1
+          min_amount: 0
+        truffleitem:
+          biomes:
+          - FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:truffleitem
+          max_amount: 1
+          min_amount: 0
+        turnipitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:turnipitem
+          max_amount: 1
+          min_amount: 0
+        waterchestnutitem:
+          biomes:
+          - FROZEN_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:waterchestnutitem
+          max_amount: 1
+          min_amount: 0
+        whitemushroomitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:whitemushroomitem
+          max_amount: 1
+          min_amount: 0
+        wintersquashitem:
+          biomes:
+          - MANGROVE_SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:wintersquashitem
+          max_amount: 1
+          min_amount: 0
+        wolfberryitem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:wolfberryitem
+          max_amount: 1
+          min_amount: 0
+        yuccaitem:
+          biomes:
+          - SUNFLOWER_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:yuccaitem
+          max_amount: 1
+          min_amount: 0
+        zucchiniitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:zucchiniitem
+          max_amount: 1
+          min_amount: 0
+
+    large_fern:
+      type: LARGE_FERN
+      items:
+        agaveitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:agaveitem
+          max_amount: 1
+          min_amount: 0
+        alfalfaitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:alfalfaitem
+          max_amount: 1
+          min_amount: 0
+        aloeitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:aloeitem
+          max_amount: 1
+          min_amount: 0
+        amaranthitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:amaranthitem
+          max_amount: 1
+          min_amount: 0
+        arrowrootitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:arrowrootitem
+          max_amount: 1
+          min_amount: 0
+        artichokeitem:
+          biomes:
+          - TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:artichokeitem
+          max_amount: 1
+          min_amount: 0
+        asparagusitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:asparagusitem
+          max_amount: 1
+          min_amount: 0
+        barleyitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:barleyitem
+          max_amount: 1
+          min_amount: 0
+        barrelcactusitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:barrelcactusitem
+          max_amount: 1
+          min_amount: 0
+        beanitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:beanitem
+          max_amount: 1
+          min_amount: 0
+        bellpepperitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:bellpepperitem
+          max_amount: 1
+          min_amount: 0
+        blackberryitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:blackberryitem
+          max_amount: 1
+          min_amount: 0
+        blueberryitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:blueberryitem
+          max_amount: 1
+          min_amount: 0
+        bokchoyitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:bokchoyitem
+          max_amount: 1
+          min_amount: 0
+        broccoliitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:broccoliitem
+          max_amount: 1
+          min_amount: 0
+        brusselsproutitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:brusselsproutitem
+          max_amount: 1
+          min_amount: 0
+        cabbageitem:
+          biomes:
+          - JAGGED_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cabbageitem
+          max_amount: 1
+          min_amount: 0
+        cactusfruititem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cactusfruititem
+          max_amount: 1
+          min_amount: 0
+        calabashitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:calabashitem
+          max_amount: 1
+          min_amount: 0
+        candleberryitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:candleberryitem
+          max_amount: 1
+          min_amount: 0
+        canolaitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:canolaitem
+          max_amount: 1
+          min_amount: 0
+        cantaloupeitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cantaloupeitem
+          max_amount: 1
+          min_amount: 0
+        cassavaitem:
+          biomes:
+          - SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cassavaitem
+          max_amount: 1
+          min_amount: 0
+        cattailitem:
+          biomes:
+          - ERODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cattailitem
+          max_amount: 1
+          min_amount: 0
+        caulifloweritem:
+          biomes:
+          - JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:caulifloweritem
+          max_amount: 1
+          min_amount: 0
+        celeryitem:
+          biomes:
+          - WINDSWEPT_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:celeryitem
+          max_amount: 1
+          min_amount: 0
+        chiaitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:chiaitem
+          max_amount: 1
+          min_amount: 0
+        chickpeaitem:
+          biomes:
+          - FROZEN_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:chickpeaitem
+          max_amount: 1
+          min_amount: 0
+        chilipepperitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:chilipepperitem
+          max_amount: 1
+          min_amount: 0
+        cloudberryitem:
+          biomes:
+          - MANGROVE_SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cloudberryitem
+          max_amount: 1
+          min_amount: 0
+        coffeebeanitem:
+          biomes:
+          - OLD_GROWTH_BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:coffeebeanitem
+          max_amount: 1
+          min_amount: 0
+        cornitem:
+          biomes:
+          - FROZEN_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cornitem
+          max_amount: 1
+          min_amount: 0
+        cottonitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cottonitem
+          max_amount: 1
+          min_amount: 0
+        cranberryitem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cranberryitem
+          max_amount: 1
+          min_amount: 0
+        cucumberitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:cucumberitem
+          max_amount: 1
+          min_amount: 0
+        eggplantitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:eggplantitem
+          max_amount: 1
+          min_amount: 0
+        elderberryitem:
+          biomes:
+          - JAGGED_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:elderberryitem
+          max_amount: 1
+          min_amount: 0
+        flaxitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:flaxitem
+          max_amount: 1
+          min_amount: 0
+        garlicitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:garlicitem
+          max_amount: 1
+          min_amount: 0
+        gingeritem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:gingeritem
+          max_amount: 1
+          min_amount: 0
+        grapeitem:
+          biomes:
+          - SWAMP
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:grapeitem
+          max_amount: 1
+          min_amount: 0
+        greengrapeitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:greengrapeitem
+          max_amount: 1
+          min_amount: 0
+        guaranaitem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:guaranaitem
+          max_amount: 1
+          min_amount: 0
+        huckleberryitem:
+          biomes:
+          - WINDSWEPT_GRAVELLY_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:huckleberryitem
+          max_amount: 1
+          min_amount: 0
+        jicamaitem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:jicamaitem
+          max_amount: 1
+          min_amount: 0
+        juniperberryitem:
+          biomes:
+          - WINDSWEPT_SAVANNA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:juniperberryitem
+          max_amount: 1
+          min_amount: 0
+        juteitem:
+          biomes:
+          - OLD_GROWTH_SPRUCE_TAIGE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:juteitem
+          max_amount: 1
+          min_amount: 0
+        kaleitem:
+          biomes:
+          - OLD_GROWTH_PINE_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kaleitem
+          max_amount: 1
+          min_amount: 0
+        kenafitem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kenafitem
+          max_amount: 1
+          min_amount: 0
+        kiwiitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kiwiitem
+          max_amount: 1
+          min_amount: 0
+        kohlrabiitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:kohlrabiitem
+          max_amount: 1
+          min_amount: 0
+        leekitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:leekitem
+          max_amount: 1
+          min_amount: 0
+        lentilitem:
+          biomes:
+          - OLD_GROWTH_BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:lentilitem
+          max_amount: 1
+          min_amount: 0
+        lettuceitem:
+          biomes:
+          - MEADOW
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:lettuceitem
+          max_amount: 1
+          min_amount: 0
+        lotusitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:lotusitem
+          max_amount: 1
+          min_amount: 0
+        milletitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:milletitem
+          max_amount: 1
+          min_amount: 0
+        mulberryitem:
+          biomes:
+          - BAMBOO_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:mulberryitem
+          max_amount: 1
+          min_amount: 0
+        mustardseedsitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:mustardseedsitem
+          max_amount: 1
+          min_amount: 0
+        nettlesitem:
+          biomes:
+          - STONY_SHORE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:nettlesitem
+          max_amount: 1
+          min_amount: 0
+        nopalesitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:nopalesitem
+          max_amount: 1
+          min_amount: 0
+        oatsitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:oatsitem
+          max_amount: 1
+          min_amount: 0
+        okraitem:
+          biomes:
+          - SNOWY_PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:okraitem
+          max_amount: 1
+          min_amount: 0
+        onionitem:
+          biomes:
+          - TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:onionitem
+          max_amount: 1
+          min_amount: 0
+        papyrusitem:
+          biomes:
+          - WOODED_BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:papyrusitem
+          max_amount: 1
+          min_amount: 0
+        parsnipitem:
+          biomes:
+          - CHERRY_GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:parsnipitem
+          max_amount: 1
+          min_amount: 0
+        peanutitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:peanutitem
+          max_amount: 1
+          min_amount: 0
+        peasitem:
+          biomes:
+          - SNOWY_TAIGA
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:peasitem
+          max_amount: 1
+          min_amount: 0
+        pineappleitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:pineappleitem
+          max_amount: 1
+          min_amount: 0
+        quinoaitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:quinoaitem
+          max_amount: 1
+          min_amount: 0
+        radishitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:radishitem
+          max_amount: 1
+          min_amount: 0
+        raspberryitem:
+          biomes:
+          - PLAINS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:raspberryitem
+          max_amount: 1
+          min_amount: 0
+        rhubarbitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:rhubarbitem
+          max_amount: 1
+          min_amount: 0
+        riceitem:
+          biomes:
+          - OLD_GROWTH_BIRCH_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:riceitem
+          max_amount: 1
+          min_amount: 0
+        rutabagaitem:
+          biomes:
+          - LUSH_CAVES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:rutabagaitem
+          max_amount: 1
+          min_amount: 0
+        ryeitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:ryeitem
+          max_amount: 1
+          min_amount: 0
+        scallionitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:scallionitem
+          max_amount: 1
+          min_amount: 0
+        sesameseedsitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sesameseedsitem
+          max_amount: 1
+          min_amount: 0
+        sisalitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sisalitem
+          max_amount: 1
+          min_amount: 0
+        sorghumitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sorghumitem
+          max_amount: 1
+          min_amount: 0
+        soybeanitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:soybeanitem
+          max_amount: 1
+          min_amount: 0
+        spiceleafitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:spiceleafitem
+          max_amount: 1
+          min_amount: 0
+        spinachitem:
+          biomes:
+          - BADLANDS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:spinachitem
+          max_amount: 1
+          min_amount: 0
+        strawberryitem:
+          biomes:
+          - ICE_SPIKES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:strawberryitem
+          max_amount: 1
+          min_amount: 0
+        sunchokeitem:
+          biomes:
+          - SPARSE_JUNGLE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sunchokeitem
+          max_amount: 1
+          min_amount: 0
+        sweetpotatoitem:
+          biomes:
+          - STONY_PEAKS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:sweetpotatoitem
+          max_amount: 1
+          min_amount: 0
+        taroitem:
+          biomes:
+          - FLOWER_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:taroitem
+          max_amount: 1
+          min_amount: 0
+        tealeafitem:
+          biomes:
+          - WINDSWEPT_HILLS
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:tealeafitem
+          max_amount: 1
+          min_amount: 0
+        tomatilloitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:tomatilloitem
+          max_amount: 1
+          min_amount: 0
+        tomatoitem:
+          biomes:
+          - SNOWY_SLOPES
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:tomatoitem
+          max_amount: 1
+          min_amount: 0
+        truffleitem:
+          biomes:
+          - SAVANNA_PLATEAU
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:truffleitem
+          max_amount: 1
+          min_amount: 0
+        turnipitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:turnipitem
+          max_amount: 1
+          min_amount: 0
+        waterchestnutitem:
+          biomes:
+          - SNOWY_BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:waterchestnutitem
+          max_amount: 1
+          min_amount: 0
+        whitemushroomitem:
+          biomes:
+          - BEACH
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:whitemushroomitem
+          max_amount: 1
+          min_amount: 0
+        wintersquashitem:
+          biomes:
+          - GROVE
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:wintersquashitem
+          max_amount: 1
+          min_amount: 0
+        wolfberryitem:
+          biomes:
+          - RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:wolfberryitem
+          max_amount: 1
+          min_amount: 0
+        yuccaitem:
+          biomes:
+          - FROZEN_RIVER
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:yuccaitem
+          max_amount: 1
+          min_amount: 0
+        zucchiniitem:
+          biomes:
+          - DARK_FOREST
+          chance: 0.1
+          ignore_fortune: true
+          item: zcrops:zucchiniitem
+          max_amount: 1
+          min_amount: 0

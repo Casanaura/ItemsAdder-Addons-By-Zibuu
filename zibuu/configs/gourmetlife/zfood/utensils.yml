@@ -1,0 +1,111 @@
+info:
+  namespace: zfood
+items:
+  bakewareitem:
+    display_name: display-name-bakewareitem
+    durability:
+      max_custom_durability: 64
+    lore:
+    - '&f'
+    - 'display-lore-category-name-kitchen'
+    resource:
+      generate: false
+      material: PAPER
+      textures:
+      - item/bakewareitem.png
+  cuttingboarditem:
+    display_name: display-name-cuttingboarditem
+    durability:
+      max_custom_durability: 64
+    lore:
+    - '&f'
+    - 'display-lore-category-name-kitchen'
+    resource:
+      generate: false
+      material: PAPER
+      textures:
+      - item/cuttingboarditem.png
+  grinderitem:
+    display_name: display-name-grinderitem
+    durability:
+      max_custom_durability: 64
+    lore:
+    - '&f'
+    - 'display-lore-category-name-kitchen'
+    resource:
+      generate: false
+      material: PAPER
+      textures:
+      - item/grinderitem.png
+  juiceritem:
+    display_name: display-name-juiceritem
+    durability:
+      max_custom_durability: 64
+    lore:
+    - '&f'
+    - 'display-lore-category-name-kitchen'
+    resource:
+      generate: false
+      material: PAPER
+      textures:
+      - item/juiceritem.png
+  mixingbowlitem:
+    display_name: display-name-mixingbowlitem
+    durability:
+      max_custom_durability: 64
+    lore:
+    - '&f'
+    - 'display-lore-category-name-kitchen'
+    resource:
+      generate: false
+      material: PAPER
+      textures:
+      - item/mixingbowlitem.png
+  potitem:
+    display_name: display-name-potitem
+    durability:
+      max_custom_durability: 64
+    lore:
+    - '&f'
+    - 'display-lore-category-name-kitchen'
+    resource:
+      generate: false
+      material: PAPER
+      textures:
+      - item/potitem.png
+  rolleritem:
+    display_name: display-name-rolleritem
+    durability:
+      max_custom_durability: 64
+    lore:
+    - '&f'
+    - 'display-lore-category-name-kitchen'
+    resource:
+      generate: false
+      material: PAPER
+      textures:
+      - item/rolleritem.png
+  saucepanitem:
+    display_name: display-name-saucepanitem
+    durability:
+      max_custom_durability: 64
+    lore:
+    - '&f'
+    - 'display-lore-category-name-kitchen'
+    resource:
+      generate: false
+      material: PAPER
+      textures:
+      - item/saucepanitem.png
+  skilletitem:
+    display_name: display-name-skilletitem
+    durability:
+      max_custom_durability: 64
+    lore:
+    - '&f'
+    - 'display-lore-category-name-kitchen'
+    resource:
+      generate: false
+      material: PAPER
+      textures:
+      - item/skilletitem.png

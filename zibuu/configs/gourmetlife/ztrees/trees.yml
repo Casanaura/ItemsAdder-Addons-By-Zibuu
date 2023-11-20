@@ -1,0 +1,1403 @@
+info:
+  namespace: ztrees
+items:
+  acornitem:
+    display_name: display-name-acornitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: true
+      material: DRIED_KELP
+      textures:
+      - item/acornitem.png
+  almonditem:
+    display_name: display-name-almonditem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/almonditem.png
+  apricotitem:
+    display_name: display-name-apricotitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/apricotitem.png
+  avocadoitem:
+    display_name: display-name-avocadoitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/avocadoitem.png
+  bananaitem:
+    display_name: display-name-bananaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/bananaitem.png
+  breadfruititem:
+    display_name: display-name-breadfruititem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/breadfruititem.png
+  candlenutitem:
+    display_name: display-name-candlenutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/candlenutitem.png
+  cashewitem:
+    display_name: display-name-cashewitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/cashewitem.png
+  cherryitem:
+    display_name: display-name-cherryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/cherryitem.png
+  chestnutitem:
+    display_name: display-name-chestnutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/chestnutitem.png
+  cinnamonitem:
+    display_name: display-name-cinnamonitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/cinnamonitem.png
+  coconutitem:
+    display_name: display-name-coconutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/coconutitem.png
+  dateitem:
+    display_name: display-name-dateitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/dateitem.png
+  dragonfruititem:
+    display_name: display-name-dragonfruititem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/dragonfruititem.png
+  durianitem:
+    display_name: display-name-durianitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/durianitem.png
+  figitem:
+    display_name: display-name-figitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/figitem.png
+  gooseberryitem:
+    display_name: display-name-gooseberryitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/gooseberryitem.png
+  grapefruititem:
+    display_name: display-name-grapefruititem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/grapefruititem.png
+  guavaitem:
+    display_name: display-name-guavaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/guavaitem.png
+  hazelnutitem:
+    display_name: display-name-hazelnutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/hazelnutitem.png
+  jackfruititem:
+    display_name: display-name-jackfruititem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/jackfruititem.png
+  lemonitem:
+    display_name: display-name-lemonitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/lemonitem.png
+  limeitem:
+    display_name: display-name-limeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/limeitem.png
+  lycheeitem:
+    display_name: display-name-lycheeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/lycheeitem.png
+  mangoitem:
+    display_name: display-name-mangoitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/mangoitem.png
+  maplesyrupitem:
+    display_name: display-name-maplesyrupitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/maplesyrupitem.png
+  nutmegitem:
+    display_name: display-name-nutmegitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/nutmegitem.png
+  oliveitem:
+    display_name: display-name-oliveitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/oliveitem.png
+  orangeitem:
+    display_name: display-name-orangeitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/orangeitem.png
+  papayaitem:
+    display_name: display-name-papayaitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/papayaitem.png
+  passionfruititem:
+    display_name: display-name-passionfruititem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/passionfruititem.png
+  pawpawitem:
+    display_name: display-name-pawpawitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/pawpawitem.png
+  peachitem:
+    display_name: display-name-peachitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/peachitem.png
+  pearitem:
+    display_name: display-name-pearitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/pearitem.png
+  pecanitem:
+    display_name: display-name-pecanitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/pecanitem.png
+  peppercornitem:
+    display_name: display-name-peppercornitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/peppercornitem.png
+  persimmonitem:
+    display_name: display-name-persimmonitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/persimmonitem.png
+  pinenutitem:
+    display_name: display-name-pinenutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/pinenutitem.png
+  pistachioitem:
+    display_name: display-name-pistachioitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/pistachioitem.png
+  plumitem:
+    display_name: display-name-plumitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/plumitem.png
+  pomegranateitem:
+    display_name: display-name-pomegranateitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/pomegranateitem.png
+  rambutanitem:
+    display_name: display-name-rambutanitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/rambutanitem.png
+  roastedacornitem:
+    display_name: display-name-roastedacornitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: true
+      material: DRIED_KELP
+      textures:
+      - item/roastedacornitem.png
+  roastedalmonditem:
+    display_name: display-name-roastedalmonditem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/roastedalmonditem.png
+  roastedcashewitem:
+    display_name: display-name-roastedcashewitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/roastedcashewitem.png
+  roastedchestnutitem:
+    display_name: display-name-roastedchestnutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/roastedchestnutitem.png
+  roastedhazelnutitem:
+    display_name: display-name-roastedhazelnutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/roastedhazelnutitem.png
+  roastedpecanitem:
+    display_name: display-name-roastedpecanitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/roastedpecanitem.png
+  roastedpinenutitem:
+    display_name: display-name-roastedpinenutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/roastedpinenutitem.png
+  roastedpistachioitem:
+    display_name: display-name-roastedpistachioitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/roastedpistachioitem.png
+  roastedwalnutitem:
+    display_name: display-name-roastedwalnutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/roastedwalnutitem.png
+  soursopitem:
+    display_name: display-name-soursopitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/soursopitem.png
+  starfruititem:
+    display_name: display-name-starfruititem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/starfruititem.png
+  tamarinditem:
+    display_name: display-name-tamarinditem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/tamarinditem.png
+  vanillabeanitem:
+    display_name: display-name-vanillabeanitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/vanillabeanitem.png
+  walnutitem:
+    display_name: display-name-walnutitem
+    durability:
+      disappear_when_broken: true
+      usages: 1
+    events:
+      eat:
+        decrement_amount:
+          amount: 1
+        feed:
+          amount: 1
+          saturation: 1
+        play_sound:
+          delay: 0
+          name: minecraft:entity.generic.eat
+    lore:
+    - display-lore-saturation-value-trees
+    - display-lore-food-value-trees
+    - '&f'
+    - display-lore-category-name-trees
+    resource:
+      generate: false
+      material: DRIED_KELP
+      textures:
+      - item/walnutitem.png

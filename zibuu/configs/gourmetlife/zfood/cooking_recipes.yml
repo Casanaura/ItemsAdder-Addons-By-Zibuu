@@ -1,0 +1,397 @@
+info:
+  namespace: zfood
+
+recipes:
+  cooking:
+    cookedgroundbeef:
+      ingredient:
+        item: zfood:groundbeefitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zfood:cookedgroundbeefitem
+
+    cookedgroundchicken:
+      ingredient:
+        item: zfood:groundchickenitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zfood:cookedgroundchickenitem
+
+    cookedgroundfish:
+      ingredient:
+        item: zfood:groundfishitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zfood:cookedgroundfishitem
+
+    cookedgroundmutton:
+      ingredient:
+        item: zfood:groundmuttonitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zfood:cookedgroundmuttonitem
+
+    cookedgroundpork:
+      ingredient:
+        item: zfood:groundporkitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zfood:cookedgroundporkitem
+
+    cookedgroundrabbit:
+      ingredient:
+        item: zfood:groundrabbititem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zfood:cookedgroundrabbititem
+
+    roastedalmond:
+      ingredient:
+        item: ztrees:almonditem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: ztrees:roastedalmonditem
+
+    roastedcashew:
+      ingredient:
+        item: ztrees:cashewitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: ztrees:roastedcashewitem
+
+    roastedchestnut:
+      ingredient:
+        item: ztrees:chestnutitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: ztrees:roastedchestnutitem
+
+    roastedgarlic:
+      ingredient:
+        item: zcrops:garlicitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:roastedgarlicitem
+
+    roastedhazelnut:
+      ingredient:
+        item: ztrees:hazelnutitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: ztrees:roastedhazelnutitem
+
+    roastedkohlrabi:
+      ingredient:
+        item: zcrops:kohlrabiitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:roastedkohlrabiitem
+
+    roastedleek:
+      ingredient:
+        item: zcrops:leekitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:roastedleekitem
+
+    roastedmushroom:
+      ingredient:
+        item: zcrops:whitemushroomitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:roastedmushroomitem
+
+    roastedonion:
+      ingredient:
+        item: zcrops:onionitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:roastedonionitem
+
+    roastedscallion:
+      ingredient:
+        item: zcrops:scallionitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:roastedscallionitem
+
+    roastedrhubarb:
+      ingredient:
+        item: zcrops:rhubarbitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:roastedrhubarbitem
+
+    roastedradish:
+      ingredient:
+        item: zcrops:radishitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:roastedradishitem
+
+    roastedpeanut:
+      ingredient:
+        item: zcrops:peanutitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:roastedpeanutitem
+
+    roastedsunflowerseeds:
+      ingredient:
+        item: zfood:sunflowerseedsitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zfood:roastedsunflowerseedsitem
+    
+    hottea:
+      ingredient:
+        item: zcrops:tealeafitem
+      machines:
+      - FURNACE
+      exp: 10
+      cook_time: 600
+      result:
+        amount: 1
+        item: zcrops:hotteaitem
+
+    hotcoffee:
+      ingredient:
+        item: zcrops:coffeebeanitem
+      machines:
+      - FURNACE
+      exp: 10
+      cook_time: 600
+      result:
+        amount: 1
+        item: zcrops:hotcoffeeitem
+
+    hotnettletea:
+      ingredient:
+        item: zcrops:nettlesitem
+      machines:
+      - FURNACE
+      exp: 10
+      cook_time: 600
+      result:
+        amount: 1
+        item: zcrops:hotnettleteaitem
+
+    bakedarrowroot:
+      ingredient:
+        item: zcrops:arrowrootitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:bakedarrowrootitem
+
+    bakedcassava:
+      ingredient:
+        item: zcrops:cassavaitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:bakedcassavaitem
+
+    bakedjicama:
+      ingredient:
+        item: zcrops:jicamaitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:bakedjicamaitem
+
+    bakedparsnip:
+      ingredient:
+        item: zcrops:parsnipitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:bakedparsnipitem
+
+    bakedrutabaga:
+      ingredient:
+        item: zcrops:rutabagaitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:bakedrutabagaitem
+
+    bakedsunchoke:
+      ingredient:
+        item: zcrops:sunchokeitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:bakedsunchokeitem
+
+    bakedsweetpotato:
+      ingredient:
+        item: zcrops:sweetpotatoitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:bakedsweetpotatoitem
+
+    bakedtaro:
+      ingredient:
+        item: zcrops:taroitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:bakedtaroitem
+
+    bakedturnip:
+      ingredient:
+        item: zcrops:turnipitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:bakedturnipitem
+
+    bakedwaterchestnut:
+      ingredient:
+        item: zcrops:waterchestnutitem
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 30
+      cook_time: 1200
+      result:
+        amount: 1
+        item: zcrops:bakedwaterchestnutitem

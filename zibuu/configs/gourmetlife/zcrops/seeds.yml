@@ -1,0 +1,139 @@
+info:
+  namespace: zcrops
+
+items:
+# Example
+#  seeditem:
+#    display_name: display-name-seed
+#    lore:
+#    - '&f'
+#    - 'display-lore-category-name-crops'
+#    resource:
+#      generate: true
+#      material: WHEAT_SEEDS
+#      textures:
+#      - item/seeditem.png
+#    specific_properties:
+#      seed:
+#        crop_block: POTATOES
+#        results:
+#          result_1:
+#            item: zcrops:item
+#            min_amount: 1
+#            max_amount: 2
+#            chance: 100
+
+  aloeseeditem:
+    display_name: display-name-aloeseed
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: true
+      material: WHEAT_SEEDS
+      textures:
+      - item/aloeseeditem.png
+    specific_properties:
+      seed:
+        crop_block: POTATOES
+        results:
+          result_1:
+            item: zcrops:aloeitem
+            min_amount: 1
+            max_amount: 2
+            chance: 100
+  beanseeditem:
+    display_name: display-name-beanseed
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: true
+      material: WHEAT_SEEDS
+      textures:
+      - item/beanseeditem.png
+    specific_properties:
+      seed:
+        crop_block: POTATOES
+        results:
+          result_1:
+            item: zcrops:beanitem
+            min_amount: 1
+            max_amount: 2
+            chance: 100
+  chiaseeditem:
+    display_name: display-name-chiaseed
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: true
+      material: WHEAT_SEEDS
+      textures:
+      - item/chiaseeditem.png
+    specific_properties:
+      seed:
+        crop_block: POTATOES
+        results:
+          result_1:
+            item: zcrops:chiaitem
+            min_amount: 1
+            max_amount: 2
+            chance: 100
+  cornseeditem:
+    display_name: display-name-cornseed
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: true
+      material: WHEAT_SEEDS
+      textures:
+      - item/cornseeditem.png
+    specific_properties:
+      seed:
+        crop_block: POTATOES
+        results:
+          result_1:
+            item: zcrops:cornitem
+            min_amount: 1
+            max_amount: 2
+            chance: 100
+  flaxeeditem:
+    display_name: display-name-flaxseed
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: true
+      material: WHEAT_SEEDS
+      textures:
+      - item/flaxseeditem.png
+    specific_properties:
+      seed:
+        crop_block: POTATOES
+        results:
+          result_1:
+            item: zcrops:flaxitem
+            min_amount: 1
+            max_amount: 2
+            chance: 100
+  juteseeditem:
+    display_name: display-name-juteseed
+    lore:
+    - '&f'
+    - 'display-lore-category-name-crops'
+    resource:
+      generate: true
+      material: WHEAT_SEEDS
+      textures:
+      - item/juteseeditem.png
+    specific_properties:
+      seed:
+        crop_block: POTATOES
+        results:
+          result_1:
+            item: zcrops:juteitem
+            min_amount: 1
+            max_amount: 2
+            chance: 100

@@ -1,0 +1,122 @@
+#   CREDITS:
+#
+#   Translated by: Terastraz
+#   Twitter: @beyre83
+#   E-mail: beyre83@gmail.com
+#   Website: website.com
+#
+info:
+    namespace: ztrees
+    dictionary-lang: "en"
+dictionary:
+    # Category & Lore
+    display-category-name-trees: 'Fruits And Vegetables'
+    display-lore-saturation-value-trees: '&a+1 &7Saturation'
+    display-lore-food-value-trees: '&a+1 &7Meal'
+    display-lore-category-name-trees: '&8Fruits and Vegetables'
+    # Trees
+    display-name-acornitem: Acorn
+    display-name-almonditem: Almond
+    display-name-apricotitem: Apricot
+    display-name-avocadoitem: Avocado
+    display-name-bananaitem: Banana
+    display-name-breadfruititem: Fruit Bread
+    display-name-candlenutitem: Candlenut
+    display-name-cashewitem: Cashew
+    display-name-cherryitem: Cherry
+    display-name-chestnutitem: Chestnut
+    display-name-cinnamonitem: Cinnamon
+    display-name-coconutitem: Coconut
+    display-name-dateitem: Date
+    display-name-dragonfruititem: Dragon Fruit
+    display-name-durianitem: Durian
+    display-name-figitem: Fig
+    display-name-gooseberryitem: Gooseberry
+    display-name-grapefruititem: Grapefruit
+    display-name-guavaitem: Guava
+    display-name-hazelnutitem: Hazlenut
+    display-name-jackfruititem: Jackfruit
+    display-name-lemonitem: Lemon
+    display-name-limeitem: Lime
+    display-name-lycheeitem: Lychee
+    display-name-mangoitem: Mango
+    display-name-maplesyrupitem: Maple Syrup
+    display-name-nutmegitem: Nutmeg
+    display-name-oliveitem: Olive
+    display-name-orangeitem: Orange
+    display-name-papayaitem: Papaya
+    display-name-passionfruititem: Passion Fruit
+    display-name-pawpawitem: Pawpaw
+    display-name-peachitem: Peach
+    display-name-pearitem: Pear
+    display-name-pecanitem: Pecan
+    display-name-peppercornitem: Peppercorn
+    display-name-persimmonitem: Persimmon
+    display-name-pinenutitem: Pinenut
+    display-name-pistachioitem: Pistachio
+    display-name-plumitem: Plum
+    display-name-pomegranateitem: Pomegranate
+    display-name-rambutanitem: Rambutan
+    display-name-roastedacornitem: Roasted Corn
+    display-name-roastedalmonditem: Roasted Almond
+    display-name-roastedcashewitem: Roasted Cashew
+    display-name-roastedchestnutitem: Roasted Chestnut
+    display-name-roastedhazelnutitem: Roasted Hazlenut
+    display-name-roastedpecanitem: Roasted Pecan
+    display-name-roastedpinenutitem: Roasted Pinenut
+    display-name-roastedpistachioitem: Roasted Pistachio
+    display-name-roastedwalnutitem: Roasted Walnut
+    display-name-soursopitem: Soursop
+    display-name-starfruititem: Star Fruit
+    display-name-tamarinditem: Tamarind
+    display-name-vanillabeanitem: Vanilla Bean
+    display-name-walnutitem: Walnut
+    # Saplings
+    display-name-almondtreesapling: Almond Sapling
+    display-name-apricottreesapling: Apricot Sapling
+    display-name-avocadotreesapling: Avocado Sapling
+    display-name-bananatreesapling: Banana Sapling
+    display-name-breadfruittreesapling: Fruit Bread Sapling
+    display-name-candlenuttreesapling: Candlenut Sapling
+    display-name-cashewtreesapling: Cashew Sapling
+    display-name-cherrytreesapling: Cherry Sapling
+    display-name-chestnuttreesapling: Chestnut Sapling
+    display-name-coconuttreesapling: Coconut Sapling
+    display-name-datetreesapling: Date Sapling
+    display-name-dragonfruittreesapling: Dragon Fruit Sapling
+    display-name-duriantreesapling: Durian Sapling
+    display-name-figtreesapling: Fig Sapling
+    display-name-gooseberrytreesapling: Gooseberry Sapling
+    display-name-grapefruittreesapling: Grapefruit Sapling
+    display-name-guavatreesapling: Guava Sapling
+    display-name-hazelnuttreesapling: Hazelnut Sapling
+    display-name-jackfruittreesapling: Jack Fruit Sapling
+    display-name-lemontreesapling: Lemon Sapling
+    display-name-limetreesapling: Lime Sapling
+    display-name-lycheetreesapling: Lychee Sapling
+    display-name-mangotreesapling: Mango Sapling
+    display-name-nutmegtreesapling: Nutmeg Sapling
+    display-name-olivetreesapling: Olive Sapling
+    display-name-orangetreesapling: Orange Sapling
+    display-name-papayatreesapling: Papaya Sapling
+    display-name-passionfruittreesapling: Passion Fruit Sapling
+    display-name-pawpawtreesapling: Pawpaw Sapling
+    display-name-peachtreesapling: Peach Sapling
+    display-name-peartreesapling: Pear Sapling
+    display-name-pecantreesapling: Pecan Sapling
+    display-name-peppercorntreesapling: Peppercorn Sapling
+    display-name-persimmontreesapling: Persimmon Sapling
+    display-name-pinenuttreesapling: Pinenut Sapling
+    display-name-pistachiotreesapling: Pistachio Sapling
+    display-name-plumtreesapling: Plum Sapling
+    display-name-pomegranatetreesapling: Pomegranate Sapling
+    display-name-rambutantreesapling: Rambutan Sapling
+    display-name-soursoptreesapling: Soursop Sapling
+    display-name-starfruittreesapling: Star Fruit Sapling
+    display-name-tamarindtreesapling: Tamarind Sapling
+    display-name-vanillabeantreesapling: Vanillabean Sapling
+    display-name-walnuttreesapling: Walnut Sapling
+    # Logs & Leaves
+    display-name-zleaves: Leaves
+    display-name-zlog: Log
+    # End of Trees
