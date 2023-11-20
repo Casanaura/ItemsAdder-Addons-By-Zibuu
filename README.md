@@ -11,6 +11,7 @@
 </div>
 
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -25,18 +26,11 @@ If you're a mod developer who wants to get their mods ported into plug-.in confi
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- GETTING STARTED -->
-## Getting Started
 
-This project is made to bring the functionality 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-### Installation
+### Guides
 <ul>
-  <li><a href="https://studio.zibuu.net/wiki/harvestcraft-port/">Harvestcraft Add-On Installation</a></li>
-  <li><a href="https://studio.zibuu.net/wiki/aquaculture/">Aquaculture Add-On Installation</a></li>
+  <li><a href="https://studio.zibuu.net/wiki/gourmet-life/">Gourmet Life Add-On</a></li>
+  <li><a href="https://studio.zibuu.net/wiki/aquaculture/">Aquaculture Add-On</a></li>
 </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -57,6 +51,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- CONTACT -->
