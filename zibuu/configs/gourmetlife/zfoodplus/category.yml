@@ -3,7 +3,7 @@ info:
 
 categories:
   zfoodplus:
-    name: display-category-name-foodeplus
+    name: display-category-name-foodplus
     enabled: true
     icon: zfoodplus:takoyakiitem
     items:

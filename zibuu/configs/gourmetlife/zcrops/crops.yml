@@ -23,7 +23,7 @@ items:
     - '&f1'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/agaveitem.png
@@ -48,7 +48,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/alfalfaitem.png
@@ -73,7 +73,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/aloeitem.png
@@ -98,7 +98,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/amaranthitem.png
@@ -123,7 +123,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/arrowrootitem.png
@@ -173,7 +173,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/asparagusitem.png
@@ -198,7 +198,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bakedarrowrootitem.png
@@ -223,7 +223,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bakedcassavaitem.png
@@ -248,7 +248,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bakedjicamaitem.png
@@ -273,7 +273,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bakedparsnipitem.png
@@ -298,7 +298,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bakedrutabagaitem.png
@@ -348,7 +348,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bakedsweetpotatoitem.png
@@ -373,7 +373,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bakedtaroitem.png
@@ -398,7 +398,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bakedturnipitem.png
@@ -423,7 +423,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bakedwaterchestnutitem.png
@@ -448,7 +448,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/barleyitem.png
@@ -473,7 +473,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/barrelcactusitem.png
@@ -498,7 +498,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/beanitem.png
@@ -523,7 +523,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bellpepperitem.png
@@ -548,7 +548,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blackberryitem.png
@@ -573,7 +573,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blueberryitem.png
@@ -598,7 +598,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bokchoyitem.png
@@ -623,7 +623,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/broccoliitem.png
@@ -648,7 +648,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/brusselsproutitem.png
@@ -673,7 +673,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cabbageitem.png
@@ -698,7 +698,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cactusfruititem.png
@@ -723,7 +723,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/calabashitem.png
@@ -748,7 +748,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candleberryitem.png
@@ -773,7 +773,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/canolaitem.png
@@ -798,7 +798,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cantaloupeitem.png
@@ -823,7 +823,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cassavaitem.png
@@ -848,7 +848,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cattailitem.png
@@ -873,7 +873,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/caulifloweritem.png
@@ -898,7 +898,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/celeryitem.png
@@ -923,7 +923,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chiaitem.png
@@ -948,7 +948,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickpeaitem.png
@@ -973,7 +973,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chilipepperitem.png
@@ -998,7 +998,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cloudberryitem.png
@@ -1023,7 +1023,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/coffeebeanitem.png
@@ -1048,7 +1048,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cornitem.png
@@ -1073,7 +1073,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cottonitem.png
@@ -1098,7 +1098,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cranberryitem.png
@@ -1123,7 +1123,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cucumberitem.png
@@ -1148,7 +1148,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/eggplantitem.png
@@ -1173,7 +1173,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/elderberryitem.png
@@ -1198,7 +1198,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/flaxitem.png
@@ -1223,7 +1223,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/garlicitem.png
@@ -1248,7 +1248,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gingeritem.png
@@ -1273,7 +1273,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapeitem.png
@@ -1298,7 +1298,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/greengrapeitem.png
@@ -1323,7 +1323,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/guaranaitem.png
@@ -1350,7 +1350,7 @@ items:
     - '&f'
     - '&8Aperitivos y Comidas'
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hotcoffeeitem.png
@@ -1377,7 +1377,7 @@ items:
     - '&f'
     - '&8Aperitivos y Comidas'
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hotnettleteaitem.png
@@ -1404,7 +1404,7 @@ items:
     - '&f'
     - '&8Aperitivos y Comidas'
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hotteaitem.png
@@ -1429,7 +1429,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/huckleberryitem.png
@@ -1454,7 +1454,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/jicamaitem.png
@@ -1479,7 +1479,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/juniperberryitem.png
@@ -1504,7 +1504,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/juteitem.png
@@ -1529,7 +1529,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kaleitem.png
@@ -1554,7 +1554,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kenafitem.png
@@ -1579,7 +1579,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kiwiitem.png
@@ -1604,7 +1604,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kohlrabiitem.png
@@ -1629,7 +1629,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/leekitem.png
@@ -1654,7 +1654,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lentilitem.png
@@ -1679,7 +1679,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lettuceitem.png
@@ -1704,7 +1704,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lotusitem.png
@@ -1729,7 +1729,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/milletitem.png
@@ -1754,7 +1754,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mulberryitem.png
@@ -1779,7 +1779,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mustardseedsitem.png
@@ -1804,7 +1804,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/nettlesitem.png
@@ -1829,7 +1829,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/nopalesitem.png
@@ -1854,7 +1854,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/oatsitem.png
@@ -1879,7 +1879,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/okraitem.png
@@ -1904,7 +1904,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/onionitem.png
@@ -1929,7 +1929,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/papyrusitem.png
@@ -1954,7 +1954,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/parsnipitem.png
@@ -1979,7 +1979,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peanutitem.png
@@ -2004,7 +2004,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peasitem.png
@@ -2029,7 +2029,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pineappleitem.png
@@ -2054,7 +2054,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/quinoaitem.png
@@ -2079,7 +2079,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/radishitem.png
@@ -2104,7 +2104,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/raspberryitem.png
@@ -2129,7 +2129,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rhubarbitem.png
@@ -2154,7 +2154,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/riceitem.png
@@ -2177,7 +2177,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/roastedgarlicitem.png
@@ -2200,7 +2200,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/roastedkohlrabiitem.png
@@ -2223,7 +2223,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/roastedleekitem.png
@@ -2246,7 +2246,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/roastedmushroomitem.png
@@ -2269,7 +2269,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/roastedonionitem.png
@@ -2292,7 +2292,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/roastedpeanutitem.png
@@ -2315,7 +2315,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/roastedradishitem.png
@@ -2338,7 +2338,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/roastedrhubarbitem.png
@@ -2361,7 +2361,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/roastedscallionitem.png
@@ -2386,7 +2386,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rutabagaitem.png
@@ -2411,7 +2411,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/ryeitem.png
@@ -2436,7 +2436,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/scallionitem.png
@@ -2461,7 +2461,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sesameseedsitem.png
@@ -2486,7 +2486,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sisalitem.png
@@ -2511,7 +2511,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sorghumitem.png
@@ -2536,7 +2536,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/soybeanitem.png
@@ -2561,7 +2561,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/spiceleafitem.png
@@ -2586,7 +2586,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/spinachitem.png
@@ -2611,7 +2611,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/strawberryitem.png
@@ -2661,7 +2661,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sweetpotatoitem.png
@@ -2686,7 +2686,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/taroitem.png
@@ -2711,7 +2711,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tealeafitem.png
@@ -2736,7 +2736,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tomatilloitem.png
@@ -2761,7 +2761,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tomatoitem.png
@@ -2786,7 +2786,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/truffleitem.png
@@ -2811,7 +2811,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/turnipitem.png
@@ -2836,7 +2836,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/waterchestnutitem.png
@@ -2861,7 +2861,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/whitemushroomitem.png
@@ -2886,7 +2886,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/wintersquashitem.png
@@ -2911,7 +2911,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/wolfberryitem.png
@@ -2936,7 +2936,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/yuccaitem.png
@@ -2961,7 +2961,7 @@ items:
     - '&f'
     - display-lore-category-name-crops
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/zucchiniitem.png

@@ -21,7 +21,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/aebleskiversitem.png
@@ -44,7 +44,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/almondbutteritem.png
@@ -67,7 +67,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/anchovypepperonipizzaitem.png
@@ -94,7 +94,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/applecideritem.png
@@ -117,7 +117,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/applefritteritem.png
@@ -140,7 +140,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/applejellysandwichitem.png
@@ -163,7 +163,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/applesnowitem.png
@@ -186,7 +186,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/apricotglazedporkitem.png
@@ -209,7 +209,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/apricotjellyitem.png
@@ -232,7 +232,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/apricotjellysandwichitem.png
@@ -255,7 +255,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/apricotjellytoastitem.png
@@ -278,7 +278,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/apricotjuiceitem.png
@@ -301,7 +301,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/apricotpieitem.png
@@ -324,7 +324,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/apricotsmoothieitem.png
@@ -347,7 +347,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/apricotyogurtitem.png
@@ -370,7 +370,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/asparagusquicheitem.png
@@ -393,7 +393,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/avocadoburritoitem.png
@@ -416,7 +416,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/avocadotoastitem.png
@@ -439,7 +439,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/babaganoushitem.png
@@ -462,7 +462,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/baconmushroomburgeritem.png
@@ -485,7 +485,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/baconpancakesitem.png
@@ -508,7 +508,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/baconwrappedchiliitem.png
@@ -531,7 +531,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/baconwrappeddatesitem.png
@@ -554,7 +554,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bakedalaskaitem.png
@@ -577,7 +577,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bakedbeansitem.png
@@ -600,7 +600,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bakedcactusitem.png
@@ -623,7 +623,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bakedhamitem.png
@@ -646,7 +646,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/baklavaitem.png
@@ -669,7 +669,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bamboosteamedriceitem.png
@@ -692,7 +692,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bananajellyitem.png
@@ -715,7 +715,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bananajellysandwichitem.png
@@ -738,7 +738,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bananajellytoastitem.png
@@ -761,7 +761,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bananajuiceitem.png
@@ -784,7 +784,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/banananutbreaditem.png
@@ -807,7 +807,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bananapieitem.png
@@ -830,7 +830,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bananasmoothieitem.png
@@ -853,7 +853,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bananasplititem.png
@@ -876,7 +876,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bananayogurtitem.png
@@ -899,7 +899,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bangersandmashitem.png
@@ -922,7 +922,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/battenbergitem.png
@@ -945,7 +945,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/batteredsausageitem.png
@@ -968,7 +968,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bbqchickenbiscuititem.png
@@ -991,7 +991,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bbqchickenpizzaitem.png
@@ -1014,7 +1014,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bbqjackfruititem.png
@@ -1037,7 +1037,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bbqpotatochipsitem.png
@@ -1060,7 +1060,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bbqsauceitem.png
@@ -1083,7 +1083,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/beanburritoitem.png
@@ -1106,7 +1106,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/beancornmealitem.png
@@ -1129,7 +1129,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/beansontoastitem.png
@@ -1152,7 +1152,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/beefwellingtonitem.png
@@ -1175,7 +1175,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/beetburgeritem.png
@@ -1198,7 +1198,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bentoboxitem.png
@@ -1221,7 +1221,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/berrymeringuenestitem.png
@@ -1244,7 +1244,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/berryvinaigrettesaladitem.png
@@ -1267,7 +1267,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bibimbapitem.png
@@ -1290,7 +1290,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/biscuititem.png
@@ -1313,7 +1313,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/biscuitsandgravyitem.png
@@ -1336,7 +1336,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blackberrycobbleritem.png
@@ -1359,7 +1359,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blackberryjellyitem.png
@@ -1382,7 +1382,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blackberryjellysandwichitem.png
@@ -1405,7 +1405,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blackberryjellytoastitem.png
@@ -1428,7 +1428,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blackberryjuiceitem.png
@@ -1451,7 +1451,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blackberrypieitem.png
@@ -1474,7 +1474,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blackberrysmoothieitem.png
@@ -1497,7 +1497,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blackberryyogurtitem.png
@@ -1520,7 +1520,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blackpepperitem.png
@@ -1543,7 +1543,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bltitem.png
@@ -1566,7 +1566,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blueberryjellyitem.png
@@ -1589,7 +1589,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blueberryjellysandwichitem.png
@@ -1612,7 +1612,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blueberryjellytoastitem.png
@@ -1635,7 +1635,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blueberryjuiceitem.png
@@ -1658,7 +1658,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blueberrypieitem.png
@@ -1681,7 +1681,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blueberrysmoothieitem.png
@@ -1704,7 +1704,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/blueberryyogurtitem.png
@@ -1727,7 +1727,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bolognaitem.png
@@ -1750,7 +1750,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bolognasandwichitem.png
@@ -1773,7 +1773,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/braisedonionsitem.png
@@ -1796,7 +1796,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bratwurstitem.png
@@ -1819,7 +1819,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/breadedporkchopitem.png
@@ -1842,7 +1842,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/breadfruitjellyitem.png
@@ -1865,7 +1865,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/breadfruitjellysandwichitem.png
@@ -1888,7 +1888,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/breadfruitjellytoastitem.png
@@ -1911,7 +1911,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/breadfruitjuiceitem.png
@@ -1934,7 +1934,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/breadfruitpieitem.png
@@ -1957,7 +1957,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/breadfruitsmoothieitem.png
@@ -1980,7 +1980,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/breadfruityogurtitem.png
@@ -2003,7 +2003,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/breakfastburritoitem.png
@@ -2026,7 +2026,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/briochebunitem.png
@@ -2049,7 +2049,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/broccolimacitem.png
@@ -2072,7 +2072,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/broccolindipitem.png
@@ -2095,7 +2095,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/brownieitem.png
@@ -2118,7 +2118,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/bulgogiitem.png
@@ -2141,7 +2141,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/buttertartitem.png
@@ -2164,7 +2164,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cactusfruitjellyitem.png
@@ -2187,7 +2187,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cactusfruitjellysandwichitem.png
@@ -2210,7 +2210,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cactusfruitjellytoastitem.png
@@ -2233,7 +2233,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cactusfruitjuiceitem.png
@@ -2256,7 +2256,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cactusfruitpieitem.png
@@ -2279,7 +2279,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cactusfruitsmoothieitem.png
@@ -2302,7 +2302,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cactusfruityogurtitem.png
@@ -2325,7 +2325,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cactussoupitem.png
@@ -2348,7 +2348,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/californiarollitem.png
@@ -2371,7 +2371,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candiedgingeritem.png
@@ -2394,7 +2394,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candiedlemonitem.png
@@ -2417,7 +2417,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candiedpecansitem.png
@@ -2440,7 +2440,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candiedsweetpotatoesitem.png
@@ -2463,7 +2463,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candiedwalnutsitem.png
@@ -2486,7 +2486,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candleberryjellyitem.png
@@ -2509,7 +2509,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candleberryjellysandwichitem.png
@@ -2532,7 +2532,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candleberryjellytoastitem.png
@@ -2555,7 +2555,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candleberryjuiceitem.png
@@ -2578,7 +2578,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candleberrypieitem.png
@@ -2601,7 +2601,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candleberrysmoothieitem.png
@@ -2624,7 +2624,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candleberryyogurtitem.png
@@ -2647,7 +2647,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/candycornitem.png
@@ -2670,7 +2670,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cantaloupejellyitem.png
@@ -2693,7 +2693,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cantaloupejellysandwichitem.png
@@ -2716,7 +2716,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cantaloupejellytoastitem.png
@@ -2739,7 +2739,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cantaloupejuiceitem.png
@@ -2762,7 +2762,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cantaloupepieitem.png
@@ -2785,7 +2785,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cantaloupesmoothieitem.png
@@ -2808,7 +2808,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cantaloupeyogurtitem.png
@@ -2831,7 +2831,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cantonesegreensitem.png
@@ -2854,7 +2854,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cantonesenoodlesitem.png
@@ -2877,7 +2877,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/capresesaladitem.png
@@ -2900,7 +2900,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/carrotjuiceitem.png
@@ -2923,7 +2923,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cashewbutteritem.png
@@ -2946,7 +2946,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cashewchickenitem.png
@@ -2969,7 +2969,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/ceasarsaladitem.png
@@ -2992,7 +2992,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/celeryandpeanutbutteritem.png
@@ -3015,7 +3015,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cevicheitem.png
@@ -3038,7 +3038,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chaiteaitem.png
@@ -3061,7 +3061,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/charsiuitem.png
@@ -3084,7 +3084,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cheddarandsourcreampotatochipsitem.png
@@ -3107,7 +3107,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cheesedanishitem.png
@@ -3130,7 +3130,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cheeseontoastitem.png
@@ -3153,7 +3153,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cheesesteakitem.png
@@ -3176,7 +3176,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cheesytacotortillachipsitem.png
@@ -3199,7 +3199,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cheezepuffsitem.png
@@ -3222,7 +3222,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cherrycoconutchocolatebaritem.png
@@ -3245,7 +3245,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cherryicecreamitem.png
@@ -3268,7 +3268,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cherryjellyitem.png
@@ -3291,7 +3291,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cherryjellysandwichitem.png
@@ -3314,7 +3314,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cherryjellytoastitem.png
@@ -3337,7 +3337,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cherryjuiceitem.png
@@ -3360,7 +3360,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cherrypieitem.png
@@ -3383,7 +3383,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cherrysmoothieitem.png
@@ -3406,7 +3406,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cherrysodaitem.png
@@ -3429,7 +3429,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cherryyogurtitem.png
@@ -3452,7 +3452,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickenalfredoitem.png
@@ -3475,7 +3475,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickenandwafflesitem.png
@@ -3498,7 +3498,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickenbiscuititem.png
@@ -3521,7 +3521,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickencelerycasseroleitem.png
@@ -3544,7 +3544,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickenchowmeinitem.png
@@ -3567,7 +3567,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickencordonbleuitem.png
@@ -3590,7 +3590,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickencurryitem.png
@@ -3613,7 +3613,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickendinneritem.png
@@ -3636,7 +3636,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickengumboitem.png
@@ -3659,7 +3659,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickenkatsuitem.png
@@ -3682,7 +3682,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickennoodlesoupitem.png
@@ -3705,7 +3705,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickenparmasanitem.png
@@ -3728,7 +3728,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickentendersitem.png
@@ -3751,7 +3751,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chickentendersmealitem.png
@@ -3774,7 +3774,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chikorollitem.png
@@ -3797,7 +3797,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chilichocolateitem.png
@@ -3820,7 +3820,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chilidogitem.png
@@ -3843,7 +3843,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chiliitem.png
@@ -3866,7 +3866,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chilipoppersitem.png
@@ -3889,7 +3889,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chimichangaitem.png
@@ -3912,7 +3912,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chipsanddipitem.png
@@ -3935,7 +3935,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chipsandsalsaitem.png
@@ -3958,7 +3958,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chocolatecherryitem.png
@@ -3981,7 +3981,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chocolatechippancakesitem.png
@@ -4004,7 +4004,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chocolatecoconutbaritem.png
@@ -4027,7 +4027,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chocolatemilkitem.png
@@ -4050,7 +4050,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chocolatemilkshakeitem.png
@@ -4073,7 +4073,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chocolateorangebiscuititem.png
@@ -4096,7 +4096,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chocolateorangeitem.png
@@ -4119,7 +4119,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chocolatepeanutbaritem.png
@@ -4142,7 +4142,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chocolatesprinklecakeitem.png
@@ -4165,7 +4165,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chocolatestrawberryitem.png
@@ -4188,7 +4188,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chocovoxelsitem.png
@@ -4211,7 +4211,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/chorizoitem.png
@@ -4234,7 +4234,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cinnamonappleoatmealitem.png
@@ -4257,7 +4257,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cinnamonbreaditem.png
@@ -4280,7 +4280,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cinnamonrollitem.png
@@ -4303,7 +4303,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cinnamonsugardonutitem.png
@@ -4326,7 +4326,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cinnamontoastitem.png
@@ -4349,7 +4349,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/citrussaladitem.png
@@ -4372,7 +4372,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/coffeeconlecheitem.png
@@ -4395,7 +4395,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/colasodaitem.png
@@ -4418,7 +4418,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/coleslawburgeritem.png
@@ -4441,7 +4441,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/coleslawitem.png
@@ -4464,7 +4464,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cookedtofabbititem.png
@@ -4487,7 +4487,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cookedtofaconitem.png
@@ -4510,7 +4510,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cookedtofeakitem.png
@@ -4533,7 +4533,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cookedtofickenitem.png
@@ -4556,7 +4556,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cookedtofishitem.png
@@ -4579,7 +4579,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cookedtofuttonitem.png
@@ -4602,7 +4602,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cookoutmealitem.png
@@ -4625,7 +4625,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cornbreaditem.png
@@ -4648,7 +4648,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cornchipsitem.png
@@ -4671,7 +4671,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/corndogitem.png
@@ -4694,7 +4694,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cornedbeefandcabbageitem.png
@@ -4717,7 +4717,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cornedbeefbreakfastitem.png
@@ -4740,7 +4740,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cornedbeefhashitem.png
@@ -4763,7 +4763,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cornedbeefitem.png
@@ -4786,7 +4786,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cornflakesitem.png
@@ -4809,7 +4809,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cornishpastyitem.png
@@ -4832,7 +4832,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cornmealitem.png
@@ -4855,7 +4855,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cornonthecobitem.png
@@ -4878,7 +4878,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cottagepieitem.png
@@ -4901,7 +4901,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/couscousitem.png
@@ -4924,7 +4924,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/crackersandcheeseitem.png
@@ -4947,7 +4947,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cracklinsitem.png
@@ -4970,7 +4970,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cranberryjellyitem.png
@@ -4993,7 +4993,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cranberryjellysandwichitem.png
@@ -5016,7 +5016,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cranberryjellytoastitem.png
@@ -5039,7 +5039,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cranberryjuiceitem.png
@@ -5062,7 +5062,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cranberrypieitem.png
@@ -5085,7 +5085,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cranberrysauceitem.png
@@ -5108,7 +5108,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cranberrysmoothieitem.png
@@ -5131,7 +5131,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cranberryyogurtitem.png
@@ -5154,7 +5154,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/creamedbroccolisoupitem.png
@@ -5177,7 +5177,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/creamedcornitem.png
@@ -5200,7 +5200,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/creamofavocadosoupitem.png
@@ -5223,7 +5223,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/creamofchickenitem.png
@@ -5246,7 +5246,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/creamofmushroomitem.png
@@ -5269,7 +5269,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/crispyricepuffcerealitem.png
@@ -5292,7 +5292,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/croissantitem.png
@@ -5315,7 +5315,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/cucumbersandwichitem.png
@@ -5338,7 +5338,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/curryitem.png
@@ -5361,7 +5361,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/currypowderitem.png
@@ -5384,7 +5384,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/custarditem.png
@@ -5407,7 +5407,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/damperitem.png
@@ -5430,7 +5430,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/dandelionteaitem.png
@@ -5453,7 +5453,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/dangoitem.png
@@ -5476,7 +5476,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/datejellyitem.png
@@ -5499,7 +5499,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/datejellysandwichitem.png
@@ -5522,7 +5522,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/datejellytoastitem.png
@@ -5545,7 +5545,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/datejuiceitem.png
@@ -5568,7 +5568,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/datepieitem.png
@@ -5591,7 +5591,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/datesmoothieitem.png
@@ -5614,7 +5614,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/dateyogurtitem.png
@@ -5637,7 +5637,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/delightedmealitem.png
@@ -5660,7 +5660,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/deluxecheeseburgeritem.png
@@ -5683,7 +5683,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/deluxechickencurryitem.png
@@ -5706,7 +5706,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/deluxenachoesitem.png
@@ -5729,7 +5729,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/dhalitem.png
@@ -5752,7 +5752,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/dimsumitem.png
@@ -5775,7 +5775,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/dragonfruitjellyitem.png
@@ -5798,7 +5798,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/dragonfruitjellysandwichitem.png
@@ -5821,7 +5821,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/dragonfruitjellytoastitem.png
@@ -5844,7 +5844,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/dragonfruitjuiceitem.png
@@ -5867,7 +5867,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/dragonfruitpieitem.png
@@ -5890,7 +5890,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/dragonfruitsmoothieitem.png
@@ -5913,7 +5913,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/dragonfruityogurtitem.png
@@ -5936,7 +5936,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/driedsoupitem.png
@@ -5959,7 +5959,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/durianjellyitem.png
@@ -5982,7 +5982,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/durianjellysandwichitem.png
@@ -6005,7 +6005,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/durianjellytoastitem.png
@@ -6028,7 +6028,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/durianjuiceitem.png
@@ -6051,7 +6051,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/durianpieitem.png
@@ -6074,7 +6074,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/duriansmoothieitem.png
@@ -6097,7 +6097,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/durianyogurtitem.png
@@ -6120,7 +6120,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/earlgreyteaitem.png
@@ -6143,7 +6143,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/ediblerootitem.png
@@ -6166,7 +6166,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/eggnogitem.png
@@ -6189,7 +6189,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/eggplantparmitem.png
@@ -6212,7 +6212,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/eggrollitem.png
@@ -6235,7 +6235,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/eggsaladitem.png
@@ -6258,7 +6258,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/eggsbenedictitem.png
@@ -6281,7 +6281,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/eggtartitem.png
@@ -6304,7 +6304,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/elderberryjellyitem.png
@@ -6327,7 +6327,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/elderberryjellysandwichitem.png
@@ -6350,7 +6350,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/elderberryjellytoastitem.png
@@ -6373,7 +6373,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/elderberryjuiceitem.png
@@ -6396,7 +6396,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/elderberrypieitem.png
@@ -6419,7 +6419,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/elderberrysmoothieitem.png
@@ -6442,7 +6442,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/elderberryyogurtitem.png
@@ -6465,7 +6465,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/enchiladaitem.png
@@ -6488,7 +6488,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/energydrinkitem.png
@@ -6511,7 +6511,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/epicbltitem.png
@@ -6534,7 +6534,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/espressoitem.png
@@ -6557,7 +6557,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/etonmessitem.png
@@ -6580,7 +6580,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/fairybreaditem.png
@@ -6603,7 +6603,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/fajitaburritoitem.png
@@ -6626,7 +6626,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/festivalbreaditem.png
@@ -6649,7 +6649,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/fiestacornsaladitem.png
@@ -6672,7 +6672,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/figbaritem.png
@@ -6695,7 +6695,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/figjellyitem.png
@@ -6718,7 +6718,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/figjellysandwichitem.png
@@ -6741,7 +6741,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/figjellytoastitem.png
@@ -6764,7 +6764,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/figjuiceitem.png
@@ -6787,7 +6787,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/figpieitem.png
@@ -6810,7 +6810,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/figsmoothieitem.png
@@ -6833,7 +6833,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/figyogurtitem.png
@@ -6856,7 +6856,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/firmtofuitem.png
@@ -6879,7 +6879,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/fishcakesitem.png
@@ -6902,7 +6902,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/fishdinneritem.png
@@ -6925,7 +6925,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/fishfingersandcustarditem.png
@@ -6948,7 +6948,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/fishlettucewrapitem.png
@@ -6994,7 +6994,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/fishtacoitem.png
@@ -7017,7 +7017,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/fivespiceitem.png
@@ -7040,7 +7040,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/footlongitem.png
@@ -7063,7 +7063,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/fortunecookieitem.png
@@ -7086,7 +7086,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/frenchtoastitem.png
@@ -7109,7 +7109,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/friedbolognasandwichitem.png
@@ -7132,7 +7132,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/friedfeastitem.png
@@ -7155,7 +7155,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/friedgreentomatoesitem.png
@@ -7178,7 +7178,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/friedonionsitem.png
@@ -7201,7 +7201,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/friedpecanokraitem.png
@@ -7224,7 +7224,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/friedriceitem.png
@@ -7247,7 +7247,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/frosteddonutitem.png
@@ -7270,7 +7270,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/fruitcakeitem.png
@@ -7293,7 +7293,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/fruitcreamfestivalbreaditem.png
@@ -7316,7 +7316,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/futomakiitem.png
@@ -7339,7 +7339,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/garammasalaitem.png
@@ -7362,7 +7362,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gardensoupitem.png
@@ -7385,7 +7385,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/garlicbreaditem.png
@@ -7408,7 +7408,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/garlicchickenitem.png
@@ -7431,7 +7431,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/garlicmashedpotatoesitem.png
@@ -7454,7 +7454,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/garlicsteakitem.png
@@ -7477,7 +7477,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/generaltsochickenitem.png
@@ -7500,7 +7500,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gherkinitem.png
@@ -7523,7 +7523,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gingerchickenitem.png
@@ -7546,7 +7546,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gingeredrhubarbtartitem.png
@@ -7569,7 +7569,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gingersnapsitem.png
@@ -7592,7 +7592,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gingersodaitem.png
@@ -7615,7 +7615,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gooseberryjellyitem.png
@@ -7638,7 +7638,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gooseberryjellysandwichitem.png
@@ -7661,7 +7661,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gooseberryjellytoastitem.png
@@ -7684,7 +7684,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gooseberryjuiceitem.png
@@ -7707,7 +7707,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gooseberrypieitem.png
@@ -7730,7 +7730,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gooseberrysmoothieitem.png
@@ -7753,7 +7753,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gooseberryyogurtitem.png
@@ -7776,7 +7776,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gourmetbeefburgeritem.png
@@ -7799,7 +7799,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gourmetbeefpattyitem.png
@@ -7845,7 +7845,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gourmetmuttonburgeritem.png
@@ -7868,7 +7868,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gourmetmuttonpattyitem.png
@@ -7914,7 +7914,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gourmetporkburgeritem.png
@@ -7937,7 +7937,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gourmetporkpattyitem.png
@@ -7960,7 +7960,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grandmasmacaronicasseroleitem.png
@@ -7983,7 +7983,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapefruitjellyitem.png
@@ -8006,7 +8006,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapefruitjellysandwichitem.png
@@ -8029,7 +8029,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapefruitjellytoastitem.png
@@ -8052,7 +8052,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapefruitjuiceitem.png
@@ -8075,7 +8075,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapefruitpieitem.png
@@ -8098,7 +8098,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapefruitsmoothieitem.png
@@ -8121,7 +8121,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapefruitsodaitem.png
@@ -8144,7 +8144,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapefruityogurtitem.png
@@ -8167,7 +8167,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapejellyitem.png
@@ -8190,7 +8190,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapejellysandwichitem.png
@@ -8213,7 +8213,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapejellytoastitem.png
@@ -8236,7 +8236,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapejuiceitem.png
@@ -8259,7 +8259,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapepieitem.png
@@ -8282,7 +8282,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapesmoothieitem.png
@@ -8305,7 +8305,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapesodaitem.png
@@ -8328,7 +8328,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grapeyogurtitem.png
@@ -8351,7 +8351,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gravyitem.png
@@ -8374,7 +8374,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/greenbeancasseroleitem.png
@@ -8397,7 +8397,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/greeneggsandhamitem.png
@@ -8420,7 +8420,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/greengrapejellyitem.png
@@ -8443,7 +8443,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/greengrapejellysandwichitem.png
@@ -8466,7 +8466,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/greengrapejellytoastitem.png
@@ -8489,7 +8489,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/greengrapejuiceitem.png
@@ -8512,7 +8512,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/greengrapepieitem.png
@@ -8535,7 +8535,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/greengrapesmoothieitem.png
@@ -8558,7 +8558,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/greengrapeyogurtitem.png
@@ -8581,7 +8581,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/greenteaitem.png
@@ -8604,7 +8604,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grilledcheesevegemitetoastitem.png
@@ -8627,7 +8627,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/grilledskewersitem.png
@@ -8650,7 +8650,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gritsitem.png
@@ -8673,7 +8673,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/groiledcheesesandwichitem.png
@@ -8696,7 +8696,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/groundcinnamonitem.png
@@ -8719,7 +8719,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/groundnutmegitem.png
@@ -8742,7 +8742,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/guacamoleitem.png
@@ -8765,7 +8765,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/guavajellyitem.png
@@ -8788,7 +8788,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/guavajellysandwichitem.png
@@ -8811,7 +8811,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/guavajellytoastitem.png
@@ -8834,7 +8834,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/guavajuiceitem.png
@@ -8857,7 +8857,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/guavapieitem.png
@@ -8880,7 +8880,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/guavasmoothieitem.png
@@ -8903,7 +8903,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/guavayogurtitem.png
@@ -8926,7 +8926,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/guisoitem.png
@@ -8972,7 +8972,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/gyudonitem.png
@@ -8995,7 +8995,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/haggisitem.png
@@ -9018,7 +9018,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hamandcheesesandwichitem.png
@@ -9041,7 +9041,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hamandpineapplepizzaitem.png
@@ -9064,7 +9064,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hamsweetpicklesandwichitem.png
@@ -9087,7 +9087,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hashitem.png
@@ -9110,7 +9110,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hazelnutbutteritem.png
@@ -9133,7 +9133,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hazelnutchocolateitem.png
@@ -9156,7 +9156,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hazelnutcoffeeitem.png
@@ -9179,7 +9179,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/heartybreakfastitem.png
@@ -9202,7 +9202,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/herbbutterparsnipsitem.png
@@ -9225,7 +9225,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/herbcheeseballitem.png
@@ -9248,7 +9248,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hoisinsauceitem.png
@@ -9271,7 +9271,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/holidaycakeitem.png
@@ -9294,7 +9294,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/homestylelunchitem.png
@@ -9317,7 +9317,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/honeybunitem.png
@@ -9340,7 +9340,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/honeycombchocolatebaritem.png
@@ -9363,7 +9363,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/honeyglazedcarrotsitem.png
@@ -9386,7 +9386,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/honeyglazedhamitem.png
@@ -9409,7 +9409,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/honeylemonlambitem.png
@@ -9432,7 +9432,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/honeysandwichitem.png
@@ -9455,7 +9455,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/honeysoyribsitem.png
@@ -9478,7 +9478,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hotandsoursoupitem.png
@@ -9501,7 +9501,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hotdishcasseroleitem.png
@@ -9524,7 +9524,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hotsauceitem.png
@@ -9547,7 +9547,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hotwingsitem.png
@@ -9570,7 +9570,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/huckleberryjellyitem.png
@@ -9593,7 +9593,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/huckleberryjellysandwichitem.png
@@ -9616,7 +9616,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/huckleberryjellytoastitem.png
@@ -9639,7 +9639,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/huckleberryjuiceitem.png
@@ -9662,7 +9662,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/huckleberrypieitem.png
@@ -9685,7 +9685,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/huckleberrysmoothieitem.png
@@ -9708,7 +9708,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/huckleberryyogurtitem.png
@@ -9731,7 +9731,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hummusitem.png
@@ -9754,7 +9754,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/hushpuppiesitem.png
@@ -9777,7 +9777,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/imagawayakiitem.png
@@ -9800,7 +9800,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/imitationcrabsticksitem.png
@@ -9823,7 +9823,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/jackfruitjellyitem.png
@@ -9846,7 +9846,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/jackfruitjellysandwichitem.png
@@ -9869,7 +9869,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/jackfruitjellytoastitem.png
@@ -9892,7 +9892,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/jackfruitjuiceitem.png
@@ -9915,7 +9915,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/jackfruitpieitem.png
@@ -9938,7 +9938,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/jackfruitsmoothieitem.png
@@ -9961,7 +9961,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/jackfruityogurtitem.png
@@ -9984,7 +9984,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/jalapenoburgeritem.png
@@ -10007,7 +10007,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/jambalayaitem.png
@@ -10030,7 +10030,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/jellyrollitem.png
@@ -10053,7 +10053,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/juniperberryjellyitem.png
@@ -10076,7 +10076,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/juniperberryjellysandwichitem.png
@@ -10099,7 +10099,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/juniperberryjellytoastitem.png
@@ -10122,7 +10122,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/juniperberryjuiceitem.png
@@ -10145,7 +10145,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/juniperberrypieitem.png
@@ -10168,7 +10168,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/juniperberrysmoothieitem.png
@@ -10191,7 +10191,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/juniperberryyogurtitem.png
@@ -10237,7 +10237,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kalechipsitem.png
@@ -10260,7 +10260,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/ketchupitem.png
@@ -10283,7 +10283,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/keylimepieitem.png
@@ -10306,7 +10306,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kimchiitem.png
@@ -10329,7 +10329,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kiwijellyitem.png
@@ -10352,7 +10352,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kiwijellysandwichitem.png
@@ -10375,7 +10375,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kiwijellytoastitem.png
@@ -10398,7 +10398,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kiwijuiceitem.png
@@ -10421,7 +10421,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kiwipieitem.png
@@ -10444,7 +10444,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kiwismoothieitem.png
@@ -10467,7 +10467,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kiwiyogurtitem.png
@@ -10490,7 +10490,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kohlundpinkelitem.png
@@ -10513,7 +10513,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/koreandinneritem.png
@@ -10536,7 +10536,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/kungpaochickenitem.png
@@ -10559,7 +10559,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lambbarleysoupitem.png
@@ -10582,7 +10582,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lambkebabitem.png
@@ -10605,7 +10605,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lambwithmintsauceitem.png
@@ -10628,7 +10628,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lamingtonitem.png
@@ -10651,7 +10651,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lasagnaitem.png
@@ -10674,7 +10674,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lavendershortbreaditem.png
@@ -10697,7 +10697,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/leafychickensandwichitem.png
@@ -10720,7 +10720,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/leafyfishsandwichitem.png
@@ -10743,7 +10743,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/leekbaconsoupitem.png
@@ -10766,7 +10766,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lemonaideitem.png
@@ -10789,7 +10789,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lemonchickenitem.png
@@ -10812,7 +10812,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lemondrizzlecakeitem.png
@@ -10835,7 +10835,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lemonjellyitem.png
@@ -10858,7 +10858,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lemonjellysandwichitem.png
@@ -10881,7 +10881,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lemonjellytoastitem.png
@@ -10904,7 +10904,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lemonjuiceitem.png
@@ -10927,7 +10927,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lemonlimesodaitem.png
@@ -10950,7 +10950,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lemonmeringueitem.png
@@ -10973,7 +10973,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lemonpieitem.png
@@ -10996,7 +10996,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lemonsmoothieitem.png
@@ -11019,7 +11019,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lemonyogurtitem.png
@@ -11042,7 +11042,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/limejellyitem.png
@@ -11065,7 +11065,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/limejellysandwichitem.png
@@ -11088,7 +11088,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/limejellytoastitem.png
@@ -11111,7 +11111,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/limejuiceitem.png
@@ -11134,7 +11134,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/limepieitem.png
@@ -11157,7 +11157,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/limesmoothieitem.png
@@ -11180,7 +11180,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/limeyogurtitem.png
@@ -11203,7 +11203,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/liverandonionsitem.png
@@ -11226,7 +11226,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/loadedbakedpotatoitem.png
@@ -11249,7 +11249,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/loxbagelsandwichitem.png
@@ -11272,7 +11272,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lycheejellyitem.png
@@ -11295,7 +11295,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lycheejellysandwichitem.png
@@ -11318,7 +11318,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lycheejellytoastitem.png
@@ -11341,7 +11341,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lycheejuiceitem.png
@@ -11364,7 +11364,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lycheepieitem.png
@@ -11387,7 +11387,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lycheesmoothieitem.png
@@ -11410,7 +11410,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/lycheeyogurtitem.png
@@ -11433,7 +11433,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mangochutneyitem.png
@@ -11456,7 +11456,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mangojellyitem.png
@@ -11479,7 +11479,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mangojellysandwichitem.png
@@ -11502,7 +11502,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mangojellytoastitem.png
@@ -11525,7 +11525,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mangojuiceitem.png
@@ -11548,7 +11548,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mangopieitem.png
@@ -11571,7 +11571,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mangosmoothieitem.png
@@ -11594,7 +11594,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mangoyogurtitem.png
@@ -11617,7 +11617,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/manjuuitem.png
@@ -11640,7 +11640,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/maplecandiedbaconitem.png
@@ -11663,7 +11663,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mapleoatmealitem.png
@@ -11686,7 +11686,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/maplesausageitem.png
@@ -11709,7 +11709,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/maplesyruppancakesitem.png
@@ -11732,7 +11732,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/maplesyrupwafflesitem.png
@@ -11755,7 +11755,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/marzipanitem.png
@@ -11778,7 +11778,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mashedpotatoeschickenbiscuititem.png
@@ -11801,7 +11801,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mashedsweetpotatoesitem.png
@@ -11824,7 +11824,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/meatfeastpizzaitem.png
@@ -11847,7 +11847,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/meatloafsandwichitem.png
@@ -11870,7 +11870,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/meatpieitem.png
@@ -11893,7 +11893,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/meatystirfryitem.png
@@ -11916,7 +11916,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/meesuaitem.png
@@ -11939,7 +11939,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/melonjellysandwichitem.png
@@ -11962,7 +11962,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/meringuebombeitem.png
@@ -11985,7 +11985,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/meringuebrownieitem.png
@@ -12008,7 +12008,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/meringuecookieitem.png
@@ -12031,7 +12031,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/meringueitem.png
@@ -12054,7 +12054,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/meringuerouladeitem.png
@@ -12077,7 +12077,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/merveilleuxitem.png
@@ -12100,7 +12100,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mettbrotchenitem.png
@@ -12123,7 +12123,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mincepieitem.png
@@ -12146,7 +12146,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mintchocolatechipicecreamitem.png
@@ -12169,7 +12169,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/misopasteitem.png
@@ -12192,7 +12192,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/misosoupitem.png
@@ -12215,7 +12215,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mixedflowerssaladitem.png
@@ -12238,7 +12238,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mixedsaladitem.png
@@ -12261,7 +12261,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mochaicecreamitem.png
@@ -12284,7 +12284,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mochicakeitem.png
@@ -12307,7 +12307,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mochidessertitem.png
@@ -12330,7 +12330,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mochiitem.png
@@ -12353,7 +12353,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/molasseschickenitem.png
@@ -12376,7 +12376,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mozzerellasticksitem.png
@@ -12399,7 +12399,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mulberryjellyitem.png
@@ -12422,7 +12422,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mulberryjellysandwichitem.png
@@ -12445,7 +12445,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mulberryjellytoastitem.png
@@ -12468,7 +12468,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mulberryjuiceitem.png
@@ -12491,7 +12491,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mulberrypieitem.png
@@ -12514,7 +12514,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mulberrysmoothieitem.png
@@ -12537,7 +12537,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mulberryyogurtitem.png
@@ -12560,7 +12560,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/museliitem.png
@@ -12583,7 +12583,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mushroomketchupitem.png
@@ -12606,7 +12606,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mushroomketchupomeletitem.png
@@ -12629,7 +12629,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mushroomlasagnaitem.png
@@ -12652,7 +12652,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mushroomoilitem.png
@@ -12675,7 +12675,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mushroomrisottoitem.png
@@ -12698,7 +12698,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mushroomsteakitem.png
@@ -12721,7 +12721,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/mustarditem.png
@@ -12744,7 +12744,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/musubiitem.png
@@ -12767,7 +12767,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/naanitem.png
@@ -12790,7 +12790,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/nachoesitem.png
@@ -12813,7 +12813,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/neapolitanicecreamitem.png
@@ -12836,7 +12836,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/nopalessaladitem.png
@@ -12859,7 +12859,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/nuttoppedicecreamitem.png
@@ -12882,7 +12882,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/oatmealraisincookiesitem.png
@@ -12905,7 +12905,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/okrachipsitem.png
@@ -12928,7 +12928,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/okracreoleitem.png
@@ -12951,7 +12951,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/oldworldveggiesoupitem.png
@@ -12974,7 +12974,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/omeletitem.png
@@ -12997,7 +12997,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/omuriceitem.png
@@ -13020,7 +13020,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/onigiriitem.png
@@ -13043,7 +13043,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/onionhamburgeritem.png
@@ -13066,7 +13066,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/onionringsitem.png
@@ -13089,7 +13089,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/orangechickenitem.png
@@ -13112,7 +13112,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/orangegingerbeefitem.png
@@ -13135,7 +13135,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/orangejellyitem.png
@@ -13158,7 +13158,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/orangejellysandwichitem.png
@@ -13181,7 +13181,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/orangejellytoastitem.png
@@ -13204,7 +13204,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/orangejuiceitem.png
@@ -13227,7 +13227,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/orangepieitem.png
@@ -13250,7 +13250,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/orangesmoothieitem.png
@@ -13273,7 +13273,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/orangesodaitem.png
@@ -13296,7 +13296,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/orangeyogurtitem.png
@@ -13319,7 +13319,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/ovenroastedcaulifloweritem.png
@@ -13342,7 +13342,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/oystersauceitem.png
@@ -13365,7 +13365,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/padthaiitem.png
@@ -13388,7 +13388,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pancakesitem.png
@@ -13411,7 +13411,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/paneeritem.png
@@ -13434,7 +13434,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/paneertikkamasalaitem.png
@@ -13457,7 +13457,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/papayajellyitem.png
@@ -13480,7 +13480,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/papayajellysandwichitem.png
@@ -13503,7 +13503,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/papayajellytoastitem.png
@@ -13526,7 +13526,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/papayajuiceitem.png
@@ -13549,7 +13549,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/papayapieitem.png
@@ -13572,7 +13572,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/papayasmoothieitem.png
@@ -13595,7 +13595,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/papayayogurtitem.png
@@ -13618,7 +13618,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/paradiseburgeritem.png
@@ -13641,7 +13641,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/passionfruitjellyitem.png
@@ -13664,7 +13664,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/passionfruitjellysandwichitem.png
@@ -13687,7 +13687,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/passionfruitjellytoastitem.png
@@ -13710,7 +13710,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/passionfruitjuiceitem.png
@@ -13733,7 +13733,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/passionfruitpieitem.png
@@ -13756,7 +13756,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/passionfruitsmoothieitem.png
@@ -13779,7 +13779,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/passionfruityogurtitem.png
@@ -13802,7 +13802,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pastagardeniaitem.png
@@ -13825,7 +13825,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pavlovaitem.png
@@ -13848,7 +13848,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pawpawjellyitem.png
@@ -13871,7 +13871,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pawpawjellysandwichitem.png
@@ -13894,7 +13894,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pawpawjellytoastitem.png
@@ -13917,7 +13917,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pawpawjuiceitem.png
@@ -13940,7 +13940,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pawpawpieitem.png
@@ -13963,7 +13963,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pawpawsmoothieitem.png
@@ -13986,7 +13986,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pawpawyogurtitem.png
@@ -14009,7 +14009,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peaandhamsoupitem.png
@@ -14032,7 +14032,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peachcobbleritem.png
@@ -14055,7 +14055,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peachesandcreamoatmealitem.png
@@ -14078,7 +14078,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peachjellyitem.png
@@ -14101,7 +14101,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peachjellysandwichitem.png
@@ -14124,7 +14124,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peachjellytoastitem.png
@@ -14147,7 +14147,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peachjuiceitem.png
@@ -14170,7 +14170,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peachpieitem.png
@@ -14193,7 +14193,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peachsmoothieitem.png
@@ -14216,7 +14216,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peachyogurtitem.png
@@ -14239,7 +14239,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peanutbutterbananapancakesitem.png
@@ -14262,7 +14262,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peanutbutterbananasandwichitem.png
@@ -14285,7 +14285,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peanutbuttercookiesitem.png
@@ -14308,7 +14308,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peanutbuttercupitem.png
@@ -14331,7 +14331,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peanutbutteritem.png
@@ -14354,7 +14354,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peanutchocolatebaritem.png
@@ -14377,7 +14377,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pearjellyitem.png
@@ -14400,7 +14400,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pearjellysandwichitem.png
@@ -14423,7 +14423,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pearjellytoastitem.png
@@ -14446,7 +14446,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pearjuiceitem.png
@@ -14469,7 +14469,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pearpieitem.png
@@ -14492,7 +14492,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pearsmoothieitem.png
@@ -14515,7 +14515,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pearyogurtitem.png
@@ -14538,7 +14538,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peasandceleryitem.png
@@ -14561,7 +14561,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pecanbutteritem.png
@@ -14584,7 +14584,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pecanpieitem.png
@@ -14607,7 +14607,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pemmicanitem.png
@@ -14630,7 +14630,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/peppermintitem.png
@@ -14653,7 +14653,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pepperoniitem.png
@@ -14676,7 +14676,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pepperonipizzaitem.png
@@ -14699,7 +14699,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pepperstirfryitem.png
@@ -14722,7 +14722,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/persimmonjellyitem.png
@@ -14745,7 +14745,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/persimmonjellysandwichitem.png
@@ -14768,7 +14768,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/persimmonjellytoastitem.png
@@ -14791,7 +14791,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/persimmonjuiceitem.png
@@ -14814,7 +14814,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/persimmonpieitem.png
@@ -14837,7 +14837,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/persimmonsmoothieitem.png
@@ -14860,7 +14860,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/persimmonyogurtitem.png
@@ -14883,7 +14883,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/phoitem.png
@@ -14906,7 +14906,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pickledonionsitem.png
@@ -14929,7 +14929,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/picklesitem.png
@@ -14975,7 +14975,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pinacoladaitem.png
@@ -14998,7 +14998,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pineapplehamitem.png
@@ -15021,7 +15021,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pineapplejellyitem.png
@@ -15044,7 +15044,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pineapplejellysandwichitem.png
@@ -15067,7 +15067,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pineapplejellytoastitem.png
@@ -15090,7 +15090,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pineapplejuiceitem.png
@@ -15113,7 +15113,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pineapplepieitem.png
@@ -15136,7 +15136,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pineapplesmoothieitem.png
@@ -15159,7 +15159,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pineappleupsidedowncakeitem.png
@@ -15182,7 +15182,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pineappleyogurtitem.png
@@ -15205,7 +15205,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pinkelitem.png
@@ -15228,7 +15228,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pistachiobutteritem.png
@@ -15251,7 +15251,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pitepaltitem.png
@@ -15274,7 +15274,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pizzasliceitem.png
@@ -15297,7 +15297,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pizzasoupitem.png
@@ -15320,7 +15320,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/ploughmanslunchitem.png
@@ -15343,7 +15343,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/plumjellyitem.png
@@ -15366,7 +15366,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/plumjellysandwichitem.png
@@ -15389,7 +15389,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/plumjellytoastitem.png
@@ -15412,7 +15412,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/plumjuiceitem.png
@@ -15435,7 +15435,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/plumpieitem.png
@@ -15458,7 +15458,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/plumsmoothieitem.png
@@ -15481,7 +15481,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/plumyogurtitem.png
@@ -15504,7 +15504,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/poachedpearitem.png
@@ -15527,7 +15527,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pokebowlitem.png
@@ -15550,7 +15550,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pomegranatejellyitem.png
@@ -15573,7 +15573,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pomegranatejellysandwichitem.png
@@ -15596,7 +15596,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pomegranatejellytoastitem.png
@@ -15619,7 +15619,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pomegranatejuiceitem.png
@@ -15642,7 +15642,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pomegranatepieitem.png
@@ -15665,7 +15665,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pomegranatesmoothieitem.png
@@ -15688,7 +15688,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pomegranateyogurtitem.png
@@ -15711,7 +15711,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/popcornitem.png
@@ -15734,7 +15734,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/porklettucewrapitem.png
@@ -15757,7 +15757,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/porklomeinitem.png
@@ -15780,7 +15780,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/porkrindsitem.png
@@ -15803,7 +15803,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/potatoandcheesepirogiitem.png
@@ -15826,7 +15826,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/potatoandleeksoupitem.png
@@ -15849,7 +15849,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/potatocakesitem.png
@@ -15872,7 +15872,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/potatoesobrienitem.png
@@ -15895,7 +15895,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/potatosaladitem.png
@@ -15918,7 +15918,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/potatoskinsitem.png
@@ -15941,7 +15941,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/potstickersitem.png
@@ -15964,7 +15964,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/poutineitem.png
@@ -15987,7 +15987,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/powdereddonutitem.png
@@ -16010,7 +16010,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pralinesitem.png
@@ -16033,7 +16033,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pumpkinoatsconesitem.png
@@ -16056,7 +16056,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/pumpkinspicelatteitem.png
@@ -16079,7 +16079,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/quesadillaitem.png
@@ -16125,7 +16125,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rainbowcurryitem.png
@@ -16148,7 +16148,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/raisinsitem.png
@@ -16171,7 +16171,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rambutanjellyitem.png
@@ -16194,7 +16194,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rambutanjellysandwichitem.png
@@ -16217,7 +16217,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rambutanjellytoastitem.png
@@ -16240,7 +16240,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rambutanjuiceitem.png
@@ -16263,7 +16263,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rambutanpieitem.png
@@ -16286,7 +16286,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rambutansmoothieitem.png
@@ -16309,7 +16309,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rambutanyogurtitem.png
@@ -16332,7 +16332,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/ramenitem.png
@@ -16355,7 +16355,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/ranchfriedchickenitem.png
@@ -16378,7 +16378,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/raspberryjellyitem.png
@@ -16401,7 +16401,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/raspberryjellysandwichitem.png
@@ -16424,7 +16424,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/raspberryjellytoastitem.png
@@ -16447,7 +16447,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/raspberryjuiceitem.png
@@ -16470,7 +16470,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/raspberrypieitem.png
@@ -16493,7 +16493,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/raspberrysmoothieitem.png
@@ -16516,7 +16516,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/raspberrytrifleitem.png
@@ -16539,7 +16539,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/raspberryyogurtitem.png
@@ -16562,7 +16562,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rawtofabbititem.png
@@ -16585,7 +16585,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rawtofaconitem.png
@@ -16608,7 +16608,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rawtofeakitem.png
@@ -16631,7 +16631,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rawtofickenitem.png
@@ -16654,7 +16654,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rawtofishitem.png
@@ -16677,7 +16677,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rawtofuttonitem.png
@@ -16723,7 +16723,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/redvelvetcupcakeitem.png
@@ -16746,7 +16746,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/refriedbeansitem.png
@@ -16769,7 +16769,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/relishitem.png
@@ -16792,7 +16792,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/ricecakeitem.png
@@ -16815,7 +16815,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/ricepuddingitem.png
@@ -16838,7 +16838,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rivermudcakeitem.png
@@ -16861,7 +16861,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/roastchickenitem.png
@@ -16884,7 +16884,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/roastedrootveggiemedleyitem.png
@@ -16907,7 +16907,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/roastpotatoesitem.png
@@ -16930,7 +16930,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rootbeerfloatitem.png
@@ -16953,7 +16953,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rootbeersodaitem.png
@@ -16976,7 +16976,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rosepetalteaitem.png
@@ -16999,7 +16999,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/rouxitem.png
@@ -17022,7 +17022,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/saladdressingitem.png
@@ -17045,7 +17045,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/salisburysteakitem.png
@@ -17068,7 +17068,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/salsaitem.png
@@ -17091,7 +17091,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/saltandpepperitem.png
@@ -17114,7 +17114,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/saltedcaramelitem.png
@@ -17137,7 +17137,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/saucedlambkebabitem.png
@@ -17160,7 +17160,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sauerbratenitem.png
@@ -17183,7 +17183,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sausagebeanmeltitem.png
@@ -17206,7 +17206,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sausageinbreaditem.png
@@ -17229,7 +17229,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sausageitem.png
@@ -17252,7 +17252,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sausagerollitem.png
@@ -17275,7 +17275,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/scallionbakedpotatoitem.png
@@ -17298,7 +17298,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/schnitzelitem.png
@@ -17344,7 +17344,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/seedsoupitem.png
@@ -17367,7 +17367,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sesameballitem.png
@@ -17390,7 +17390,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sesameoilitem.png
@@ -17413,7 +17413,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sesamesnapsitem.png
@@ -17459,7 +17459,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/shepardspieitem.png
@@ -17482,7 +17482,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/silkentofuitem.png
@@ -17505,7 +17505,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/slawdogitem.png
@@ -17528,7 +17528,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sorbetitem.png
@@ -17551,7 +17551,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sourcreamandonionpotatochipsitem.png
@@ -17574,7 +17574,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/soursopjellyitem.png
@@ -17597,7 +17597,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/soursopjellysandwichitem.png
@@ -17620,7 +17620,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/soursopjellytoastitem.png
@@ -17643,7 +17643,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/soursopjuiceitem.png
@@ -17666,7 +17666,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/soursoppieitem.png
@@ -17689,7 +17689,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/soursopsmoothieitem.png
@@ -17712,7 +17712,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/soursopyogurtitem.png
@@ -17735,7 +17735,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/southernstylebreakfastitem.png
@@ -17758,7 +17758,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/soymilkitem.png
@@ -17781,7 +17781,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/soysauceitem.png
@@ -17804,7 +17804,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/spagettiandmeatballsitem.png
@@ -17827,7 +17827,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/spagettiitem.png
@@ -17850,7 +17850,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/spaghettidinneritem.png
@@ -17873,7 +17873,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/spicebunitem.png
@@ -17896,7 +17896,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/spicygreensitem.png
@@ -17919,7 +17919,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/spicymustardporkitem.png
@@ -17942,7 +17942,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/spinachpieitem.png
@@ -17965,7 +17965,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/splitpeasoupitem.png
@@ -17988,7 +17988,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/springfieldcashewchickenitem.png
@@ -18011,7 +18011,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/springrollitem.png
@@ -18034,7 +18034,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/springsaladitem.png
@@ -18057,7 +18057,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sprinklescupcakeitem.png
@@ -18103,7 +18103,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/starfruitjellyitem.png
@@ -18126,7 +18126,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/starfruitjellysandwichitem.png
@@ -18149,7 +18149,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/starfruitjellytoastitem.png
@@ -18172,7 +18172,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/starfruitjuiceitem.png
@@ -18195,7 +18195,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/starfruitpieitem.png
@@ -18218,7 +18218,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/starfruitsmoothieitem.png
@@ -18241,7 +18241,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/starfruityogurtitem.png
@@ -18264,7 +18264,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/steakandchipsitem.png
@@ -18287,7 +18287,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/steakfajitaitem.png
@@ -18310,7 +18310,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/steaktartareitem.png
@@ -18333,7 +18333,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/strawberryjellyitem.png
@@ -18356,7 +18356,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/strawberryjellysandwichitem.png
@@ -18379,7 +18379,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/strawberryjellytoastitem.png
@@ -18402,7 +18402,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/strawberryjuiceitem.png
@@ -18425,7 +18425,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/strawberrypieitem.png
@@ -18448,7 +18448,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/strawberryrhubarbpieitem.png
@@ -18471,7 +18471,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/strawberrysmoothieitem.png
@@ -18494,7 +18494,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/strawberrysodaitem.png
@@ -18517,7 +18517,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/strawberrysouffleitem.png
@@ -18540,7 +18540,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/strawberryyogurtitem.png
@@ -18563,7 +18563,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/stuffedchilipeppersitem.png
@@ -18586,7 +18586,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/stuffedeggplantitem.png
@@ -18609,7 +18609,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/stuffedmushroomitem.png
@@ -18632,7 +18632,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/stuffedpepperitem.png
@@ -18655,7 +18655,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/stuffingitem.png
@@ -18678,7 +18678,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/suaderoitem.png
@@ -18701,7 +18701,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/succotashitem.png
@@ -18724,7 +18724,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sugarcookieitem.png
@@ -18747,7 +18747,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/summersquashwithradishitem.png
@@ -18770,7 +18770,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sundayhighteaitem.png
@@ -18793,7 +18793,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sundayroastitem.png
@@ -18816,7 +18816,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sunflowerbroccolisaladitem.png
@@ -18839,7 +18839,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sunflowerseedsbutteritem.png
@@ -18862,7 +18862,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sunflowerwheatrollsitem.png
@@ -18885,7 +18885,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/supremepizzaitem.png
@@ -18908,7 +18908,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/surfandturfitem.png
@@ -18931,7 +18931,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sushiitem.png
@@ -18954,7 +18954,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/swedishmeatballsitem.png
@@ -18977,7 +18977,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sweetandsourchickenitem.png
@@ -19000,7 +19000,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sweetandsourmeatballsitem.png
@@ -19023,7 +19023,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sweetandsoursauceitem.png
@@ -19046,7 +19046,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sweetberryjellysandwichitem.png
@@ -19069,7 +19069,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sweetpickleitem.png
@@ -19092,7 +19092,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sweetpotatopieitem.png
@@ -19115,7 +19115,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sweetpotatosouffleitem.png
@@ -19138,7 +19138,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/sweetteaitem.png
@@ -19161,7 +19161,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/szechuaneggplantitem.png
@@ -19184,7 +19184,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tacoitem.png
@@ -19207,7 +19207,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/taiyakiitem.png
@@ -19253,7 +19253,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tamarindjellyitem.png
@@ -19276,7 +19276,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tamarindjellysandwichitem.png
@@ -19299,7 +19299,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tamarindjellytoastitem.png
@@ -19322,7 +19322,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tamarindjuiceitem.png
@@ -19345,7 +19345,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tamarindpieitem.png
@@ -19368,7 +19368,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tamarindsmoothieitem.png
@@ -19391,7 +19391,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tamarindyogurtitem.png
@@ -19414,7 +19414,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tatertotsitem.png
@@ -19437,7 +19437,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/teriyakichickenitem.png
@@ -19460,7 +19460,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/theatreboxitem.png
@@ -19483,7 +19483,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/threebeansaladitem.png
@@ -19506,7 +19506,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/timpanoitem.png
@@ -19529,7 +19529,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/timtamitem.png
@@ -19552,7 +19552,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tiropitaitem.png
@@ -19575,7 +19575,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/toadintheholeitem.png
@@ -19598,7 +19598,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/toastedwesternitem.png
@@ -19621,7 +19621,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/toastsandwichitem.png
@@ -19644,7 +19644,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tomatoherbchickenitem.png
@@ -19667,7 +19667,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tomatosoupitem.png
@@ -19690,7 +19690,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tortillachipsitem.png
@@ -19713,7 +19713,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/tortillaitem.png
@@ -19736,7 +19736,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/turkishdelightitem.png
@@ -19759,7 +19759,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/vanillaconchasbreaditem.png
@@ -19782,7 +19782,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/vanillaicecreamitem.png
@@ -19805,7 +19805,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/vanillaitem.png
@@ -19828,7 +19828,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/vegemiteitem.png
@@ -19851,7 +19851,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/vegemiteontoastitem.png
@@ -19874,7 +19874,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/vegetablesoupitem.png
@@ -19897,7 +19897,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/vegetarianlettucewrapitem.png
@@ -19920,7 +19920,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/veggiestirfryitem.png
@@ -19943,7 +19943,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/veggiestripsitem.png
@@ -19966,7 +19966,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/vindalooitem.png
@@ -19989,7 +19989,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/wafflesitem.png
@@ -20012,7 +20012,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/walnutbutteritem.png
@@ -20035,7 +20035,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/walnutraisinbreaditem.png
@@ -20058,7 +20058,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/weekendpicnicitem.png
@@ -20081,7 +20081,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/wontonsoupitem.png
@@ -20104,7 +20104,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/yorkshirepuddingitem.png
@@ -20127,7 +20127,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/zeppoleitem.png
@@ -20150,7 +20150,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/zestyzucchiniitem.png
@@ -20173,7 +20173,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/zucchinibakeitem.png
@@ -20196,7 +20196,7 @@ items:
     - '&f'
     - display-lore-category-name-foodplus
     resource:
-      generate: false
+      generate: true
       material: DRIED_KELP
       textures:
       - item/zucchinifriesitem.png

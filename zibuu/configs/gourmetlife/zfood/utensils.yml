@@ -9,7 +9,7 @@ items:
     - '&f'
     - 'display-lore-category-name-kitchen'
     resource:
-      generate: false
+      generate: true
       material: PAPER
       textures:
       - item/bakewareitem.png
@@ -21,7 +21,7 @@ items:
     - '&f'
     - 'display-lore-category-name-kitchen'
     resource:
-      generate: false
+      generate: true
       material: PAPER
       textures:
       - item/cuttingboarditem.png
@@ -33,7 +33,7 @@ items:
     - '&f'
     - 'display-lore-category-name-kitchen'
     resource:
-      generate: false
+      generate: true
       material: PAPER
       textures:
       - item/grinderitem.png
@@ -45,7 +45,7 @@ items:
     - '&f'
     - 'display-lore-category-name-kitchen'
     resource:
-      generate: false
+      generate: true
       material: PAPER
       textures:
       - item/juiceritem.png
@@ -57,7 +57,7 @@ items:
     - '&f'
     - 'display-lore-category-name-kitchen'
     resource:
-      generate: false
+      generate: true
       material: PAPER
       textures:
       - item/mixingbowlitem.png
@@ -69,7 +69,7 @@ items:
     - '&f'
     - 'display-lore-category-name-kitchen'
     resource:
-      generate: false
+      generate: true
       material: PAPER
       textures:
       - item/potitem.png
@@ -81,7 +81,7 @@ items:
     - '&f'
     - 'display-lore-category-name-kitchen'
     resource:
-      generate: false
+      generate: true
       material: PAPER
       textures:
       - item/rolleritem.png
@@ -93,7 +93,7 @@ items:
     - '&f'
     - 'display-lore-category-name-kitchen'
     resource:
-      generate: false
+      generate: true
       material: PAPER
       textures:
       - item/saucepanitem.png
@@ -105,7 +105,7 @@ items:
     - '&f'
     - 'display-lore-category-name-kitchen'
     resource:
-      generate: false
+      generate: true
       material: PAPER
       textures:
       - item/skilletitem.png
