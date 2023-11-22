@@ -113,3 +113,102 @@ dictionary:
     display-name-yuccaitem: Yuca
     display-name-zucchiniitem: Zucchini
     # End of Crops
+    # Seeds
+    display-name-agaveseed: Semillas de Agave
+    display-name-alfalfaseed: Semillas de Alfalfa
+    display-name-aloeseed: Semillas de Aloe
+    display-name-amaranthseed: Semillas de Amaranto
+    display-name-arrowrootseed: Semillas de Arrurruz
+    display-name-artichokeseed: Semillas de Alcachofa
+    display-name-asparagusseed: Semillas de Esparrago
+    display-name-barleyseed: Semillas de Cebada
+    display-name-barrelcactusseed: Semillas de Cáctus de barril
+    display-name-beanseed: Semillas de Frijol
+    display-name-bellpepperseed: Semillas de Pimiento
+    display-name-blackberryseed: Semillas de Mora
+    display-name-blueberryseed: Semillas de Arándano
+    display-name-bokchoyseed: Semillas de Col China
+    display-name-broccoliseed: Semillas de Brócoli
+    display-name-brusselsproutseed: Semillas de Coles de brusela
+    display-name-cabbageseed: Semillas de Col
+    display-name-cactusfruitseed: Semillas de Tuna
+    display-name-calabashseed: Semillas de Calabaza
+    display-name-candleberryseed: Semillas de Candleberry
+    display-name-canolaseed: Semillas de Canola
+    display-name-cantaloupeseed: Semillas de Melón
+    display-name-cassavaseed: Semillas de Mandioca
+    display-name-cattailseed: Semillas de Espadaña
+    display-name-cauliflowerseed: Semillas de Coliflor
+    display-name-celeryseed: Semillas de Apio
+    display-name-chiaseed: Semillas de Chia
+    display-name-chickpeaseed: Semillas de Garbanzo
+    display-name-chilipepperseed: Semillas de Chile
+    display-name-cloudberryseed: Semillas de Zarzamora
+    display-name-coffeebeanseed: Semillas de Grano de café
+    display-name-cornseed: Semillas de Maiz
+    display-name-cottonseed: Semillas de Algodón
+    display-name-cranberryseed: Semillas de Arándano
+    display-name-cucumberseed: Semillas de Pepino
+    display-name-eggplantseed: Semillas de Berenjena
+    display-name-elderberryseed: Semillas de Saúco
+    display-name-flaxseed: Semillas de Linaza
+    display-name-garlicseed: Semillas de Ajo
+    display-name-gingerseed: Semillas de Jengibre
+    display-name-grapeseed: Semillas de Uvas
+    display-name-greengrapeseed: Semillas de Uvas verdes
+    display-name-guaranaseed: Semillas de Guaraná
+    display-name-huckleberryseed: Semillas de Arándano
+    display-name-jicamaseed: Semillas de Jicama
+    display-name-juniperberryseed: Semillas de Baya de enebro
+    display-name-juteseed: Semillas de Jute
+    display-name-kaleseed: Semillas de Col rizada
+    display-name-kenafseed: Semillas de Kenaf
+    display-name-kiwiseed: Semillas de Kiwi
+    display-name-kohlrabiseed: Semillas de Colinabo
+    display-name-leekseed: Semillas de Puerro
+    display-name-lentilseed: Semillas de Lenteja
+    display-name-lettuceseed: Semillas de Lechuga
+    display-name-lotusseed: Semillas de Loto
+    display-name-milletseed: Semillas de Mijo
+    display-name-mulberryseed: Semillas de Mora
+    display-name-mustardseedsseed: Semillas de Semillas de mostaza
+    display-name-nettlesseed: Semillas de Ortiga
+    display-name-nopalesseed: Semillas de Nopales
+    display-name-oatsseed: Semillas de Avena
+    display-name-okraseed: Semillas de Okra
+    display-name-onionseed: Semillas de Cebolla
+    display-name-papyrusseed: Semillas de Papiro
+    display-name-parsnipseed: Semillas de Chirivia
+    display-name-peanutseed: Semillas de Cacahuate
+    display-name-peasseed: Semillas de Chicharo
+    display-name-pineappleseed: Semillas de Piña
+    display-name-quinoaseed: Semillas de Quinoa
+    display-name-radishseed: Semillas de Rábano
+    display-name-raspberryseed: Semillas de Frambuesa
+    display-name-rhubarbseed: Semillas de Ruibardo
+    display-name-riceseed: Semillas de Arroz
+    display-name-rutabagaseed: Semillas de Nabo sueco
+    display-name-ryeseed: Semillas de Centeno
+    display-name-scallionseed: Semillas de Cebollin
+    display-name-sesameseedsseed: Semillas de Semillas de sésamo
+    display-name-sisalseed: Semillas de Sisal
+    display-name-sorghumseed: Semillas de Sorgo
+    display-name-soybeanseed: Semillas de Soja
+    display-name-spiceleafseed: Semillas de Especias
+    display-name-spinachseed: Semillas de Espinaca
+    display-name-strawberryseed: Semillas de Fresa
+    display-name-sunchokeseed: Semillas de Alcachofa
+    display-name-sweetpotatoseed: Semillas de Camote
+    display-name-taroseed: Semillas de Taro
+    display-name-tealeafseed: Semillas de Hoja de té
+    display-name-tomatilloseed: Semillas de Tomate verde
+    display-name-tomatoseed: Semillas de Tomate
+    display-name-truffleseed: Semillas de Trufa
+    display-name-turnipseed: Semillas de Nabo
+    display-name-waterchestnutseed: Semillas de Castaña
+    display-name-whitemushroomseed: Semillas de Seta blanca
+    display-name-wintersquashseed: Semillas de Calabaza
+    display-name-wolfberryseed: Semillas de Baya de Goji
+    display-name-yuccaseed: Semillas de Yuca
+    display-name-zucchiniseed: Semillas de Zucchini
+    # End of Seeds

@@ -113,3 +113,102 @@ dictionary:
     display-name-yuccaitem: Yucca
     display-name-zucchiniitem: Zucchini
     # End of Crops
+    # Seeds
+    display-name-agaveseed: Agave Seeds
+    display-name-alfalfaseed: Alfalfa Seeds
+    display-name-aloeseed: Aloe Seeds
+    display-name-amaranthseed: Amaranth Seeds
+    display-name-arrowrootseed: Arrowroot Seeds
+    display-name-artichokeseed: Artichoke Seeds
+    display-name-asparagusseed: Asparagus Seeds
+    display-name-barleyseed: Barley Seeds
+    display-name-barrelcactusseed: Barrel Cactus Seeds
+    display-name-beanseed: Bean Seeds
+    display-name-bellpepperseed: Bell Pepper Seeds
+    display-name-blackberryseed: Blackberry Seeds
+    display-name-blueberryseed: Blueberry Seeds
+    display-name-bokchoyseed: Bok Choy Seeds
+    display-name-broccoliseed: Broccoli Seeds
+    display-name-brusselsproutseed: Brussel Sprouts Seeds
+    display-name-cabbageseed: Cabbage Seeds
+    display-name-cactusfruitseed: Cactus Fruit Seeds
+    display-name-calabashseed: Calabash Seeds
+    display-name-candleberryseed: Candleberry Seeds
+    display-name-canolaseed: Canola Seeds
+    display-name-cantaloupeseed: Cantaloupe Seeds
+    display-name-cassavaseed: Cassava Seeds
+    display-name-cattailseed: Cattail Seeds
+    display-name-cauliflowerseed: Cauliflower Seeds
+    display-name-celeryseed: Celery Seeds
+    display-name-chiaseed: Chia Seeds
+    display-name-chickpeaseed: Chickpea Seeds
+    display-name-chilipepperseed: Chili Seeds
+    display-name-cloudberryseed: Cloudberry Seeds
+    display-name-coffeebeanseed: Coffee Bean Seeds
+    display-name-cornseed: Corn Seeds
+    display-name-cottonseed: Cotton Seeds
+    display-name-cranberryseed: Cranberry Seeds
+    display-name-cucumberseed: Cucumber Seeds
+    display-name-eggplantseed: Eggplant Seeds
+    display-name-elderberryseed: Elderberry Seeds
+    display-name-flaxseed: Flax Seeds
+    display-name-garlicseed: Garlic Seeds
+    display-name-gingerseed: Ginger Seeds
+    display-name-grapeseed: Grapes Seeds
+    display-name-greengrapeseed: Green Grapes Seeds
+    display-name-guaranaseed: Guarana Seeds
+    display-name-huckleberryseed: Huckleberry Seeds
+    display-name-jicamaseed: Jicama Seeds
+    display-name-juniperberryseed: Juniperberry Seeds
+    display-name-juteseed: Jute Seeds
+    display-name-kaleseed: Kale Seeds
+    display-name-kenafseed: Kenaf Seeds
+    display-name-kiwiseed: Kiwi Seeds
+    display-name-kohlrabiseed: Kohlrabi Seeds
+    display-name-leekseed: Leek Seeds
+    display-name-lentilseed: Lentil Seeds
+    display-name-lettuceseed: Lettuce Seeds
+    display-name-lotusseed: Lotus Seeds
+    display-name-milletseed: Millet Seeds
+    display-name-mulberryseed: Mulberry Seeds
+    display-name-mustardseedsseed: Mustard Seeds Seeds
+    display-name-nettlesseed: Nettles Seeds
+    display-name-nopalesseed: Nopales Seeds
+    display-name-oatsseed: Oats Seeds
+    display-name-okraseed: Okra Seeds
+    display-name-onionseed: Onion Seeds
+    display-name-papyrusseed: Papyrus Seeds
+    display-name-parsnipseed: Parsnip Seeds
+    display-name-peanutseed: Peanut Seeds
+    display-name-peasseed: Peas Seeds
+    display-name-pineappleseed: Pineapple Seeds
+    display-name-quinoaseed: Quinoa Seeds
+    display-name-radishseed: Radish Seeds
+    display-name-raspberryseed: Raspberry Seeds
+    display-name-rhubarbseed: Rhubarb Seeds
+    display-name-riceseed: Rice Seeds
+    display-name-rutabagaseed: Rutabaga Seeds
+    display-name-ryeseed: Rye Seeds
+    display-name-scallionseed: Scallion Seeds
+    display-name-sesameseedsseed: Sesame Seeds Seeds
+    display-name-sisalseed: Sisal Seeds
+    display-name-sorghumseed: Sorghum Seeds
+    display-name-soybeanseed: Soya Bean Seeds
+    display-name-spiceleafseed: Spice Leaf Seeds
+    display-name-spinachseed: Spinach Seeds
+    display-name-strawberryseed: Strawberry Seeds
+    display-name-sunchokeseed: Sunchoke Seeds
+    display-name-sweetpotatoseed: Sweet Potato Seeds
+    display-name-taroseed: Taro Seeds
+    display-name-tealeafseed: Tea Leaf Seeds
+    display-name-tomatilloseed: Tomatillo Seeds
+    display-name-tomatoseed: Tomato Seeds
+    display-name-truffleseed: Truffle Seeds
+    display-name-turnipseed: Turnip Seeds
+    display-name-waterchestnutseed: Water Chestnut Seeds
+    display-name-whitemushroomseed: White Mushroom Seeds
+    display-name-wintersquashseed: Butternut Squash Seeds
+    display-name-wolfberryseed: Goji Berry Seeds
+    display-name-yuccaseed: Yucca Seeds
+    display-name-zucchiniseed: Zucchini Seeds
+    # End of Seeds

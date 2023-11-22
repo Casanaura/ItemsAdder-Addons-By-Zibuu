@@ -2,7 +2,7 @@ info:
   namespace: zfood
 
 categories:
-  zfood:
+  zfoodutensils:
     enabled: true
     name: Utencilios de cocina
     icon: zfood:potitem

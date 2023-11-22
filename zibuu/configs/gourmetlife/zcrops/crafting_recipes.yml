@@ -1,0 +1,774 @@
+info:
+  namespace: zcrops
+
+recipes:
+  crafting_table:
+# Example
+#    seeditem:
+#      enabled: true
+#      ingredients:
+#        A: zcrops:item
+#      result:
+#        amount: 1
+#        item: zcrops:seeditem
+#      shapeless: true
+    agaveseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:agaveitem
+      result:
+        amount: 1
+        item: zcrops:agaveseeditem
+      shapeless: true
+    alfalfaseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:alfalfaitem
+      result:
+        amount: 1
+        item: zcrops:alfalfaseeditem
+      shapeless: true
+    aloeseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:aloeitem
+      result:
+        amount: 1
+        item: zcrops:aloeseeditem
+      shapeless: true
+    amaranthseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:amaranthitem
+      result:
+        amount: 1
+        item: zcrops:amaranthseeditem
+      shapeless: true
+    arrowrootseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:arrowrootitem
+      result:
+        amount: 1
+        item: zcrops:arrowrootseeditem
+      shapeless: true
+    artichokeseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:artichokeitem
+      result:
+        amount: 1
+        item: zcrops:artichokeseeditem
+      shapeless: true
+    asparagusseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:asparagusitem
+      result:
+        amount: 1
+        item: zcrops:asparagusseeditem
+      shapeless: true
+    barleyseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:barleyitem
+      result:
+        amount: 1
+        item: zcrops:barleyseeditem
+      shapeless: true
+    barrelcactusseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:barrelcactusitem
+      result:
+        amount: 1
+        item: zcrops:barrelcactusseeditem
+      shapeless: true
+    beanseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:beanitem
+      result:
+        amount: 1
+        item: zcrops:beanseeditem
+      shapeless: true
+    bellpepperseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:bellpepperitem
+      result:
+        amount: 1
+        item: zcrops:bellpepperseeditem
+      shapeless: true
+    blackberryseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:blackberryitem
+      result:
+        amount: 1
+        item: zcrops:blackberryseeditem
+      shapeless: true
+    blueberryseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:blueberryitem
+      result:
+        amount: 1
+        item: zcrops:blueberryseeditem
+      shapeless: true
+    bokchoyseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:bokchoyitem
+      result:
+        amount: 1
+        item: zcrops:bokchoyseeditem
+      shapeless: true
+    broccoliseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:broccoliitem
+      result:
+        amount: 1
+        item: zcrops:broccoliseeditem
+      shapeless: true
+    brusselsproutseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:brusselsproutitem
+      result:
+        amount: 1
+        item: zcrops:brusselsproutseeditem
+      shapeless: true
+    cabbageseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:cabbageitem
+      result:
+        amount: 1
+        item: zcrops:cabbageseeditem
+      shapeless: true
+    cactusfruitseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:cactusfruititem
+      result:
+        amount: 1
+        item: zcrops:cactusfruitseeditem
+      shapeless: true
+    calabashseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:calabashitem
+      result:
+        amount: 1
+        item: zcrops:calabashseeditem
+      shapeless: true
+    candleberryseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:candleberryitem
+      result:
+        amount: 1
+        item: zcrops:candleberryseeditem
+      shapeless: true
+    canolaseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:canolaitem
+      result:
+        amount: 1
+        item: zcrops:canolaseeditem
+      shapeless: true
+    cantaloupeseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:cantaloupeitem
+      result:
+        amount: 1
+        item: zcrops:cantaloupeseeditem
+      shapeless: true
+    cassavaseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:cassavaitem
+      result:
+        amount: 1
+        item: zcrops:cassavaseeditem
+      shapeless: true
+    cattailseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:cattailitem
+      result:
+        amount: 1
+        item: zcrops:cattailseeditem
+      shapeless: true
+    cauliflowerseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:caulifloweritem
+      result:
+        amount: 1
+        item: zcrops:cauliflowerseeditem
+      shapeless: true
+    celeryseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:celeryitem
+      result:
+        amount: 1
+        item: zcrops:celeryseeditem
+      shapeless: true
+    chiaseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:chiaitem
+      result:
+        amount: 1
+        item: zcrops:chiaseeditem
+      shapeless: true
+    chickpeaseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:chickpeaitem
+      result:
+        amount: 1
+        item: zcrops:chickpeaseeditem
+      shapeless: true
+    chilipepperseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:chilipepperitem
+      result:
+        amount: 1
+        item: zcrops:chilipepperseeditem
+      shapeless: true
+    cloudberryseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:cloudberryitem
+      result:
+        amount: 1
+        item: zcrops:cloudberryseeditem
+      shapeless: true
+    coffeebeanseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:coffeebeanitem
+      result:
+        amount: 1
+        item: zcrops:coffeebeanseeditem
+      shapeless: true
+    cornseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:cornitem
+      result:
+        amount: 1
+        item: zcrops:cornseeditem
+      shapeless: true
+    cottonseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:cottonitem
+      result:
+        amount: 1
+        item: zcrops:cottonseeditem
+      shapeless: true
+    cranberryseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:cranberryitem
+      result:
+        amount: 1
+        item: zcrops:cranberryseeditem
+      shapeless: true
+    cucumberseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:cucumberitem
+      result:
+        amount: 1
+        item: zcrops:cucumberseeditem
+      shapeless: true
+    eggplantseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:eggplantitem
+      result:
+        amount: 1
+        item: zcrops:eggplantseeditem
+      shapeless: true
+    elderberryseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:elderberryitem
+      result:
+        amount: 1
+        item: zcrops:elderberryseeditem
+      shapeless: true
+    flaxseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:flaxitem
+      result:
+        amount: 1
+        item: zcrops:flaxseeditem
+      shapeless: true
+    garlicseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:garlicitem
+      result:
+        amount: 1
+        item: zcrops:garlicseeditem
+      shapeless: true
+    gingerseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:gingeritem
+      result:
+        amount: 1
+        item: zcrops:gingerseeditem
+      shapeless: true
+    grapeseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:grapeitem
+      result:
+        amount: 1
+        item: zcrops:grapeseeditem
+      shapeless: true
+    greengrapeseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:greengrapeitem
+      result:
+        amount: 1
+        item: zcrops:greengrapeseeditem
+      shapeless: true
+    guaranaseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:guaranaitem
+      result:
+        amount: 1
+        item: zcrops:guaranaseeditem
+      shapeless: true
+    huckleberryseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:huckleberryitem
+      result:
+        amount: 1
+        item: zcrops:huckleberryseeditem
+      shapeless: true
+    jicamaseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:jicamaitem
+      result:
+        amount: 1
+        item: zcrops:jicamaseeditem
+      shapeless: true
+    juniperberryseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:juniperberryitem
+      result:
+        amount: 1
+        item: zcrops:juniperberryseeditem
+      shapeless: true
+    juteseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:juteitem
+      result:
+        amount: 1
+        item: zcrops:juteseeditem
+      shapeless: true
+    kaleseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:kaleitem
+      result:
+        amount: 1
+        item: zcrops:kaleseeditem
+      shapeless: true
+    kenafseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:kenafitem
+      result:
+        amount: 1
+        item: zcrops:kenafseeditem
+      shapeless: true
+    kiwiseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:kiwiitem
+      result:
+        amount: 1
+        item: zcrops:kiwiseeditem
+      shapeless: true
+    kohlrabiseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:kohlrabiitem
+      result:
+        amount: 1
+        item: zcrops:kohlrabiseeditem
+      shapeless: true
+    leekseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:leekitem
+      result:
+        amount: 1
+        item: zcrops:leekseeditem
+      shapeless: true
+    lentilseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:lentilitem
+      result:
+        amount: 1
+        item: zcrops:lentilseeditem
+      shapeless: true
+    lettuceseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:lettuceitem
+      result:
+        amount: 1
+        item: zcrops:lettuceseeditem
+      shapeless: true
+    lotusseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:lotusitem
+      result:
+        amount: 1
+        item: zcrops:lotusseeditem
+      shapeless: true
+    milletseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:milletitem
+      result:
+        amount: 1
+        item: zcrops:milletseeditem
+      shapeless: true
+    mulberryseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:mulberryitem
+      result:
+        amount: 1
+        item: zcrops:mulberryseeditem
+      shapeless: true
+    mustardseedsseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:mustardseedsitem
+      result:
+        amount: 1
+        item: zcrops:mustardseedsseeditem
+      shapeless: true
+    nettlesseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:nettlesitem
+      result:
+        amount: 1
+        item: zcrops:nettlesseeditem
+      shapeless: true
+    nopalesseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:nopalesitem
+      result:
+        amount: 1
+        item: zcrops:nopalesseeditem
+      shapeless: true
+    oatsseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:oatsitem
+      result:
+        amount: 1
+        item: zcrops:oatsseeditem
+      shapeless: true
+    okraseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:okraitem
+      result:
+        amount: 1
+        item: zcrops:okraseeditem
+      shapeless: true
+    onionseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:onionitem
+      result:
+        amount: 1
+        item: zcrops:onionseeditem
+      shapeless: true
+    papyrusseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:papyrusitem
+      result:
+        amount: 1
+        item: zcrops:papyrusseeditem
+      shapeless: true
+    parsnipseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:parsnipitem
+      result:
+        amount: 1
+        item: zcrops:parsnipseeditem
+      shapeless: true
+    peanutseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:peanutitem
+      result:
+        amount: 1
+        item: zcrops:peanutseeditem
+      shapeless: true
+    peasseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:peasitem
+      result:
+        amount: 1
+        item: zcrops:peasseeditem
+      shapeless: true
+    pineappleseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:pineappleitem
+      result:
+        amount: 1
+        item: zcrops:pineappleseeditem
+      shapeless: true
+    quinoaseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:quinoaitem
+      result:
+        amount: 1
+        item: zcrops:quinoaseeditem
+      shapeless: true
+    radishseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:radishitem
+      result:
+        amount: 1
+        item: zcrops:radishseeditem
+      shapeless: true
+    raspberryseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:raspberryitem
+      result:
+        amount: 1
+        item: zcrops:raspberryseeditem
+      shapeless: true
+    rhubarbseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:rhubarbitem
+      result:
+        amount: 1
+        item: zcrops:rhubarbseeditem
+      shapeless: true
+    riceseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:riceitem
+      result:
+        amount: 1
+        item: zcrops:riceseeditem
+      shapeless: true
+    rutabagaseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:rutabagaitem
+      result:
+        amount: 1
+        item: zcrops:rutabagaseeditem
+      shapeless: true
+    ryeseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:ryeitem
+      result:
+        amount: 1
+        item: zcrops:ryeseeditem
+      shapeless: true
+    scallionseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:scallionitem
+      result:
+        amount: 1
+        item: zcrops:scallionseeditem
+      shapeless: true
+    sesameseedsseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:sesameseedsitem
+      result:
+        amount: 1
+        item: zcrops:sesameseedsitem
+      shapeless: true
+    sisalseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:sisalitem
+      result:
+        amount: 1
+        item: zcrops:sisalseeditem
+      shapeless: true
+    sorghumseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:sorghumitem
+      result:
+        amount: 1
+        item: zcrops:sorghumseeditem
+      shapeless: true
+    soybeanseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:soybeanitem
+      result:
+        amount: 1
+        item: zcrops:soybeanseeditem
+      shapeless: true
+    spiceleafseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:spiceleafitem
+      result:
+        amount: 1
+        item: zcrops:spiceleafseeditem
+      shapeless: true
+    spinachseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:spinachitem
+      result:
+        amount: 1
+        item: zcrops:spinachseeditem
+      shapeless: true
+    strawberryseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:strawberryitem
+      result:
+        amount: 1
+        item: zcrops:strawberryseeditem
+      shapeless: true
+    sweetpotatoseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:sweetpotatoitem
+      result:
+        amount: 1
+        item: zcrops:sweetpotatoseeditem
+      shapeless: true
+    taroseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:taroitem
+      result:
+        amount: 1
+        item: zcrops:taroseeditem
+      shapeless: true
+    tealeafseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:tealeafitem
+      result:
+        amount: 1
+        item: zcrops:tealeafseeditem
+      shapeless: true
+    tomatilloseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:tomatilloitem
+      result:
+        amount: 1
+        item: zcrops:tomatilloseeditem
+      shapeless: true
+    tomatoseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:tomatoitem
+      result:
+        amount: 1
+        item: zcrops:tomatoseeditem
+      shapeless: true
+    truffleseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:truffleitem
+      result:
+        amount: 1
+        item: zcrops:truffleseeditem
+      shapeless: true
+    turnipseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:turnipitem
+      result:
+        amount: 1
+        item: zcrops:turnipseeditem
+      shapeless: true
+    waterchestnutseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:waterchestnutitem
+      result:
+        amount: 1
+        item: zcrops:waterchestnutseeditem
+      shapeless: true
+    whitemushroomseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:whitemushroomitem
+      result:
+        amount: 1
+        item: zcrops:whitemushroomseeditem
+      shapeless: true
+    wolfberryseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:wolfberryitem
+      result:
+        amount: 1
+        item: zcrops:wolfberryseeditem
+      shapeless: true
+    yuccaseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:yuccaitem
+      result:
+        amount: 1
+        item: zcrops:yuccaseeditem
+      shapeless: true
+    zucchiniseeditem:
+      enabled: true
+      ingredients:
+        A: zcrops:zucchiniitem
+      result:
+        amount: 1
+        item: zcrops:zucchiniseeditem
+      shapeless: true
