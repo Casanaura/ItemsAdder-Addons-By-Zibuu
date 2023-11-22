@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "neofishing:item/neptunium_axe"
+    }
+}

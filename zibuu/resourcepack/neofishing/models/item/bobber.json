@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "neofishing:item/bobber_overlay",
+        "layer1": "neofishing:item/bobber"
+    }
+}
