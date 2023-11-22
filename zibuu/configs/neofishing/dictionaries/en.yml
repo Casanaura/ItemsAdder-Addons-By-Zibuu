@@ -1,0 +1,78 @@
+#   CREDITS:
+#
+#   Translated by: Kissadere
+#   Twitter: @Kissadere
+#   E-mail: kissadere@zibuu.net
+#   Website: https://zibuu.net
+#   Discord: https://discord.gg/wFAuMs7W2V
+#
+info:
+    namespace: neofishing
+    dictionary-lang: "en"
+dictionary:
+    # Categories and lore
+    display-category-name-neofishing: 'Neofising'
+    display-lore-category-name-neofishing: '&8Neofishing'
+    # Cosos que se pueden pescar
+    display-name-algae: "Algae"
+    display-name-arapaima: "Arapaima"
+    display-name-arrauturtle: "Arrau turtle"
+    display-name-atlanticcod: "Atlantic cod"
+    display-name-atlantichalibut: "Atlantic Halibut"
+    display-name-atlanticherring: "Atlantic Herring"
+    display-name-bayad: "Bayad"
+    display-name-blackfish: "Blackfish"
+    display-name-bluegill: "Blue gill"
+    display-name-boulti: "Boulti"
+    display-name-boxturtle: "Box turtle"
+    display-name-brownshrooma: "Brown shrooma"
+    display-name-browntrout: "Brown trout"
+    display-name-capitaine: "Capitaine"
+    display-name-carp: "Carp"
+    display-name-catfish: "Catfish"
+    display-name-driftwood: "Drift wood"
+    display-name-fishbones: "Fish bones"
+    display-name-fishfilletcooked: "Fish fillet cooked"
+    display-name-fishfilletraw: "Fish fillet raw"
+    display-name-gar: "Gar"
+    display-name-goldfish: "Gold fish"
+    display-name-jellyfish: "Jellyfish"
+    display-name-leech: "Leech"
+    display-name-messageinabottle: "Message in a bottle"
+    display-name-minnow: "Minnow"
+    display-name-muskellunge: "Muskellunge"
+    display-name-pacifichalibut: "Pacific halibut"
+    display-name-perch: "Perch"
+    display-name-pinksalmon: "Pink salmon"
+    display-name-piranha: "Piranha"
+    display-name-pollock: "Pollock"
+    display-name-rainbowtrout: "Rainbow trout"
+    display-name-redgrouper: "Red grouper"
+    display-name-redshrooma: "Red shrooma"
+    display-name-smallmouthbass: "Smallmouth bass"
+    display-name-starshellturtle: "Startshell turtle"
+    display-name-synodontis: "Synodontis"
+    display-name-tambaqui: "Tambaqui"
+    display-name-tincan: "Tin can"
+    display-name-treasurechest: "Treasure chest"
+    display-name-tuna: "Tuna"
+    # Cosos de neptunium
+    display-name-neptuniumingot: "Neptunium ingot"
+    display-name-neptuniumnugget: "Neptunium nugget"
+    display-name-neptuniumboots: "Neptunium boots"
+    display-name-neptuniumchestplate: "Neptunium chestplace"
+    display-name-neptuniumleggings: "Neptunium leggings"
+    display-name-neptuniumaxe: "Neptunium axe"
+    display-name-neptuniumhoe: "Neptunium hoe"
+    display-name-neptuniumpickaxe: "Neptunium pickaxe"
+    display-name-neptuniumshovel: "Neptunium shovel"
+    display-name-neptuniumbow: "Neptunium bow"
+    display-name-neptuniumfishingrod: "Neptunium fishing rod"
+    # Cañas de pescar y anzuelos
+    display-name-diamondfishingrod: "Diamond fishing rod"
+    display-name-diamondhook: "Diamond hook"
+    display-name-goldfishingrod: "Gold fishing rod"
+    display-name-goldhook: "Gold hook"
+    display-name-ironfishingrod: "Iron fishing rod"
+    display-name-ironhook: "Iron hook"
+    display-name-netherstarhook: "Nether star hook"

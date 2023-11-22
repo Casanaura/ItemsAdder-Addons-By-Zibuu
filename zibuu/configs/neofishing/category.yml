@@ -1,0 +1,76 @@
+info:
+  namespace: neofishing
+
+categories:
+  neofishing:
+    enabled: true
+    name: display-category-name-neofishing
+    icon: neofishing:jellyfish
+    items:
+    # Cosos que se pueden pescar
+    - neofishing:algae
+    - neofishing:arapaima
+    - neofishing:arrauturtle
+    - neofishing:atlanticcod
+    - neofishing:atlatichalibut
+    - neofishing:atlanticherring
+    - neofishing:bayad
+    - neofishing:blackfish
+    - neofishing:bluegill
+    - neofishing:boulti
+    - neofishing:boxturtle
+    - neofishing:brownshrooma
+    - neofishing:browntrout
+    - neofishing:capitaine
+    - neofishing:carp
+    - neofishing:catfish
+    - neofishing:driftwood
+    - neofishing:fishbones
+    - neofishing:fishfilletcooked
+    - neofishing:fishfilletraw
+    - neofishing:gar
+    - neofishing:goldfish
+    - neofishing:jellyfish
+    - neofishing:leech
+    - neofishing:messageinabottle
+    - neofishing:minnow
+    - neofishing:muskellunge
+    - neofishing:pacifichalibut
+    - neofishing:perch
+    - neofishing:pinksalmon
+    - neofishing:piranha
+    - neofishing:pollock
+    - neofishing:rainbowtrout
+    - neofishing:redgrouper
+    - neofishing:redshrooma
+    - neofishing:smallmouthbass
+    - neofishing:starshellturtle
+    - neofishing:synodontis
+    - neofishing:tambaqui
+    - neofishing:tincan
+    - neofishing:treasurechest
+    - neofishing:tuna
+    # Neptunium
+    - neofishing:neptuniumingot
+    - neofishing:neptuniumnugget
+    # Armaduras
+    - neofishing:neptuniumboots
+    - neofishing:neptuniumchestplate
+    - neofishing:neptuniumhelmet
+    - neofishing:neptuniumleggings
+    # Herramientas
+    - neofishing:neptuniumaxe
+    - neofishing:neptuniumhoe
+    - neofishing:neptuniumpickaxe
+    - neofishing:neptuniumshovel
+    - neofishing:neptuniumsword
+    - neofishing:neptuniumbow
+    - neofishing:neptuniumfishingrod
+    # Cañas de pescar y anzuelos
+    - neofishing:diamondfishingrod
+    - neofishing:diamondhook
+    - neofishing:goldfishingrod
+    - neofishing:goldhook
+    - neofishing:ironfishingrod
+    - neofishing:ironhook
+    - neofishing:netherstarhook

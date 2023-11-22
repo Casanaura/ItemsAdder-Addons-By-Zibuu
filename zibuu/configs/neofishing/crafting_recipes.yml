@@ -1,0 +1,764 @@
+info:
+  namespace: neofishing
+
+recipes:
+  crafting_table:
+    algae:
+      enabled: true
+      ingredients:
+        A: neofishing:algae
+      result:
+        amount: 1
+        item: DRIED_KELP
+      shapeless: true
+
+    arrauturtle:
+      enabled: true
+      ingredients:
+        A: neofishing:arrauturtle
+      result:
+        amount: 1
+        item: SCUTE
+      shapeless: true
+
+    boxturtle:
+      enabled: true
+      ingredients:
+        A: neofishing:boxturtle
+      result:
+        amount: 1
+        item: SCUTE
+      shapeless: true
+
+    driftwood:
+      enabled: true
+      ingredients:
+        A: neofishing:driftwood
+      result:
+        amount: 4
+        item: OAK_PLANKS
+
+    fishbones:
+      enabled: true
+      ingredients:
+        A: neofishing:fishbones
+      result:
+        amount: 1
+        item: BONE_MEAL
+
+    jellyfish:
+      enabled: true
+      ingredients:
+        A: neofishing:jellyfish
+      result:
+        amount: 1
+        item: SLIME_BALL
+      shapeless: true
+
+    starshellturtle:
+      enabled: true
+      ingredients:
+        A: neofishing:starshellturtle
+      result:
+        amount: 1
+        item: SCUTE
+      shapeless: true
+
+    tincan:
+      enabled: true
+      ingredients:
+        A: neofishing:tincan
+      result:
+        amount: 1
+        item: IRON_INGOT
+      shapeless: true
+
+    treasurechest:
+      enabled: true
+      ingredients:
+        A: neofishing:treasurechest
+      result:
+        amount: 1
+        item: NETHERITE_BLOCK
+      shapeless: true
+
+    #
+    # Recetas para el filete
+    # 
+    # Borra esto (o comentalo) si no tienes el add-on de
+    # GourmetLife, de lo contrario
+    # estos cfrafteos no van a funcionar
+    #
+    # Descargalo de aquí: https://studio.zibuu.net/gourmetlife-addon
+    #
+    arapaima:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:arapaima
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    atlanticcod:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:atlanticcod
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    atlantichalibut:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:atlantichalibut
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    atlanticherring:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:atlanticherring
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    bayad:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:bayad
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    blackfish:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:blackfish
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    bluegill:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:bluegill
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    boulti:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:boulti
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    brownshrooma:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:brownshrooma
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    browntrout:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:browntrout
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    capitaine:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:capitaine
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    carp:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:carp
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    gar:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:gar
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    goldfish:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:goldfish
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    minnow:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:minnow
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    muskellunge:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:muskellunge
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    pacifichalibut:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:pacifichalibut
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    perch:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:perch
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    pinksalmon:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:pinksalmon
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    piranha:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:piranha
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    pollock:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:pollock
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    rainbowtrout:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:rainbowtrout
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    redgrouper:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:redgrouper
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    redshrooma:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:redshrooma
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    smallmouthbass:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:smallmouthbass
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    synodontis:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:synodontis
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    tambaqui:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:tambaqui
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    tuna:
+      enabled: true
+      ingredients:
+        A: zfood:cuttingboarditem
+        B: neofishing:tuna
+      result:
+        amount: 1
+        item: neofishing:fishfilletraw
+      shapeless: true
+      return_items:
+        decrement_durability:
+          cuttingboard:
+            item: zfood:cuttingboarditem
+            amount: 1
+    # Fin de recetas de filete
+    # Borra (o comenta) hasta aquí
+
+    # Neptunium
+    neptuniumingot:
+      enabled: true
+      pattern:
+      - AAA
+      - AAA
+      - AAA
+      ingredients:
+        A: neofishing:neptuniumnugget
+      result:
+        amount: 1
+        item: neofishing:neptuniumingot
+    neptuniumnugget:
+      enabled: true
+      ingredients:
+        A: neofishing:neptuniumingot
+      result:
+        amount: 9
+        item: neofishing:neptuniumnugget
+      shapeless: true
+    # Armadura
+    neptuniumboots:
+      enabled: true
+      pattern:
+      - AXA
+      - AXA
+      - XXX
+      pattern_2:
+      - XXX
+      - AXA
+      - AXA
+      ingredients:
+        A: neofishing:neptuniumingot
+      result:
+        amount: 1
+        item: neofishing:neptuniumboots
+    neptuniumchestplate:
+      enabled: true
+      pattern:
+      - AXA
+      - AAA
+      - AAA
+      ingredients:
+        A: neofishing:neptuniumingot
+      result:
+        amount: 1
+        item: neofishing:neptuniumchestplate
+    neptuniumhelmet:
+      enabled: true
+      pattern:
+      - AAA
+      - AXA
+      - XXX
+      ingredients:
+        A: neofishing:neptuniumingot
+      result:
+        amount: 1
+        item: neofishing:neptuniumhelmet
+    neptuniumleggings:
+      enabled: true
+      pattern:
+      - AAA
+      - AXA
+      - AXA
+      ingredients:
+        A: neofishing:neptuniumingot
+      result:
+        amount: 1
+        item: neofishing:neptuniumleggings
+    # Herramientas
+    neptuniumaxe:
+      enabled: true
+      pattern:
+      - AAX
+      - ABX
+      - XBX
+      pattern_2:
+      - XAA
+      - XBA
+      - XBX
+      ingredients:
+        A: neofishing:neptuniumingot
+        B: STICK
+      result:
+        amount: 1
+        item: neofishing:neptuniumaxe
+    neptuniumhoe:
+      enabled: true
+      pattern:
+      - AAX
+      - XBX
+      - XBX
+      pattern_2:
+      - XAA
+      - XBX
+      - XBX
+      ingredients:
+        A: neofishing:neptuniumingot
+        B: STICK
+      result:
+        amount: 1
+        item: neofishing:neptuniumhoe
+    neptuniumpickaxe:
+      enabled: true
+      pattern:
+      - AAA
+      - XBX
+      - XBX
+      ingredients:
+        A: neofishing:neptuniumingot
+        B: STICK
+      result:
+        amount: 1
+        item: neofishing:neptuniumpickaxe
+    neptuniumshovel:
+      enabled: true
+      pattern:
+      - XAX
+      - XBX
+      - XBX
+      ingredients:
+        A: neofishing:neptuniumingot
+        B: STICK
+      result:
+        amount: 1
+        item: neofishing:neptuniumshovel
+    neptuniumsword:
+      enabled: true
+      pattern:
+      - XAX
+      - XAX
+      - XBX
+      ingredients:
+        A: neofishing:neptuniumingot
+        B: STICK
+      result:
+        amount: 1
+        item: neofishing:neptuniumsword
+    neptuniumbow:
+      enabled: true
+      pattern:
+      - XBC
+      - BAA
+      - XBC
+      pattern_2:
+      - CBX
+      - AAB
+      - CBX
+      ingredients:
+        A: neofishing:neptuniumingot
+        B: STICK
+        C: STRING
+      result:
+        amount: 1
+        item: neofishing:neptuniumbow
+    # Cañas y anzuelos
+    neptuniumfishingrod:
+      enabled: true
+      pattern:
+      - XXA
+      - XAC
+      - BXD
+      pattern_2:
+      - AXX
+      - CAX
+      - DXB
+      ingredients:
+        A: neofishing:neptuniumingot
+        B: STICK
+        C: STRING
+        D: neofishing:netherstarhook
+      result:
+        amount: 1
+        item: neofishing:neptuniumfishingrod
+    diamondfishingrod:
+      enabled: true
+      pattern:
+      - XXA
+      - XAC
+      - BXD
+      pattern_2:
+      - AXX
+      - CAX
+      - DXB
+      ingredients:
+        A: DIAMOND
+        B: STICK
+        C: STRING
+        D: neofishing:diamondhook
+      result:
+        amount: 1
+        item: neofishing:diamondfishingrod
+    diamondhook:
+      enabled: true
+      pattern:
+      - XBX
+      - BAB
+      - XBX
+      ingredients:
+        A: neofishing:ironhook
+        B: DIAMOND
+      result:
+        amount: 1
+        item: neofishing:diamondhook
+    goldfishingrod:
+      enabled: true
+      pattern:
+      - XXA
+      - XAC
+      - BXD
+      pattern_2:
+      - AXX
+      - CAX
+      - DXB
+      ingredients:
+        A: GOLD_INGOT
+        B: STICK
+        C: STRING
+        D: neofishing:goldhook
+      result:
+        amount: 1
+        item: neofishing:goldfishingrod
+    goldhook:
+      enabled: true
+      pattern:
+      - XBX
+      - BAB
+      - XBX
+      ingredients:
+        A: neofishing:ironhook
+        B: GOLD_INGOT
+      result:
+        amount: 1
+        item: neofishing:goldhook
+    ironfishingrod:
+      enabled: true
+      pattern:
+      - XXA
+      - XAC
+      - BXD
+      pattern_2:
+      - AXX
+      - CAX
+      - DXB
+      ingredients:
+        A: IRON_INGOT
+        B: STICK
+        C: STRING
+        D: neofishing:ironhook
+      result:
+        amount: 1
+        item: neofishing:ironfishingrod
+    ironhook:
+      enabled: true
+      pattern:
+      - XXA
+      - AXA
+      - XAX
+      pattern_2:
+      - AXX
+      - AXA
+      - XAX
+      ingredients:
+        A: IRON_INGOT
+      result:
+        amount: 1
+        item: neofishing:ironhook
+    netherstarhook:
+      enabled: true
+      ingredients:
+        A: neofishing:diamondhook
+        B: DIAMOND
+      result:
+        amount: 1
+        item: neofishing:netherstarhook
+      shapeless: true

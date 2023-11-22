@@ -1,0 +1,16 @@
+info:
+  namespace: neofishing
+
+recipes:
+  cooking:
+    fishfilletcooked:
+      ingredients:
+        item: neofishing:fishfilletraw
+      machines:
+      - FURNACE
+      - SMOKER
+      exp: 20
+      cook_time: 200
+      result:
+        item: neofishing:fishfilletcooked
+        amount: 1

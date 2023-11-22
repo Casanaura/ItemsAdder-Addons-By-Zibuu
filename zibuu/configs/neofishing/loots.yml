@@ -1,0 +1,228 @@
+info:
+  namespace: neofishing
+# Plantilla
+#    itemName:
+#      items:
+#        itemName:
+#          item: neofishing:itemName
+#          min_amount: 1
+#          max_amount: 1
+#          chance: 50.0
+loots:
+  fishing:
+    fish:
+      items:
+        arapaima:
+          item: neofishing:arapaima
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        arrauturtle:
+          item: neofishing:arrauturtle
+          min_amount: 1
+          max_amount: 1
+          chance: 0.1
+        atlanticcod:
+          item: neofishing:atlanticcod
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        atlantichalibut:
+          item: neofishing:atlantichalibut
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        atlanticherring:
+          item: neofishing:atlanticherring
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        bayad:
+          item: neofishing:bayad
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        blackfish:
+          item: neofishing:blackfish
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        bluegill:
+          item: neofishing:bluegill
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        boulti:
+          item: neofishing:boulti
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        boxturtle:
+          item: neofishing:boxturtle
+          min_amount: 1
+          max_amount: 1
+          chance: 0.1
+        brownshrooma:
+          item: neofishing:brownshrooma
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        browntrout:
+          item: neofishing:browntrout
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        capitaine:
+          item: neofishing:capitaine
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        carp:
+          item: neofishing:carp
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        catfish:
+          item: neofishing:catfish
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        gar:
+          item: neofishing:gar
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        goldfish:
+          item: neofishing:goldfish
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        jellyfish:
+          item: neofishing:jellyfish
+          min_amount: 1
+          max_amount: 1
+          chance: 10.0
+        minnow:
+          item: neofishing:minnow
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        muskellunge:
+          item: neofishing:muskellunge
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        pacifichalibut:
+          item: neofishing:pacifichalibut
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        perch:
+          item: neofishing:perch
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        pinksalmon:
+          item: neofishing:pinksalmon
+          min_amount: 1
+          max_amount: 1
+          chance: 0.5
+        piranha:
+          item: neofishing:piranha
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        pollock:
+          item: neofishing:pollock
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        rainbowtrout:
+          item: neofishing:rainbowtrout
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        redgrouper:
+          item: neofishing:redgrouper
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        redshrooma:
+          item: neofishing:redshrooma
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        smallmouthbass:
+          item: neofishing:smallmouthbass
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        starshellturtle:
+          item: neofishing:starshellturtle
+          min_amount: 1
+          max_amount: 1
+          chance: 0.1
+        synodontis:
+          item: neofishing:synodontis
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        tambaqui:
+          item: neofishing:tambaqui
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        tuna:
+          item: neofishing:tuna
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+    nonfish:
+      items:
+        algae:
+          item: neofishing:algae
+          min_amount: 1
+          max_amount: 1
+          chance: 80.0
+        driftwood:
+          item: neofishing:driftwood
+          min_amount: 1
+          max_amount: 1
+          chance: 80.0
+        fishbones:
+          item: neofishing:fishbones
+          min_amount: 1
+          max_amount: 1
+          chance: 70.0
+        leech:
+          item: neofishing:leech
+          min_amount: 1
+          max_amount: 1
+          chance: 50.0
+        messageinabottle:
+          item: neofishing:messageinabottle
+          min_amount: 1
+          max_amount: 1
+          chance: 0.5
+        tincan:
+          item: neofishing:tincan
+          min_amount: 1
+          max_amount: 1
+          chance: 5.0
+        treasurechest:
+          item: neofishing:treasurechest
+          min_amount: 1
+          max_amount: 1
+          chance: 0.1
+    neptunium:
+      items:
+        neptuniumingot:
+          item: neofishing:neptuniumingot
+          min_amount: 1
+          max_amount: 2
+          chance: 1.0
+        neptuniumnugget:
+          item: neofishing:neptuniumnugget
+          min_amount: 1
+          max_amount: 3
+          chance: 1.0
