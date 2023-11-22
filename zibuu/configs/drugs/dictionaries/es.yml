@@ -9,6 +9,10 @@ info:
     namespace: drugs
     dictionary-lang: "es"
 dictionary:
+    # Categories and lore
+    display-category-name-drugs: 'Sustancias estupefacientes'
+    display-lore-category-name-drugs: '&8Sustancias estupefacientes'
+    # Items
     display-name-cocaineseed: "Semilla de coca"
     display-name-cocaineleaf: "Hoja de coca"
     display-name-cocaine: "Cocaína"

@@ -9,6 +9,10 @@ info:
     namespace: drugs
     dictionary-lang: "en"
 dictionary:
+    # Categories and lore
+    display-category-name-drugs: 'Psychetropic Substances'
+    display-lore-category-name-drugs: '&8Psychetropic substances'
+    # Items
     display-name-cocaineseed: "Cocaine seed"
     display-name-cocaineleaf: "Cocaine leaf"
     display-name-cocaine: "Cocaine"

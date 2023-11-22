@@ -1,0 +1,61 @@
+info:
+  namespace: drugs
+
+items:
+  cocaineseed:
+    display_name: display-name-cocaineseed
+    lore:
+    - '&f'
+    - 'display-lore-category-name-drugs'
+    resource:
+      generate: true
+      material: WHEAT_SEEDS
+      textures:
+      - item/drugs/cocaine_seed.png
+    specific_properties:
+      seed:
+        crop_block: SWEET_BERRY_BUSH
+        results:
+          result_1:
+            item: drugs:cocaineleaf
+            min_amount: 1
+            max_amount: 1
+            chance: 5
+  weedseed:
+    display_name: display-name-weedseed
+    lore:
+    - '&f'
+    - 'display-lore-category-name-drugs'
+    resource:
+      generate: true
+      material: WHEAT_SEEDS
+      textures:
+      - item/drugs/hemp_seed.png
+    specific_properties:
+      seed:
+        crop_block: SWEET_BERRY_BUSH
+        results:
+          result_1:
+            item: drugs:weedleaf
+            min_amount: 1
+            max_amount: 1
+            chance: 5
+  lsaseed:
+    display_name: display-name-lsaseed
+    lore:
+    - '&f'
+    - 'display-lore-category-name-drugs'
+    resource:
+      generate: true
+      material: WHEAT_SEEDS
+      textures:
+      - item/drugs/lsa_seeds.png
+    specific_properties:
+      seed:
+        crop_block: SWEET_BERRY_BUSH
+        results:
+          result_1:
+            item: drugs:lsapowder
+            min_amount: 1
+            max_amount: 1
+            chance: 5

@@ -1,0 +1,200 @@
+info:
+  namespace: drugs
+
+recipes:
+  crafting_table:
+# Cocaina
+    cocainepackage:
+      enabled: true
+      pattern:
+      - BBB
+      - BAB
+      - BBB
+      ingredients:
+        A: SLIME_BALL
+        B: drugs:cocaine
+      result:
+        amount: 1
+        item: drugs:cocainepackage
+    cocaine:
+      enabled: true
+      ingredients:
+        A: drugs:cocainepackage
+      result:
+        amount: 8
+        item: drugs:cocaine
+      shapeless: true
+
+# Marihuana
+    weedpackage:
+      enabled: true
+      pattern:
+      - BBB
+      - BAB
+      - BBB
+      ingredients:
+        A: SLIME_BALL
+        B: drugs:weedleaf
+      result:
+        amount: 1
+        item: drugs:weedpackage
+    weed:
+      enabled: true
+      ingredients:
+        A: drugs:weedpackage
+      result:
+        amount: 8
+        item: drugs:weedleaf
+      shapeless: true
+    joint:
+      enabled: true
+      pattern:
+      - BBB
+      - AAC
+      - BBB
+      ingredients:
+        A: drugs:weedleaf
+        B: PAPER
+        C: FLINT_AND_STEEL
+      result:
+        amount: 1
+        item: drugs:joint
+
+# Tabaco
+    tobacco:
+      enabled: true
+      shapeless: true
+      ingredients:
+        A: drugs:driedtobaccoleaf
+      result:
+        amount: 1
+        item: drugs:tobacco
+    cigarette:
+      enabled: true
+      pattern:
+      - CCB
+      - AAA
+      ingredients:
+        A: PAPER
+        B: drugs:filter
+        C: drugs:driedtobaccoleaf
+      result:
+        amount: 1
+        item: drugs:cigarette
+    cigar:
+      enabled: true
+      pattern:
+      - AAA
+      - CCB
+      - AAA
+      ingredients:
+        A: PAPER
+        B: drugs:filter
+        C: drugs:driedtobaccoleaf
+      result:
+        amount: 1
+        item: drugs:cigar
+
+# Peyote
+    peyoteslice:
+      enabled: true
+      shapeless: true
+      ingredients:
+        A: drugs:peyote
+      result:
+        amount: 3
+        item: drugs:peyoteslice
+
+# LSD/LSA
+    lsapowder:
+      enabled: true
+      shapeless: true
+      ingredients:
+        A: drugs:lsaseed
+      result:
+        amount: 1
+        item: drugs:lsapowder
+    pipewithlsa:
+      enabled: true
+      shapeless: true
+      ingredients:
+        A: drugs:lsapowder
+        B: drugs:emptypipe
+      result:
+        amount: 1
+        item: drugs:pipewithlsa
+    lsdblotter:
+      enabled: true
+      pattern:
+      - ABA
+      - BCB
+      - ADA
+      ingredients:
+        A: RED_DYE
+        B: YELLOW_DYE
+        C: PAPER
+        D: drugs:lsakohresidue
+      result:
+        amount: 1
+        item: drugs:lsdblotter
+
+# Píldoras
+# 
+# NOTA:
+# Aún no sé como se hacen estos items en vida real,
+# por lo mientras usaremos estrellas de nether
+# pues son algo difíciles de conseguir.
+# Más a futuro cambiaré el crafteo con otros items
+# de droga para que sea más realista.
+# Por defecto DESACTIVÉ los crafteos, tu decides si los activas o no.
+# 
+    cbpill:
+      enabled: false
+      pattern:
+      - BAB
+      - ACA
+      - BAB
+      ingredients:
+        A: NETHER_STAR
+        B: EGG
+        C: PINK_DYE
+      result:
+        amount: 1
+        item: drugs:cbpill
+    mdmapill:
+      enabled: false
+      pattern:
+      - BAB
+      - ACA
+      - BAB
+      ingredients:
+        A: NETHER_STAR
+        B: EGG
+        C: PURPLE_DYE
+      result:
+        amount: 1
+        item: drugs:mdmapill
+
+# Misceláneos
+    emptypipe:
+      enabled: true
+      pattern:
+      - BBA
+      - AAA
+      ingredients:
+        A: GLASS
+        B: WHITE_WOOL
+      result:
+        amount: 1
+        item: drugs:emptypipe
+    filter:
+      enabled: true
+      pattern:
+      - ABC
+      ingredients:
+        A: WHITE_CARPET
+        B: LEATHER
+        C: PAPER
+      result:
+        amount: 1
+        item: drugs:filter
