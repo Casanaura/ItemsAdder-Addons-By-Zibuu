@@ -30,7 +30,7 @@ If you're a mod developer who wants to get their mods ported into plug-.in confi
 ### Guides
 <ul>
   <li><a href="https://studio.zibuu.net/wiki/gourmet-life/">Gourmet Life Add-On</a></li>
-  <li><a href="https://studio.zibuu.net/wiki/aquaculture/">Aquaculture Add-On</a></li>
+  <li><a href="https://studio.zibuu.net/wiki/neofishing/">Neofishing Add-On</a></li>
 </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
