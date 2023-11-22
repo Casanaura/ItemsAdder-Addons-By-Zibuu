@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "neofishing:item/lower_bucket",
+        "layer1": "neofishing:item/bucket_content/rainbow_trout"
+    }
+}
